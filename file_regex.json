@@ -1,0 +1,44 @@
+{
+    "SystemConfigFile": [
+        "(?i)^[C-Z]:[/\\\\]Windows[/\\\\]System32[/\\\\]GroupPolicy[/\\\\]?",
+        "(?i)^[C-Z]:[/\\\\]Windows[/\\\\]System32[/\\\\]drivers[/\\\\]etc[/\\\\]?"
+    ],
+    "SystemCoreFile": [
+        "(?i)^[C-Z]:[/\\\\]Windows[/\\\\]?",
+        "(?i)^[C-Z]:[/\\\\]Windows[/\\\\]System32[/\\\\]?",
+        "(?i)^[C-Z]:[/\\\\]Windows[/\\\\]SysWOW64[/\\\\]?"
+
+    ],
+    "SystemSpoolFile": [
+        "(?i)^[C-Z]:[/\\\\]Windows[/\\\\]System32[/\\\\]spool[/\\\\]PRINTERS[/\\\\]?"
+    ],
+    "SystemTemporaryFile": [
+        "(?i)^[C-Z]:[/\\\\]Windows[/\\\\]Temp[/\\\\]?"
+    ],
+    "ApplicationDataOrConfigFile": [
+        "(?i)^[C-Z]:[/\\\\]ProgramData[/\\\\]?"
+
+    ],
+    "ApplicationProgramFile": [
+        "(?i)^[C-Z]:[/\\\\]Program Files[/\\\\]?",
+        "(?i)^[C-Z]:[/\\\\]Program Files \\(x86\\)[/\\\\]?",
+        "(?i)^[C-Z]:[/\\\\]Program Files[/\\\\]Common Files[/\\\\]?",
+        "(?i)^[C-Z]:[/\\\\]Program Files \\(x86\\)[/\\\\]Common Files[/\\\\]?"
+    ],
+    "PersistenceFile": [
+        "(?i)^[C-Z]:[/\\\\]Windows[/\\\\]System32[/\\\\]Tasks[/\\\\]?"
+    ],
+    "UserTemporaryFile": [
+        "(?i)^[C-Z]:[/\\\\]Users[/\\\\][^/\\\\]+[/\\\\]AppData[/\\\\]Local[/\\\\]Temp[/\\\\]?"
+    ],
+    "PublicUserDataFile": [
+        "(?i)^[C-Z]:[/\\\\]Users[/\\\\][^/\\\\]+[/\\\\]?",
+        "(?i)^[C-Z]:[/\\\\]Users[/\\\\][^/\\\\]+[/\\\\]AppData[/\\\\]Roaming[/\\\\]?",
+        "(?i)^[C-Z]:[/\\\\]Users[/\\\\][^/\\\\]+[/\\\\]AppData[/\\\\]Local[/\\\\]?",
+        "(?i)^[C-Z]:[/\\\\]Users[/\\\\][^/\\\\]+[/\\\\]AppData[/\\\\]LocalLow[/\\\\]?",
+        "(?i)^[C-Z]:[/\\\\]Users[/\\\\][^/\\\\]+[/\\\\]Documents[/\\\\]?",
+        "(?i)^[C-Z]:[/\\\\]Users[/\\\\][^/\\\\]+[/\\\\]Downloads[/\\\\]?",
+        "(?i)^[C-Z]:[/\\\\]Users[/\\\\][^/\\\\]+[/\\\\]Desktop[/\\\\]?",
+        "(?i)^[C-Z]:[/\\\\]Users[/\\\\]Public[/\\\\]?"
+    ]
+}
