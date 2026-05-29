@@ -1,0 +1,58 @@
+[
+    {
+        "type": "FileHandle (16)",
+        "path": "C:\\Windows"
+    },
+    {
+        "type": "FileHandle (20)",
+        "path": "%WINDIR%\\System32\\wow64cpu.dll"
+    },
+    {
+        "type": "FileHandle (28)",
+        "path": "C:\\"
+    },
+    {
+        "type": "FileHandle (44)",
+        "path": "%WINDIR%\\SysWOW64\\ktmw32.dll"
+    },
+    {
+        "type": "FileHandle (76)",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll"
+    },
+    {
+        "type": "FileHandle (100)",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\schtasks.exe.mui"
+    },
+    {
+        "type": "FileHandle (144)",
+        "path": "%WINDIR%\\Globalization\\Sorting\\SortDefault.nls"
+    },
+    {
+        "type": "FileHandle (152)",
+        "path": "\\Device\\KsecDD"
+    },
+    {
+        "type": "FileHandle (156)",
+        "path": "%WINDIR%\\SysWOW64\\uxtheme.dll"
+    },
+    {
+        "type": "FileHandle (172)",
+        "path": "\\FileSystem\\Filters\\FltMgrMsg"
+    },
+    {
+        "type": "FileHandle (176)",
+        "path": "%WINDIR%\\Temp\\VxSSL32.dll"
+    },
+    {
+        "type": "FileHandle (280)",
+        "path": "%WINDIR%\\Registration\\R00000000000c.clb"
+    },
+    {
+        "type": "FileHandle (288)",
+        "path": "%WINDIR%\\SysWOW64\\taskschd.dll"
+    },
+    {
+        "type": "FileHandle (296)",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\KernelBase.dll.mui"
+    }
+]

@@ -1,0 +1,3643 @@
+[
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\OID\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\OID\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\OID\\ENCODINGTYPE 0\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\OID\\ENCODINGTYPE 0\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\OID\\ENCODINGTYPE 0\\SCHEMEDLLRETRIEVEENCODEDOBJECTW\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\OID\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\OID\\ENCODINGTYPE 1\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\OID\\ENCODINGTYPE 1\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\OID\\ENCODINGTYPE 1\\SCHEMEDLLRETRIEVEENCODEDOBJECTW\\",
+            "Key": "",
+            "Status": "STATUS_NO_MORE_ENTRIES (8000001a)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WINHTTP\\TRACING\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WINHTTP\\TRACING\\ENABLED",
+            "Key": "ENABLED",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\SHARECREDSWITHWINHTTP",
+            "Key": "SHARECREDSWITHWINHTTP",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WINHTTP\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WINHTTP\\DEFAULTSECUREPROTOCOLS",
+            "Key": "DEFAULTSECUREPROTOCOLS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WINHTTP\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WINHTTP\\DISABLEBRANCHCACHE",
+            "Key": "DISABLEBRANCHCACHE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WINHTTP\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WINHTTP\\AUTOPROXYAUTOLOGONIFCHALLENGED",
+            "Key": "AUTOPROXYAUTOLOGONIFCHALLENGED",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WINHTTP\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WINHTTP\\ALLOWONLYDNSQUERYFORWPAD",
+            "Key": "ALLOWONLYDNSQUERYFORWPAD",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\SQMCLIENT\\WINDOWS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\SQMCLIENT\\WINDOWS\\CEIPENABLE",
+            "Key": "CEIPENABLE"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\WINSOCK_REGISTRY_VERSION",
+            "Key": "WINSOCK_REGISTRY_VERSION"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\WINSOCK_REGISTRY_VERSION",
+            "Key": "WINSOCK_REGISTRY_VERSION"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\APPID_CATALOG\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\APPID_CATALOG\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\APPID_CATALOG\\060B6851-2A6330CC\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\APPID_CATALOG\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\APPID_CATALOG\\060B6851\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CALLOUT",
+            "Key": "NAMESPACE_CALLOUT"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CALLOUT",
+            "Key": "NAMESPACE_CALLOUT"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\SERIAL_ACCESS_NUM",
+            "Key": "SERIAL_ACCESS_NUM"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\SERIAL_ACCESS_NUM",
+            "Key": "SERIAL_ACCESS_NUM"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\00000006\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\NEXT_CATALOG_ENTRY_ID",
+            "Key": "NEXT_CATALOG_ENTRY_ID"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\NUM_CATALOG_ENTRIES",
+            "Key": "NUM_CATALOG_ENTRIES"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000001\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000001\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000002\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000002\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000002\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000003\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000003\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000003\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000004\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000004\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000004\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000005\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000005\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000005\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000006\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000006\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000006\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000007\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000007\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000007\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000008\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000008\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000008\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000009\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000009\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000009\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000010\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000010\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000010\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000011\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000011\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000011\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000012\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000012\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\PROTOCOL_CATALOG9\\CATALOG_ENTRIES\\000000000012\\PACKEDCATALOGITEM",
+            "Key": "PACKEDCATALOGITEM"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\SERIAL_ACCESS_NUM",
+            "Key": "SERIAL_ACCESS_NUM"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\SERIAL_ACCESS_NUM",
+            "Key": "SERIAL_ACCESS_NUM"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\00000028\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\NUM_CATALOG_ENTRIES",
+            "Key": "NUM_CATALOG_ENTRIES"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000001\\LIBRARYPATH",
+            "Key": "LIBRARYPATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000001\\LIBRARYPATH",
+            "Key": "LIBRARYPATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000001\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000001\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000001\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000001\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000001\\PROVIDERID",
+            "Key": "PROVIDERID"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000001\\ADDRESSFAMILY",
+            "Key": "ADDRESSFAMILY",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000001\\SUPPORTEDNAMESPACE",
+            "Key": "SUPPORTEDNAMESPACE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000001\\ENABLED",
+            "Key": "ENABLED"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000001\\VERSION",
+            "Key": "VERSION"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000001\\STORESSERVICECLASSINFO",
+            "Key": "STORESSERVICECLASSINFO"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000001\\PROVIDERINFO",
+            "Key": "PROVIDERINFO"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000001\\PROVIDERINFO",
+            "Key": "PROVIDERINFO"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000002\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000002\\LIBRARYPATH",
+            "Key": "LIBRARYPATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000002\\LIBRARYPATH",
+            "Key": "LIBRARYPATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000002\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000002\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000002\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000002\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000002\\PROVIDERID",
+            "Key": "PROVIDERID"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000002\\ADDRESSFAMILY",
+            "Key": "ADDRESSFAMILY",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000002\\SUPPORTEDNAMESPACE",
+            "Key": "SUPPORTEDNAMESPACE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000002\\ENABLED",
+            "Key": "ENABLED"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000002\\VERSION",
+            "Key": "VERSION"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000002\\STORESSERVICECLASSINFO",
+            "Key": "STORESSERVICECLASSINFO"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000002\\PROVIDERINFO",
+            "Key": "PROVIDERINFO"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000002\\PROVIDERINFO",
+            "Key": "PROVIDERINFO"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000003\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000003\\LIBRARYPATH",
+            "Key": "LIBRARYPATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000003\\LIBRARYPATH",
+            "Key": "LIBRARYPATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000003\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000003\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000003\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000003\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000003\\PROVIDERID",
+            "Key": "PROVIDERID"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000003\\ADDRESSFAMILY",
+            "Key": "ADDRESSFAMILY",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000003\\SUPPORTEDNAMESPACE",
+            "Key": "SUPPORTEDNAMESPACE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000003\\ENABLED",
+            "Key": "ENABLED"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000003\\VERSION",
+            "Key": "VERSION"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000003\\STORESSERVICECLASSINFO",
+            "Key": "STORESSERVICECLASSINFO"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000003\\PROVIDERINFO",
+            "Key": "PROVIDERINFO"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000003\\PROVIDERINFO",
+            "Key": "PROVIDERINFO"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000004\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000004\\LIBRARYPATH",
+            "Key": "LIBRARYPATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000004\\LIBRARYPATH",
+            "Key": "LIBRARYPATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000004\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000004\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000004\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000004\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000004\\PROVIDERID",
+            "Key": "PROVIDERID"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000004\\ADDRESSFAMILY",
+            "Key": "ADDRESSFAMILY",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000004\\SUPPORTEDNAMESPACE",
+            "Key": "SUPPORTEDNAMESPACE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000004\\ENABLED",
+            "Key": "ENABLED"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000004\\VERSION",
+            "Key": "VERSION"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000004\\STORESSERVICECLASSINFO",
+            "Key": "STORESSERVICECLASSINFO"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000004\\PROVIDERINFO",
+            "Key": "PROVIDERINFO"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000004\\PROVIDERINFO",
+            "Key": "PROVIDERINFO"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000005\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000005\\LIBRARYPATH",
+            "Key": "LIBRARYPATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000005\\LIBRARYPATH",
+            "Key": "LIBRARYPATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000005\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000005\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000005\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000005\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000005\\PROVIDERID",
+            "Key": "PROVIDERID"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000005\\ADDRESSFAMILY",
+            "Key": "ADDRESSFAMILY",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000005\\SUPPORTEDNAMESPACE",
+            "Key": "SUPPORTEDNAMESPACE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000005\\ENABLED",
+            "Key": "ENABLED"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000005\\VERSION",
+            "Key": "VERSION"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000005\\STORESSERVICECLASSINFO",
+            "Key": "STORESSERVICECLASSINFO"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000005\\PROVIDERINFO",
+            "Key": "PROVIDERINFO"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000005\\PROVIDERINFO",
+            "Key": "PROVIDERINFO"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000006\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000006\\LIBRARYPATH",
+            "Key": "LIBRARYPATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000006\\LIBRARYPATH",
+            "Key": "LIBRARYPATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000006\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000006\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000006\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000006\\DISPLAYSTRING",
+            "Key": "DISPLAYSTRING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000006\\PROVIDERID",
+            "Key": "PROVIDERID"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000006\\ADDRESSFAMILY",
+            "Key": "ADDRESSFAMILY",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000006\\SUPPORTEDNAMESPACE",
+            "Key": "SUPPORTEDNAMESPACE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000006\\ENABLED",
+            "Key": "ENABLED"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000006\\VERSION",
+            "Key": "VERSION"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000006\\STORESSERVICECLASSINFO",
+            "Key": "STORESSERVICECLASSINFO"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000006\\PROVIDERINFO",
+            "Key": "PROVIDERINFO"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\NAMESPACE_CATALOG5\\CATALOG_ENTRIES\\000000000006\\PROVIDERINFO",
+            "Key": "PROVIDERINFO"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\WS2_32NUMHANDLEBUCKETS",
+            "Key": "WS2_32NUMHANDLEBUCKETS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\WS2_32SPINCOUNT",
+            "Key": "WS2_32SPINCOUNT",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSAEXTENSIONCONFIG\\SSPICLI\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSAEXTENSIONCONFIG\\SSPICLI\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSAEXTENSIONCONFIG\\SSPICLI\\CHECKSIGNATUREDLL",
+            "Key": "CHECKSIGNATUREDLL"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSAEXTENSIONCONFIG\\SSPICLI\\CHECKSIGNATUREDLL",
+            "Key": "CHECKSIGNATUREDLL"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSAEXTENSIONCONFIG\\SSPICLI\\CHECKSIGNATUREDLL",
+            "Key": "CHECKSIGNATUREDLL"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSAEXTENSIONCONFIG\\SSPICLI\\CHECKSIGNATUREDLL",
+            "Key": "CHECKSIGNATUREDLL"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSAEXTENSIONCONFIG\\SSPICLI\\CHECKSIGNATUREROUTINE",
+            "Key": "CHECKSIGNATUREROUTINE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSAEXTENSIONCONFIG\\SSPICLI\\CHECKSIGNATUREROUTINE",
+            "Key": "CHECKSIGNATUREROUTINE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSAEXTENSIONCONFIG\\SSPICLI\\CHECKSIGNATUREROUTINE",
+            "Key": "CHECKSIGNATUREROUTINE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSAEXTENSIONCONFIG\\SSPICLI\\CHECKSIGNATUREROUTINE",
+            "Key": "CHECKSIGNATUREROUTINE"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SECURITYPROVIDERS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SECURITYPROVIDERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SECURITYPROVIDERS\\SECURITYPROVIDERS",
+            "Key": "SECURITYPROVIDERS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SECURITYPROVIDERS\\SECURITYPROVIDERS",
+            "Key": "SECURITYPROVIDERS"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSA\\SSPICACHE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSA\\SSPICACHE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSA\\SSPICACHE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSA\\SSPICACHE\\CREDSSP.DLL\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSA\\SSPICACHE\\CREDSSP.DLL\\NAME",
+            "Key": "NAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSA\\SSPICACHE\\CREDSSP.DLL\\NAME",
+            "Key": "NAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSA\\SSPICACHE\\CREDSSP.DLL\\COMMENT",
+            "Key": "COMMENT"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSA\\SSPICACHE\\CREDSSP.DLL\\COMMENT",
+            "Key": "COMMENT"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSA\\SSPICACHE\\CREDSSP.DLL\\CAPABILITIES",
+            "Key": "CAPABILITIES"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSA\\SSPICACHE\\CREDSSP.DLL\\RPCID",
+            "Key": "RPCID"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSA\\SSPICACHE\\CREDSSP.DLL\\VERSION",
+            "Key": "VERSION"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSA\\SSPICACHE\\CREDSSP.DLL\\TYPE",
+            "Key": "TYPE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSA\\SSPICACHE\\CREDSSP.DLL\\TOKENSIZE",
+            "Key": "TOKENSIZE"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SECURITYPROVIDERS\\SASLPROFILES\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SECURITYPROVIDERS\\SASLPROFILES\\",
+            "Key": "",
+            "Status": "STATUS_NO_MORE_ENTRIES (8000001a)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\CONNECTIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\CONNECTIONS\\WINHTTPSETTINGS",
+            "Key": "WINHTTPSETTINGS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\CONNECTIONS\\WINHTTPSETTINGS",
+            "Key": "WINHTTPSETTINGS"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\SQMCLIENT\\WINDOWS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\SQMCLIENT\\WINDOWS\\CEIPENABLE",
+            "Key": "CEIPENABLE"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK\\PARAMETERS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK\\PARAMETERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK\\PARAMETERS\\TRANSPORTS",
+            "Key": "TRANSPORTS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK\\PARAMETERS\\TRANSPORTS",
+            "Key": "TRANSPORTS"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\WINSOCK\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\WINSOCK\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\WINSOCK\\MAPPING",
+            "Key": "MAPPING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\WINSOCK\\MAPPING",
+            "Key": "MAPPING"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\WINSOCK\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\WINSOCK\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\WINSOCK\\MAPPING",
+            "Key": "MAPPING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\WINSOCK\\MAPPING",
+            "Key": "MAPPING"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK\\SETUP MIGRATION\\PROVIDERS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK\\SETUP MIGRATION\\PROVIDERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK\\SETUP MIGRATION\\PROVIDERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK\\SETUP MIGRATION\\PROVIDERS\\TCPIP\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK\\SETUP MIGRATION\\PROVIDERS\\TCPIP\\WINSOCK 2.0 PROVIDER ID",
+            "Key": "WINSOCK 2.0 PROVIDER ID"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\WINSOCK\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\WINSOCK\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\WINSOCK\\MINSOCKADDRLENGTH",
+            "Key": "MINSOCKADDRLENGTH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\WINSOCK\\MAXSOCKADDRLENGTH",
+            "Key": "MAXSOCKADDRLENGTH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\WINSOCK\\USEDELAYEDACCEPTANCE",
+            "Key": "USEDELAYEDACCEPTANCE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\WINSOCK\\HELPERDLLNAME",
+            "Key": "HELPERDLLNAME"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK\\PARAMETERS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK\\PARAMETERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK\\PARAMETERS\\TRANSPORTS",
+            "Key": "TRANSPORTS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK\\PARAMETERS\\TRANSPORTS",
+            "Key": "TRANSPORTS"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\WINSOCK\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\WINSOCK\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\WINSOCK\\MAPPING",
+            "Key": "MAPPING"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\WINSOCK\\MAPPING",
+            "Key": "MAPPING"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK\\SETUP MIGRATION\\PROVIDERS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK\\SETUP MIGRATION\\PROVIDERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK\\SETUP MIGRATION\\PROVIDERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK\\SETUP MIGRATION\\PROVIDERS\\TCPIP6\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK\\SETUP MIGRATION\\PROVIDERS\\TCPIP6\\WINSOCK 2.0 PROVIDER ID",
+            "Key": "WINSOCK 2.0 PROVIDER ID"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\WINSOCK\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\WINSOCK\\MINSOCKADDRLENGTH",
+            "Key": "MINSOCKADDRLENGTH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\WINSOCK\\MAXSOCKADDRLENGTH",
+            "Key": "MAXSOCKADDRLENGTH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\WINSOCK\\USEDELAYEDACCEPTANCE",
+            "Key": "USEDELAYEDACCEPTANCE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\WINSOCK\\HELPERDLLNAME",
+            "Key": "HELPERDLLNAME"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\CONNECTIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\CONNECTIONS\\WINHTTPSETTINGS",
+            "Key": "WINHTTPSETTINGS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\CONNECTIONS\\WINHTTPSETTINGS",
+            "Key": "WINHTTPSETTINGS"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\ENABLEDHCP",
+            "Key": "ENABLEDHCP"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\REGISTRATIONENABLED",
+            "Key": "REGISTRATIONENABLED"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\REGISTERADAPTERNAME",
+            "Key": "REGISTERADAPTERNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DOMAIN",
+            "Key": "DOMAIN"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPDOMAIN",
+            "Key": "DHCPDOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPV6DOMAIN",
+            "Key": "DHCPV6DOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\ENABLEDHCP",
+            "Key": "ENABLEDHCP",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\REGISTRATIONENABLED",
+            "Key": "REGISTRATIONENABLED",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\REGISTERADAPTERNAME",
+            "Key": "REGISTERADAPTERNAME",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\DOMAIN",
+            "Key": "DOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\DHCPDOMAIN",
+            "Key": "DHCPDOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\ENABLEDHCP",
+            "Key": "ENABLEDHCP"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\REGISTRATIONENABLED",
+            "Key": "REGISTRATIONENABLED"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\REGISTERADAPTERNAME",
+            "Key": "REGISTERADAPTERNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DOMAIN",
+            "Key": "DOMAIN"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPDOMAIN",
+            "Key": "DHCPDOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPV6DOMAIN",
+            "Key": "DHCPV6DOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\ENABLEDHCP",
+            "Key": "ENABLEDHCP",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\REGISTRATIONENABLED",
+            "Key": "REGISTRATIONENABLED",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\REGISTERADAPTERNAME",
+            "Key": "REGISTERADAPTERNAME",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\DOMAIN",
+            "Key": "DOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\DHCPDOMAIN",
+            "Key": "DHCPDOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\LINKAGE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\LINKAGE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\LINKAGE\\BIND",
+            "Key": "BIND",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\LINKAGE\\BIND",
+            "Key": "BIND",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\LINKAGE\\BIND",
+            "Key": "BIND"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\LINKAGE\\BIND",
+            "Key": "BIND",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\LINKAGE\\BIND",
+            "Key": "BIND",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\PROXYSETTINGSPERUSER",
+            "Key": "PROXYSETTINGSPERUSER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\CONNECTIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\CONNECTIONS\\DEFAULTCONNECTIONSETTINGS",
+            "Key": "DEFAULTCONNECTIONSETTINGS",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\CONNECTIONS\\DEFAULTCONNECTIONSETTINGS",
+            "Key": "DEFAULTCONNECTIONSETTINGS",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\CONNECTIONS\\DEFAULTCONNECTIONSETTINGS",
+            "Key": "DEFAULTCONNECTIONSETTINGS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\WPADOVERRIDE",
+            "Key": "WPADOVERRIDE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\USER SHELL FOLDERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\USER SHELL FOLDERS\\LOCAL APPDATA",
+            "Key": "LOCAL APPDATA"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\USER SHELL FOLDERS\\LOCAL APPDATA",
+            "Key": "LOCAL APPDATA"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\PROFILELIST\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\PROFILELIST\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\PROFILELIST\\S-1-5-21-686412048-2446563785-1323799475-1001\\PROFILEIMAGEPATH",
+            "Key": "PROFILEIMAGEPATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\PROFILELIST\\S-1-5-21-686412048-2446563785-1323799475-1001\\PROFILEIMAGEPATH",
+            "Key": "PROFILEIMAGEPATH"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\SYSTEMCERTIFICATES\\CHAINENGINE\\CONFIG\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\SYSTEMCERTIFICATES\\CHAINENGINE\\CONFIG\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\CRYPTOGRAPHY\\OID\\ENCODINGTYPE 0\\CERTDLLCREATECERTIFICATECHAINENGINE\\CONFIG\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\CRYPTOGRAPHY\\OID\\ENCODINGTYPE 0\\CERTDLLCREATECERTIFICATECHAINENGINE\\CONFIG\\ENABLEINETUNKNOWNAUTH",
+            "Key": "ENABLEINETUNKNOWNAUTH",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\CONNECTIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\CONNECTIONS\\WINHTTPSETTINGS",
+            "Key": "WINHTTPSETTINGS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\ENABLEDHCP",
+            "Key": "ENABLEDHCP"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\REGISTRATIONENABLED",
+            "Key": "REGISTRATIONENABLED"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\REGISTERADAPTERNAME",
+            "Key": "REGISTERADAPTERNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DOMAIN",
+            "Key": "DOMAIN"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPDOMAIN",
+            "Key": "DHCPDOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPV6DOMAIN",
+            "Key": "DHCPV6DOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPV6DOMAIN",
+            "Key": "DHCPV6DOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\LINKAGE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\LINKAGE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\PROXYSETTINGSPERUSER",
+            "Key": "PROXYSETTINGSPERUSER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\CONNECTIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\CONNECTIONS\\DEFAULTCONNECTIONSETTINGS",
+            "Key": "DEFAULTCONNECTIONSETTINGS",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\CONNECTIONS\\DEFAULTCONNECTIONSETTINGS",
+            "Key": "DEFAULTCONNECTIONSETTINGS",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\WPADOVERRIDE",
+            "Key": "WPADOVERRIDE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\USER SHELL FOLDERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\USER SHELL FOLDERS\\LOCAL APPDATA",
+            "Key": "LOCAL APPDATA"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\USER SHELL FOLDERS\\LOCAL APPDATA",
+            "Key": "LOCAL APPDATA"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\PROFILELIST\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\PROFILELIST\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\PROFILELIST\\S-1-5-21-686412048-2446563785-1323799475-1001\\PROFILEIMAGEPATH",
+            "Key": "PROFILEIMAGEPATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\PROFILELIST\\S-1-5-21-686412048-2446563785-1323799475-1001\\PROFILEIMAGEPATH",
+            "Key": "PROFILEIMAGEPATH"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\OLE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\OLE\\MAXIMUMALLOWEDALLOCATIONSIZE",
+            "Key": "MAXIMUMALLOWEDALLOCATIONSIZE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\SEARCHLIST",
+            "Key": "SEARCHLIST",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPV6DOMAIN",
+            "Key": "DHCPV6DOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\NAMESERVER",
+            "Key": "NAMESERVER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\NAMESERVER",
+            "Key": "NAMESERVER"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\NAMESERVER",
+            "Key": "NAMESERVER"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPNAMESERVER",
+            "Key": "DHCPNAMESERVER"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPNAMESERVER",
+            "Key": "DHCPNAMESERVER"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\NAMESERVER",
+            "Key": "NAMESERVER"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\NAMESERVER",
+            "Key": "NAMESERVER"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPNAMESERVER",
+            "Key": "DHCPNAMESERVER"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPNAMESERVER",
+            "Key": "DHCPNAMESERVER"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\NAMESERVER",
+            "Key": "NAMESERVER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\DHCPNAMESERVER",
+            "Key": "DHCPNAMESERVER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\SEARCHLIST",
+            "Key": "SEARCHLIST",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\NAMESERVER",
+            "Key": "NAMESERVER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\LINKAGE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\CLASS\\{4D36E972-E325-11CE-BFC1-08002BE10318}\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\CLASS\\{4D36E972-E325-11CE-BFC1-08002BE10318}\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\00-50-56-91-CA-A1\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\SIDEBYSIDE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\SIDEBYSIDE\\PREFEREXTERNALMANIFEST",
+            "Key": "PREFEREXTERNALMANIFEST",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\SEARCHLIST",
+            "Key": "SEARCHLIST",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\NAMESERVER",
+            "Key": "NAMESERVER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\SEARCHLIST",
+            "Key": "SEARCHLIST",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\NAMESERVER",
+            "Key": "NAMESERVER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\CLASS\\{4D36E972-E325-11CE-BFC1-08002BE10318}\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\CLASS\\{4D36E972-E325-11CE-BFC1-08002BE10318}\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\00-50-56-91-CA-A1\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Create",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Create",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\DNSCACHE\\PARAMETERS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\DNSCACHE\\PARAMETERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS NT\\DNSCLIENT\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS NT\\DNSCLIENT\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\HOSTNAME",
+            "Key": "HOSTNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\HOSTNAME",
+            "Key": "HOSTNAME"
+        }
+    },
+    {
+        "name": "Create",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Create",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\DNSCACHE\\PARAMETERS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\DNSCACHE\\PARAMETERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS NT\\DNSCLIENT\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS NT\\DNSCLIENT\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\HOSTNAME",
+            "Key": "HOSTNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\HOSTNAME",
+            "Key": "HOSTNAME"
+        }
+    },
+    {
+        "name": "Create",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\DNSCACHE\\PARAMETERS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS NT\\DNSCLIENT\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\SYSTEM\\DNSCLIENT\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\SYSTEM\\DNSCLIENT\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\DOMAIN",
+            "Key": "DOMAIN"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\DOMAIN",
+            "Key": "DOMAIN"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\WINSOCK_REGISTRY_VERSION",
+            "Key": "WINSOCK_REGISTRY_VERSION"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\WINSOCK_REGISTRY_VERSION",
+            "Key": "WINSOCK_REGISTRY_VERSION"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\AUTODIALDLL",
+            "Key": "AUTODIALDLL"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\WINSOCK2\\PARAMETERS\\AUTODIALDLL",
+            "Key": "AUTODIALDLL"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 001\\NAME",
+            "Key": "NAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 001\\NAME",
+            "Key": "NAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 001\\NAME",
+            "Key": "NAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 001\\NAME",
+            "Key": "NAME"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\TYPE",
+            "Key": "TYPE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\IMAGE PATH",
+            "Key": "IMAGE PATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\IMAGE PATH",
+            "Key": "IMAGE PATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\IMAGE PATH",
+            "Key": "IMAGE PATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\IMAGE PATH",
+            "Key": "IMAGE PATH"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\CRYPTOGRAPHY\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\CRYPTOGRAPHY\\MACHINEGUID",
+            "Key": "MACHINEGUID"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\CRYPTOGRAPHY\\MACHINEGUID",
+            "Key": "MACHINEGUID"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\CRYPTOGRAPHY\\MACHINEGUID",
+            "Key": "MACHINEGUID"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\CRYPTOGRAPHY\\MACHINEGUID",
+            "Key": "MACHINEGUID"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\OFFLOAD\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.3.0.MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES_EN-US_31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.3.0.MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES_EN-US_31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.TRANSACTIONS__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.TRANSACTIONS__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\STANDARDS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\STANDARDS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\STANDARDS\\V4.0.30319\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\FUSION\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\FUSION\\NOCLIENTCHECKS",
+            "Key": "NOCLIENTCHECKS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.3.0.SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES_EN-US_31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.3.0.SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES_EN-US_31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\EVENTLOG\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\EVENTLOG\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\EVENTLOG\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\EVENTLOG\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\EVENTLOG\\APPLICATION\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\EVENTLOG\\APPLICATION\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\EVENTLOG\\APPLICATION\\POWERSHELL\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\EVENTLOG\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\EVENTLOG\\HARDWAREEVENTS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\EVENTLOG\\HARDWAREEVENTS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\EVENTLOG\\HARDWAREEVENTS\\POWERSHELL\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\EVENTLOG\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\EVENTLOG\\INTERNET EXPLORER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\EVENTLOG\\INTERNET EXPLORER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\EVENTLOG\\INTERNET EXPLORER\\POWERSHELL\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\EVENTLOG\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\EVENTLOG\\KEY MANAGEMENT SERVICE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\EVENTLOG\\KEY MANAGEMENT SERVICE\\",
+            "Key": ""
+        }
+    }
+]

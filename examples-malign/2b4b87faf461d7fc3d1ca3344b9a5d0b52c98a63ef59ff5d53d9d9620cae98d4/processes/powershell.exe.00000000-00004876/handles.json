@@ -1,0 +1,34 @@
+[
+    {
+        "type": "KeyHandle (1)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize"
+    },
+    {
+        "type": "FileHandle (152)",
+        "path": "\\FileSystem\\Filters\\FltMgrMsg"
+    },
+    {
+        "type": "FileHandle (840)",
+        "path": "\\Device\\MountPointManager"
+    },
+    {
+        "type": "PortHandle (964)",
+        "path": "\\RPC Control\\OLE74D2E7E0C9954448A72F12CAC987"
+    },
+    {
+        "type": "FileHandle (1148)",
+        "path": "\\Device\\KsecDD"
+    },
+    {
+        "type": "FileHandle (1584)",
+        "path": "\\Device\\Nsi"
+    },
+    {
+        "type": "FileHandle (1592)",
+        "path": "\\Device\\NetBT_Tcpip_{E390372A-3FAB-417F-940E-F2CD5C8F68CB}"
+    },
+    {
+        "type": "FileHandle (1660)",
+        "path": "\\Device\\Afd"
+    }
+]

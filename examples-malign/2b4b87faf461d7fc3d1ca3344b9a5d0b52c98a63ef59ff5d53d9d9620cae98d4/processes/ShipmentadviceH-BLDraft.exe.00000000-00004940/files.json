@@ -1,0 +1,3212 @@
+[
+    {
+        "type": "CREATE",
+        "path": "\\FileSystem\\Filters\\FltMgrMsg",
+        "access": "100003"
+    },
+    {
+        "type": "CREATE",
+        "path": "\\DEVICE\\NETBT_TCPIP_{846EE342-7039-11DE-9D20-806E6F6E6963}",
+        "access": "100001"
+    },
+    {
+        "type": "CREATE",
+        "path": "\\DEVICE\\NETBT_TCPIP_{C4682677-4388-413F-BD31-B30A53D9D7D5}",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64win.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64win.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64cpu.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64cpu.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\WOW64LOG.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\mscoree.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\mscoree.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\sechost.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\sechost.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxOle32.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxOle32.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxOle32.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\FLTLIB.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\fltLib.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\fltLib.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-core-synch-l1-2-0.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-core-synch-l1-2-0.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-LOCALIZATION-L1-2-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxSSL32.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxSSL32.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxSSL32.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-LOCALIZATION-L1-2-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\MSCOREE.DLL.LOCAL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscoreei.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscoreei.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-LOCALIZATION-L1-2-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\MSCOREE.DLL.LOCAL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v1.0.3705\\CLR.DLL",
+        "access": "120080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v1.0.3705\\MSCORWKS.DLL",
+        "access": "120080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v1.1.4322\\CLR.DLL",
+        "access": "120080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v1.1.4322\\MSCORWKS.DLL",
+        "access": "120080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\CLR.DLL",
+        "access": "120080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorwks.dll",
+        "access": "120080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "120080"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SHIPMENTADVICEH-BLDRAFT.EXE.CONFIG",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\ShipmentadviceH-BLDraft.exe",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\ShipmentadviceH-BLDraft.exe",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-APPMODEL-RUNTIME-L1-1-2.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-APPMODEL-RUNTIME-L1-1-0.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\version.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\version.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "120080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\VCRUNTIME140_CLR0400.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\vcruntime140_clr0400.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\vcruntime140_clr0400.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\UCRTBASE_CLR0400.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ucrtbase_clr0400.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ucrtbase_clr0400.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-LOCALIZATION-L1-2-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-QUIRKS-L1-1-0.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-APPMODEL-RUNTIME-L1-1-2.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-APPMODEL-RUNTIME-L1-1-0.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\MSCOREE.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SHIPMENTADVICEH-BLDRAFT.EXE.CONFIG",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\FUSION.LOCALGAC",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\COMBASE.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Globalization\\Sorting\\SortDefault.nls",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\mscorlib\\v4.0_4.0.0.0__b77a5c561934e089\\mscorlib.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\mscorlib\\v4.0_4.0.0.0__b77a5c561934e089\\mscorlib.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\ShipmentadviceH-BLDraft.exe",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\ShipmentadviceH-BLDraft.exe",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\ShipmentadviceH-BLDraft.exe",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\ShipmentadviceH-BLDraft.exe",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\OLE32.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\RPCSS.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\RPCSS.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\uxtheme.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\uxtheme.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SHIPMENTADVICEH-BLDRAFT.EXE.CONFIG",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\ShipmentadviceH-BLDraft.exe",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\REMINGTON",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\REMINGTON",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SHIPMENTADVICEH-BLDRAFT.INI",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-core-xstate-l2-1-0.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-core-xstate-l2-1-0.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clrjit.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clrjit.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\pubpol328.dat",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC\\PUBLISHERPOLICY.TME",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\SYSTEM.WINDOWS.FORMS\\V4.0_4.0.0.0__B77A5C561934E089\\SYSTEM.WINDOWS.FORMS.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Windows.Forms\\v4.0_4.0.0.0__b77a5c561934e089\\System.Windows.Forms.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Windows.Forms\\v4.0_4.0.0.0__b77a5c561934e089\\System.Windows.Forms.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Security\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Security.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Security\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Security.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Xml\\v4.0_4.0.0.0__b77a5c561934e089\\System.Xml.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Xml\\v4.0_4.0.0.0__b77a5c561934e089\\System.Xml.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\SYSTEM\\V4.0_4.0.0.0__B77A5C561934E089\\SYSTEM.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\System.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\0b2f69b43a576b9edcc807a30872bd91\\System.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\0b2f69b43a576b9edcc807a30872bd91\\System.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\System.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Configuration\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Configuration.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Configuration\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Configuration.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\SYSTEM.DRAWING\\V4.0_4.0.0.0__B03F5F7F11D50A3A\\SYSTEM.DRAWING.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Drawing\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Drawing.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Drawing\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Drawing.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Accessibility\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\Accessibility.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Accessibility\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\Accessibility.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Core\\v4.0_4.0.0.0__b77a5c561934e089\\System.Core.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Core\\v4.0_4.0.0.0__b77a5c561934e089\\System.Core.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Deployment\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Deployment.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Deployment\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Deployment.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Runtime.Serialization.Formatters.Soap\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Runtime.Serialization.Formatters.Soap.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Runtime.Serialization.Formatters.Soap\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Runtime.Serialization.Formatters.Soap.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\MICROSOFT.VISUALBASIC\\V4.0_10.0.0.0__B03F5F7F11D50A3A\\MICROSOFT.VISUALBASIC.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.VisualBasic\\v4.0_10.0.0.0__b03f5f7f11d50a3a\\Microsoft.VisualBasic.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.V9921e851#\\a891970b44db9e340c3ef3efa95b793c\\Microsoft.VisualBasic.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.V9921e851#\\a891970b44db9e340c3ef3efa95b793c\\Microsoft.VisualBasic.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.VisualBasic\\v4.0_10.0.0.0__b03f5f7f11d50a3a\\Microsoft.VisualBasic.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Numerics\\v4.0_4.0.0.0__b77a5c561934e089\\System.Numerics.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Numerics\\v4.0_4.0.0.0__b77a5c561934e089\\System.Numerics.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Management.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Management.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Xml.Linq\\v4.0_4.0.0.0__b77a5c561934e089\\System.Xml.Linq.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Xml.Linq\\v4.0_4.0.0.0__b77a5c561934e089\\System.Xml.Linq.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Runtime.Remoting\\v4.0_4.0.0.0__b77a5c561934e089\\System.Runtime.Remoting.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Runtime.Remoting\\v4.0_4.0.0.0__b77a5c561934e089\\System.Runtime.Remoting.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.V9921e851#\\a891970b44db9e340c3ef3efa95b793c\\Microsoft.VisualBasic.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.V9921e851#\\a891970b44db9e340c3ef3efa95b793c\\Microsoft.VisualBasic.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\NTDLL.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\nlssorting.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\nlssorting.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\sortdefault.nlp",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\mscorlib\\v4.0_4.0.0.0__b77a5c561934e089\\SHELL32.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Data.SqlXml\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.SqlXml.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Data.SqlXml\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.SqlXml.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+        "access": "120089"
+    },
+    {
+        "type": "CREATE",
+        "path": "C:\\Users\\%OSUSER%",
+        "access": "100001"
+    },
+    {
+        "type": "CREATE",
+        "path": "%USERPROFILE%\\AppData\\Roaming",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\mscorlib\\v4.0_4.0.0.0__b77a5c561934e089\\BCRYPT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\bcrypt.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\bcrypt.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\CRYPTSP.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\cryptsp.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\cryptsp.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SHIPMENTADVICEH-BLDRAFT.EXE.CONFIG",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SHIPMENTADVICEH-BLDRAFT.EXE.CONFIG",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\RASAPI32.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rasapi32.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rasapi32.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rasman.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rasman.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\RTUTILS.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rtutils.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rtutils.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\WS2_32.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\mswsock.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\mswsock.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WSHTCPIP.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WSHTCPIP.DLL",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\wship6.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\wship6.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\KernelBase.dll.mui",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\WINHTTP.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\winhttp.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\winhttp.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\webio.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\webio.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\CREDSSP.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\credssp.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\credssp.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\IPHLPAPI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\IPHLPAPI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\IPHLPAPI.DLL",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\WINNSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\winnsi.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\winnsi.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\DHCPCSVC6.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dhcpcsvc6.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dhcpcsvc6.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\DHCPCSVC.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dhcpcsvc.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dhcpcsvc.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\mscorlib\\v4.0_4.0.0.0__b77a5c561934e089\\OLEAUT32.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\PSAPI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\RPCRTREMOTE.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\RpcRtRemote.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\RpcRtRemote.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\IPHLPAPI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\DNSAPI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dnsapi.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dnsapi.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\RASADHLP.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rasadhlp.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rasadhlp.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\FWPUCLNT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\FWPUCLNT.DLL",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\SECUR32.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\secur32.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\secur32.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\schannel.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\schannel.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\NCRYPT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ncrypt.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ncrypt.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\bcryptprimitives.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\bcryptprimitives.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\CRYPT32.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\CRYPT32.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\GPAPI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\gpapi.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\gpapi.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\p2pcollab.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\p2pcollab.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\QAGENTRT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dnsapi.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dnsapi.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\en-US\\MSCORRC.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\en-US\\MSCORRC.DLL.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\EN\\MSCORRC.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\EN\\MSCORRC.DLL.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscorrc.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscorrc.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\STORAGE",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\SYSTEM.WEB.EXTENSIONS\\V4.0_4.0.0.0__31BF3856AD364E35\\SYSTEM.WEB.EXTENSIONS.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Web.Extensions\\v4.0_4.0.0.0__31bf3856ad364e35\\System.Web.Extensions.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Web.28b9ef5a#\\1efd2a9f217f2d1fd26c71ce168043f5\\System.Web.Extensions.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Web.28b9ef5a#\\1efd2a9f217f2d1fd26c71ce168043f5\\System.Web.Extensions.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Web.Extensions\\v4.0_4.0.0.0__31bf3856ad364e35\\System.Web.Extensions.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Web.28b9ef5a#\\1efd2a9f217f2d1fd26c71ce168043f5\\System.Web.Extensions.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Web.28b9ef5a#\\1efd2a9f217f2d1fd26c71ce168043f5\\System.Web.Extensions.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Web.Extensions\\v4.0_4.0.0.0__31bf3856ad364e35\\System.Web.Extensions.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Web.Extensions\\v4.0_4.0.0.0__31bf3856ad364e35\\System.Web.Extensions.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Web.Extensions\\v4.0_4.0.0.0__31bf3856ad364e35\\System.Web.Extensions.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Web.Extensions\\v4.0_4.0.0.0__31bf3856ad364e35\\System.Web.Extensions.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Web.Extensions\\v4.0_4.0.0.0__31bf3856ad364e35\\System.Web.Extensions.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Web.Extensions\\v4.0_4.0.0.0__31bf3856ad364e35\\System.Web.Extensions.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Web.Extensions\\v4.0_4.0.0.0__31bf3856ad364e35\\System.Web.Extensions.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Web.Extensions\\v4.0_4.0.0.0__31bf3856ad364e35\\SYSTEM.WEB.EXTENSIONS.INI",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\VERSION.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Web.Extensions\\v4.0_4.0.0.0__31bf3856ad364e35\\System.Web.Extensions.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Web.Extensions\\v4.0_4.0.0.0__31bf3856ad364e35\\System.Web.Extensions.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Web.Extensions\\v4.0_4.0.0.0__31bf3856ad364e35\\System.Web.Extensions.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Web.Extensions\\v4.0_4.0.0.0__31bf3856ad364e35\\System.Web.Extensions.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\THUNDERBIRD\\PROFILES",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\POSTBOXAPP\\PROFILES",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Login Data",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Login Data",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Login Data",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Login Data",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\OLEAUT32.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COCCOC\\BROWSER\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\TENCENT\\QQBROWSER\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\ORBITUM\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\AMIGO\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\XPOM\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\KOMETA\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\NICHROME\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SLIMJET\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\IRIDIUM\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\VIVALDI\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHROMIUM\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHROMIUM\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\GHOSTBROWSER\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CENTBROWSER\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\XVAST\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHEDOT\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SUPERBIRD\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\360BROWSER\\BROWSER\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\360CHROME\\CHROME\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COMODO\\DRAGON\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BRAVESOFTWARE\\BRAVE-BROWSER\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\TORCH\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\UCBROWSER\\USER DATA_I18N\\DEFAULT\\UC LOGIN DATA.18",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BLISK\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\EPIC PRIVACY BROWSER\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\AVAST SOFTWARE\\BROWSER\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\KINZA\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BLACKHAWK\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CATALINAGROUP\\CITRIO\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\UCOZMEDIA\\URAN\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COOWON\\COOWON\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\7STAR\\7STAR\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\QIP SURF\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\FENRIR INC\\SLEIPNIR5\\SETTING\\MODULES\\CHROMIUMVIEWER\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\CHROME SXS\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\MAPLESTUDIO\\CHROMEPLUS\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SPUTNIK\\SPUTNIK\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SPUTNIK\\SPUTNIK\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Microsoft\\EDGE\\USER DATA\\DEFAULT\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Network\\Cookies",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Network\\Cookies",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Network\\Cookies",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Network\\Cookies",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COCCOC\\BROWSER\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\TENCENT\\QQBROWSER\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\ORBITUM\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\AMIGO\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\XPOM\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\KOMETA\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\NICHROME\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SLIMJET\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\IRIDIUM\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\VIVALDI\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHROMIUM\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHROMIUM\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\GHOSTBROWSER\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CENTBROWSER\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\XVAST\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHEDOT\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SUPERBIRD\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\360BROWSER\\BROWSER\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\360CHROME\\CHROME\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COMODO\\DRAGON\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BRAVESOFTWARE\\BRAVE-BROWSER\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\TORCH\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\UCBROWSER\\USER DATA_I18N\\DEFAULT\\UC LOGIN DATA.18",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BLISK\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\EPIC PRIVACY BROWSER\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\KINZA\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BLACKHAWK\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CATALINAGROUP\\CITRIO\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\UCOZMEDIA\\URAN\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COOWON\\COOWON\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\7STAR\\7STAR\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\QIP SURF\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\FENRIR INC\\SLEIPNIR5\\SETTING\\MODULES\\CHROMIUMVIEWER\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\CHROME SXS\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\MAPLESTUDIO\\CHROMEPLUS\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SPUTNIK\\SPUTNIK\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SPUTNIK\\SPUTNIK\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Microsoft\\EDGE\\USER DATA\\DEFAULT\\NETWORK\\COOKIES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Web Data",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Web Data",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Web Data",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Web Data",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COCCOC\\BROWSER\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\TENCENT\\QQBROWSER\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\ORBITUM\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\AMIGO\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\XPOM\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\KOMETA\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\NICHROME\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SLIMJET\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\IRIDIUM\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\VIVALDI\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHROMIUM\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHROMIUM\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\GHOSTBROWSER\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CENTBROWSER\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\XVAST\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHEDOT\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SUPERBIRD\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\360BROWSER\\BROWSER\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\360CHROME\\CHROME\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COMODO\\DRAGON\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BRAVESOFTWARE\\BRAVE-BROWSER\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\TORCH\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\UCBROWSER\\USER DATA_I18N\\DEFAULT\\UC LOGIN DATA.18",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BLISK\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\EPIC PRIVACY BROWSER\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\KINZA\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BLACKHAWK\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CATALINAGROUP\\CITRIO\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\UCOZMEDIA\\URAN\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COOWON\\COOWON\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\7STAR\\7STAR\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\QIP SURF\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\FENRIR INC\\SLEIPNIR5\\SETTING\\MODULES\\CHROMIUMVIEWER\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\CHROME SXS\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\MAPLESTUDIO\\CHROMEPLUS\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SPUTNIK\\SPUTNIK\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SPUTNIK\\SPUTNIK\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Microsoft\\EDGE\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Web Data",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Web Data",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Web Data",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Web Data",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COCCOC\\BROWSER\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\TENCENT\\QQBROWSER\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\ORBITUM\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\AMIGO\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\XPOM\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\KOMETA\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\NICHROME\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SLIMJET\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\IRIDIUM\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\VIVALDI\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHROMIUM\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHROMIUM\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\GHOSTBROWSER\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CENTBROWSER\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\XVAST\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHEDOT\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SUPERBIRD\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\360BROWSER\\BROWSER\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\360CHROME\\CHROME\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COMODO\\DRAGON\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BRAVESOFTWARE\\BRAVE-BROWSER\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\TORCH\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\UCBROWSER\\USER DATA_I18N\\DEFAULT\\UC LOGIN DATA.18",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BLISK\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\EPIC PRIVACY BROWSER\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\KINZA\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BLACKHAWK\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CATALINAGROUP\\CITRIO\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\UCOZMEDIA\\URAN\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COOWON\\COOWON\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\7STAR\\7STAR\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\QIP SURF\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\FENRIR INC\\SLEIPNIR5\\SETTING\\MODULES\\CHROMIUMVIEWER\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\CHROME SXS\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\MAPLESTUDIO\\CHROMEPLUS\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SPUTNIK\\SPUTNIK\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SPUTNIK\\SPUTNIK\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Microsoft\\EDGE\\USER DATA\\DEFAULT\\WEB DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\History",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\History",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\History",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\History",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COCCOC\\BROWSER\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\TENCENT\\QQBROWSER\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\ORBITUM\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\AMIGO\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\XPOM\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\KOMETA\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\NICHROME\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SLIMJET\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\IRIDIUM\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\VIVALDI\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHROMIUM\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHROMIUM\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\GHOSTBROWSER\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CENTBROWSER\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\XVAST\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHEDOT\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SUPERBIRD\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\360BROWSER\\BROWSER\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\360CHROME\\CHROME\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COMODO\\DRAGON\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BRAVESOFTWARE\\BRAVE-BROWSER\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\TORCH\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\UCBROWSER\\USER DATA_I18N\\DEFAULT\\UC LOGIN DATA.18",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BLISK\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\EPIC PRIVACY BROWSER\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\KINZA\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BLACKHAWK\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CATALINAGROUP\\CITRIO\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\UCOZMEDIA\\URAN\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COOWON\\COOWON\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\7STAR\\7STAR\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\QIP SURF\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\FENRIR INC\\SLEIPNIR5\\SETTING\\MODULES\\CHROMIUMVIEWER\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\CHROME SXS\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\MAPLESTUDIO\\CHROMEPLUS\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SPUTNIK\\SPUTNIK\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SPUTNIK\\SPUTNIK\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Microsoft\\EDGE\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Top Sites",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Top Sites",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Top Sites",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Top Sites",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COCCOC\\BROWSER\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\TENCENT\\QQBROWSER\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\ORBITUM\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\AMIGO\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\XPOM\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\KOMETA\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\NICHROME\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SLIMJET\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\IRIDIUM\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\VIVALDI\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHROMIUM\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHROMIUM\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\GHOSTBROWSER\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CENTBROWSER\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\XVAST\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHEDOT\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SUPERBIRD\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\360BROWSER\\BROWSER\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\360CHROME\\CHROME\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COMODO\\DRAGON\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BRAVESOFTWARE\\BRAVE-BROWSER\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\TORCH\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\UCBROWSER\\USER DATA_I18N\\DEFAULT\\UC LOGIN DATA.18",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BLISK\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\EPIC PRIVACY BROWSER\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\KINZA\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BLACKHAWK\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CATALINAGROUP\\CITRIO\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\UCOZMEDIA\\URAN\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COOWON\\COOWON\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\7STAR\\7STAR\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\QIP SURF\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\FENRIR INC\\SLEIPNIR5\\SETTING\\MODULES\\CHROMIUMVIEWER\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\CHROME SXS\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\MAPLESTUDIO\\CHROMEPLUS\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SPUTNIK\\SPUTNIK\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SPUTNIK\\SPUTNIK\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Microsoft\\EDGE\\USER DATA\\DEFAULT\\TOP SITES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\History",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\History",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\History",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\History",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COCCOC\\BROWSER\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\TENCENT\\QQBROWSER\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\ORBITUM\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\AMIGO\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\XPOM\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\KOMETA\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\NICHROME\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SLIMJET\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\IRIDIUM\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\VIVALDI\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHROMIUM\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHROMIUM\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\GHOSTBROWSER\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CENTBROWSER\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\XVAST\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CHEDOT\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SUPERBIRD\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\360BROWSER\\BROWSER\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\360CHROME\\CHROME\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COMODO\\DRAGON\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BRAVESOFTWARE\\BRAVE-BROWSER\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\TORCH\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\UCBROWSER\\USER DATA_I18N\\DEFAULT\\UC LOGIN DATA.18",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BLISK\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\EPIC PRIVACY BROWSER\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\KINZA\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\BLACKHAWK\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\CATALINAGROUP\\CITRIO\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\UCOZMEDIA\\URAN\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\COOWON\\COOWON\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\7STAR\\7STAR\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\QIP SURF\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\FENRIR INC\\SLEIPNIR5\\SETTING\\MODULES\\CHROMIUMVIEWER\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Google\\CHROME SXS\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\MAPLESTUDIO\\CHROMEPLUS\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SPUTNIK\\SPUTNIK\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\SPUTNIK\\SPUTNIK\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Microsoft\\EDGE\\USER DATA\\DEFAULT\\HISTORY",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\OPERA SOFTWARE\\OPERA STABLE\\LOGIN DATA",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\OPERA\\OPERA\\PROFILE\\WAND.DAT",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\LIEBAO7\\USER DATA\\DEFAULT\\ENCRYPTEDSTORAGE",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\DISCORD\\LOCAL STORAGE\\LEVELDB",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\DISCORD\\LOCAL STORAGE\\LEVELDB",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\DISCORD\\LOCAL STORAGE\\LEVELDB",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\FILEZILLA\\RECENTSERVERS.XML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\.PURPLE\\ACCOUNTS.XML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\FLASHPEAK\\SLIMBROWSER\\PROFILES",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\Mozilla\\SEAMONKEY\\PROFILES",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\COMODO\\ICEDRAGON\\PROFILES",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\8PECXSTUDIOS\\CYBERFOX\\PROFILES",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\MOONCHILD PRODUCTIONS\\PALE MOON\\PROFILES",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\WATERFOX\\PROFILES",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SHIPMENTADVICEH-BLDRAFT.EXE.LOCAL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\comctl32.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\comctl32.dll",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\comctl32.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\comctl32.dll",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\comctl32.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\comctl32.dll",
+        "access": "100021"
+    }
+]

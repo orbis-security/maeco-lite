@@ -1,0 +1,74 @@
+[
+    {
+        "type": "FileHandle (8)",
+        "path": "%WINDIR%\\System32\\wer.dll"
+    },
+    {
+        "type": "KeyHandle (12)",
+        "path": "HKLM\\SYSTEM\\ControlSet001\\Control\\Session Manager"
+    },
+    {
+        "type": "FileHandle (16)",
+        "path": "C:\\"
+    },
+    {
+        "type": "KeyHandle (24)",
+        "path": "HKLM\\SYSTEM\\ControlSet001\\Control\\Nls\\Sorting\\Versions"
+    },
+    {
+        "type": "FileHandle (36)",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.4940_none_d08cc06a442b34fc"
+    },
+    {
+        "type": "FileHandle (52)",
+        "path": "%WINDIR%\\System32\\imm32.dll"
+    },
+    {
+        "type": "KeyHandle (56)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize"
+    },
+    {
+        "type": "KeyHandle (72)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Windows\\Windows Error Reporting\\WMR"
+    },
+    {
+        "type": "KeyHandle (76)",
+        "path": "HKCU\\Control Panel\\Desktop\\MuiCached"
+    },
+    {
+        "type": "KeyHandle (80)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Rpc"
+    },
+    {
+        "type": "KeyHandle (92)",
+        "path": "HKLM\\SOFTWARE\\Policies\\Microsoft\\SQMClient\\Windows"
+    },
+    {
+        "type": "KeyHandle (108)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Windows\\Windows Error Reporting"
+    },
+    {
+        "type": "FileHandle (112)",
+        "path": "%WINDIR%\\System32\\en-US\\KernelBase.dll.mui"
+    },
+    {
+        "type": "FileHandle (188)",
+        "path": "%WINDIR%\\System32\\en-US\\wer.dll.mui"
+    },
+    {
+        "type": "KeyHandle (192)",
+        "path": "HKLM\\SYSTEM\\ControlSet001\\Control\\Nls\\ExtendedLocale"
+    },
+    {
+        "type": "KeyHandle (196)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\SQMClient\\Windows\\DisabledSessions"
+    },
+    {
+        "type": "KeyHandle (200)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Windows\\Windows Error Reporting\\Consent"
+    },
+    {
+        "type": "FileHandle (220)",
+        "path": "%WINDIR%\\System32\\SensApi.dll"
+    }
+]

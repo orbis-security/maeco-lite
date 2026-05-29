@@ -1,0 +1,507 @@
+[
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\WinSxS\\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.4940_none_d08cc06a442b34fc",
+        "access": "FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\WinSxS\\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.4940_none_d08cc06a442b34fc\\MSVCR80.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SYSTEM32\\sechost.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\VERSION.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\IMM32.DLL",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\wer.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\WINHTTP.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\SspiCli.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\credssp.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\rpcss.dll",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\rasadhlp.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\fwpuclnt.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\MetaData\\B90B117906B8A74C79D1BC450C2B94B1_A54F26A8A41DE52C237D54D67F12793F",
+        "access": "GENERIC_WRITE | GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\Content\\B90B117906B8A74C79D1BC450C2B94B1_A54F26A8A41DE52C237D54D67F12793F",
+        "access": "GENERIC_WRITE | GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\Content\\1F356F4D07FE8C483E769E4586569404",
+        "access": "GENERIC_WRITE | GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SYSTEM32\\MSCOREE.DLL",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscoreei.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\api-ms-win-core-synch-l1-2-0.DLL",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v1.0.3705\\clr.dll",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v1.0.3705\\mscorwks.dll",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v1.1.4322\\clr.dll",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v1.1.4322\\mscorwks.dll",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\clr.dll",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "C:\\OpenHardwareMonitorReportNet2.exe.config",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorwks.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\CONFIG\\machine.config",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\config\\security.config",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\config\\security.config.cch",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\config\\enterprisesec.config",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\config\\enterprisesec.config.cch",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "C:\\Users\\%OSUSER%",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "CREATE",
+        "path": "%USERPROFILE%\\AppData\\Roaming",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "CREATE",
+        "path": "%APPDATA%\\Microsoft\\CLR Security Config\\v2.0.50727.312\\security.config",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%APPDATA%\\Microsoft\\CLR Security Config\\v2.0.50727.312\\security.config.cch",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\assembly\\NativeImages_v2.0.50727_32\\index357.dat",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v2.0.50727_32\\mscorlib\\9f895c66454577eff9c77442d0c84f71\\mscorlib.ni.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorsec.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc",
+        "access": "FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\COMCTL32.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\RichEd20.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\CRYPTSP.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\rsaenh.dll",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\System32\\rsaenh.dll",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\CRYPTBASE.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\ncrypt.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\bcrypt.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\bcryptprimitives.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\GPAPI.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\Microsoft\\SystemCertificates\\My",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\cryptnet.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\webio.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\mswsock.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wshqos.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\wshtcpip.DLL",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\wship6.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\IPHLPAPI.DLL",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\WINNSI.DLL",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\dhcpcsvc6.DLL",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\dhcpcsvc.DLL",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "CREATE",
+        "path": "\\DEVICE\\NETBT_TCPIP_{E29AC6C2-7037-11DE-816D-806E6F6E6963}",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "CREATE",
+        "path": "\\DEVICE\\NETBT_TCPIP_{F5E5586C-DA91-47DA-AEAC-0A88CD2FFB01}",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\System32\\en-US\\winhttp.dll.mui",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\ow",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\MetaData\\57C8EDB95DF3F0AD4EE2DC2B8CFD4157",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\DNSAPI.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\MetaData",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\Content",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\Content\\57C8EDB95DF3F0AD4EE2DC2B8CFD4157",
+        "access": "GENERIC_WRITE | GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\MetaData\\5457A8CE4B2A7499F8299A013B6E1C7C_1B7EFE7C05DDB76E8DA0DB4BB618CC72",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\MetaData\\5457A8CE4B2A7499F8299A013B6E1C7C_D734EC3DD00546F46D368325396086B0",
+        "access": "GENERIC_WRITE | GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\Content\\5457A8CE4B2A7499F8299A013B6E1C7C_D734EC3DD00546F46D368325396086B0",
+        "access": "GENERIC_WRITE | GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\MetaData\\3B6E683A7A45CC59BF035C9BA8C7AB9D",
+        "access": "GENERIC_WRITE | GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\Content\\3B6E683A7A45CC59BF035C9BA8C7AB9D",
+        "access": "GENERIC_WRITE | GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\MetaData\\B90B117906B8A74C79D1BC450C2B94B1_AF72624073C714570BD16B78240BA414",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\MetaData\\B69D763EB21649DA26F20618312DEE70",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\Content\\B69D763EB21649DA26F20618312DEE70",
+        "access": "GENERIC_WRITE | GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\MetaData\\F4D9C889B7AEBCF4E1A2DAABC5C3628A_1E079908208853474382B686B672CAEF",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\MetaData\\1F356F4D07FE8C483E769E4586569404",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\MetaData\\F4D9C889B7AEBCF4E1A2DAABC5C3628A_E460DE20DC2A06D471F8247594B0E9A5",
+        "access": "GENERIC_WRITE | GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\Content\\F4D9C889B7AEBCF4E1A2DAABC5C3628A_E460DE20DC2A06D471F8247594B0E9A5",
+        "access": "GENERIC_WRITE | GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\System32\\l_intl.nls",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorjit.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\assembly\\pubpol247.dat",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\culture.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorrc.dll",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\apphelp.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\AppPatch\\sysmain.sdb",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\dw20.exe",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\assembly\\GAC_32\\mscorlib\\2.0.0.0__b77a5c561934e089\\sorttbls.nlp",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\assembly\\GAC_32\\mscorlib\\2.0.0.0__b77a5c561934e089\\sortkey.nlp",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\diasymreader.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "CREATE",
+        "path": "C:\\OpenHardwareMonitorReport.pdb",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\symbols\\exe\\OpenHardwareMonitorReport.pdb",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\exe\\OpenHardwareMonitorReport.pdb",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\OpenHardwareMonitorReport.pdb",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "C:\\OpenHardwareMonitorReportNet2.exe",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\Globalization\\Sorting\\SortDefault.nls",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\System32\\en-US\\KernelBase.dll.mui",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%WINDIR%\\System32\\en-US\\wer.dll.mui",
+        "access": "GENERIC_READ | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system32\\SensApi.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    }
+]

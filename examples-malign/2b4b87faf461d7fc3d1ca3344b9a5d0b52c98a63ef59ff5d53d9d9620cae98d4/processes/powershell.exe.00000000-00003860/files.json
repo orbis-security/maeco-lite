@@ -1,0 +1,5007 @@
+[
+    {
+        "type": "CREATE",
+        "path": "\\FileSystem\\Filters\\FltMgrMsg",
+        "access": "100003"
+    },
+    {
+        "type": "CREATE",
+        "path": "\\DEVICE\\NETBT_TCPIP_{846EE342-7039-11DE-9D20-806E6F6E6963}",
+        "access": "100001"
+    },
+    {
+        "type": "CREATE",
+        "path": "\\DEVICE\\NETBT_TCPIP_{C4682677-4388-413F-BD31-B30A53D9D7D5}",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64win.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64win.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64cpu.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64cpu.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\WOW64LOG.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\sechost.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\sechost.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\ATL.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\atl.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\atl.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\MSCOREE.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\mscoree.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\mscoree.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\en-US\\powershell.exe.mui",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxSSL32.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxSSL32.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxSSL32.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\FLTLIB.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\fltLib.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\fltLib.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-core-synch-l1-2-0.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-core-synch-l1-2-0.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-LOCALIZATION-L1-2-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxOle32.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxOle32.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxOle32.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-LOCALIZATION-L1-2-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\MSCOREE.DLL.LOCAL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscoreei.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscoreei.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-LOCALIZATION-L1-2-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\MSCOREE.DLL.LOCAL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v1.0.3705\\CLR.DLL",
+        "access": "120080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v1.0.3705\\MSCORWKS.DLL",
+        "access": "120080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v1.1.4322\\CLR.DLL",
+        "access": "120080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v1.1.4322\\MSCORWKS.DLL",
+        "access": "120080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\CLR.DLL",
+        "access": "120080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorwks.dll",
+        "access": "120080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "120080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\POWERSHELL.EXE.CONFIG",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-APPMODEL-RUNTIME-L1-1-2.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-APPMODEL-RUNTIME-L1-1-0.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\version.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\version.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "120080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\VCRUNTIME140_CLR0400.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\vcruntime140_clr0400.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\vcruntime140_clr0400.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\UCRTBASE_CLR0400.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ucrtbase_clr0400.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ucrtbase_clr0400.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-LOCALIZATION-L1-2-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-QUIRKS-L1-1-0.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-APPMODEL-RUNTIME-L1-1-2.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-APPMODEL-RUNTIME-L1-1-0.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\MSCOREE.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\POWERSHELL.EXE.CONFIG",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\FUSION.LOCALGAC",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\COMBASE.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Globalization\\Sorting\\SortDefault.nls",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\mscorlib\\v4.0_4.0.0.0__b77a5c561934e089\\mscorlib.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\mscorlib\\v4.0_4.0.0.0__b77a5c561934e089\\mscorlib.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\OLE32.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\RPCSS.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\RPCSS.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\mscorlib\\v4.0_4.0.0.0__b77a5c561934e089\\OLEAUT32.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\POWERSHELL.EXE.CONFIG",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\pubpol328.dat",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC\\PUBLISHERPOLICY.TME",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.PowerShell.ConsoleHost\\v4.0_3.0.0.0__31bf3856ad364e35\\Microsoft.Powershell.ConsoleHost.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.Pb378ec07#\\731848746c032af3ce33577b793c9b9c\\Microsoft.PowerShell.ConsoleHost.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.Pb378ec07#\\731848746c032af3ce33577b793c9b9c\\Microsoft.PowerShell.ConsoleHost.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.PowerShell.ConsoleHost\\v4.0_3.0.0.0__31bf3856ad364e35\\Microsoft.Powershell.ConsoleHost.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\SYSTEM\\V4.0_4.0.0.0__B77A5C561934E089\\SYSTEM.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\System.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\0b2f69b43a576b9edcc807a30872bd91\\System.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\0b2f69b43a576b9edcc807a30872bd91\\System.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\System.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Configuration\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Configuration.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Configuration\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Configuration.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Xml\\v4.0_4.0.0.0__b77a5c561934e089\\System.Xml.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Xml\\v4.0_4.0.0.0__b77a5c561934e089\\System.Xml.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management.Automation\\v4.0_3.0.0.0__31bf3856ad364e35\\System.Management.Automation.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management.Automation\\v4.0_3.0.0.0__31bf3856ad364e35\\System.Management.Automation.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Configuration.Install\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Configuration.Install.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Configuration.Install\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Configuration.Install.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\SYSTEM.CORE\\V4.0_4.0.0.0__B77A5C561934E089\\SYSTEM.CORE.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Core\\v4.0_4.0.0.0__b77a5c561934e089\\System.Core.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Core\\v4.0_4.0.0.0__b77a5c561934e089\\System.Core.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Numerics\\v4.0_4.0.0.0__b77a5c561934e089\\System.Numerics.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Numerics\\v4.0_4.0.0.0__b77a5c561934e089\\System.Numerics.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Security\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Security.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Security\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Security.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.Management.Infrastructure\\v4.0_1.0.0.0__31bf3856ad364e35\\Microsoft.Management.Infrastructure.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.Management.Infrastructure\\v4.0_1.0.0.0__31bf3856ad364e35\\Microsoft.Management.Infrastructure.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.Pb378ec07#\\731848746c032af3ce33577b793c9b9c\\Microsoft.PowerShell.ConsoleHost.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.Pb378ec07#\\731848746c032af3ce33577b793c9b9c\\Microsoft.PowerShell.ConsoleHost.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\CRYPTSP.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\cryptsp.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\cryptsp.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\OLEAUT32.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Manaa57fc8cc#\\a68aa6199c81feadf8c95a4ea0254b2c\\System.Management.Automation.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Manaa57fc8cc#\\a68aa6199c81feadf8c95a4ea0254b2c\\System.Management.Automation.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Transactions\\v4.0_4.0.0.0__b77a5c561934e089\\System.Transactions.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Transactions\\v4.0_4.0.0.0__b77a5c561934e089\\System.Transactions.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.DirectoryServices\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.DirectoryServices.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.DirectoryServices\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.DirectoryServices.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\Microsoft.Management.Infrastructure.Native\\v4.0_1.0.0.0__31bf3856ad364e35\\Microsoft.Management.Infrastructure.Native.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\Microsoft.Management.Infrastructure.Native\\v4.0_1.0.0.0__31bf3856ad364e35\\Microsoft.Management.Infrastructure.Native.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Runtime.Serialization\\v4.0_4.0.0.0__b77a5c561934e089\\System.Runtime.Serialization.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Runtime.Serialization\\v4.0_4.0.0.0__b77a5c561934e089\\System.Runtime.Serialization.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Management.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Management.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Data\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Data\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.CSharp\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\Microsoft.CSharp.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.CSharp\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\Microsoft.CSharp.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\SMDiagnostics\\v4.0_4.0.0.0__b77a5c561934e089\\SMDiagnostics.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\SMDiagnostics\\v4.0_4.0.0.0__b77a5c561934e089\\SMDiagnostics.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Manaa57fc8cc#\\a68aa6199c81feadf8c95a4ea0254b2c\\System.Management.Automation.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Manaa57fc8cc#\\a68aa6199c81feadf8c95a4ea0254b2c\\System.Management.Automation.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\nlssorting.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\nlssorting.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\sortdefault.nlp",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management.Automation\\v4.0_3.0.0.0__31bf3856ad364e35\\System.Management.Automation.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management.Automation\\v4.0_3.0.0.0__31bf3856ad364e35\\System.Management.Automation.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management.Automation\\v4.0_3.0.0.0__31bf3856ad364e35\\System.Management.Automation.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management.Automation\\v4.0_3.0.0.0__31bf3856ad364e35\\System.Management.Automation.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management.Automation\\v4.0_3.0.0.0__31bf3856ad364e35\\System.Management.Automation.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management.Automation\\v4.0_3.0.0.0__31bf3856ad364e35\\System.Management.Automation.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\KernelBase.dll.mui",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\POWERSHELL.EXE.CONFIG",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\PSAPI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES\\V4.0_3.0.0.0_EN-US_31BF3856AD364E35\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management.Automation.resources\\V4.0_3.0.0.0_EN-US_31BF3856AD364E35\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES\\V4.0_3.0.0.0_EN-US_31BF3856AD364E35\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_32\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES\\3.0.0.0_EN-US_31BF3856AD364E35\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_MSIL\\System.Management.Automation.Resources\\3.0.0.0_EN-US_31BF3856AD364E35\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES\\3.0.0.0_EN-US_31BF3856AD364E35\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\en-US\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\en-US\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\en-US\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES.EXE",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\en-US\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES.EXE",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management.Automation\\v4.0_3.0.0.0__31bf3856ad364e35\\System.Management.Automation.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management.Automation\\v4.0_3.0.0.0__31bf3856ad364e35\\System.Management.Automation.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management.Automation\\v4.0_3.0.0.0__31bf3856ad364e35\\System.Management.Automation.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management.Automation\\v4.0_3.0.0.0__31bf3856ad364e35\\System.Management.Automation.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Utility\\Microsoft.PowerShell.Utility.psm1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\mscorlib\\v4.0_4.0.0.0__b77a5c561934e089\\SHELL32.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Utility\\Microsoft.PowerShell.Utility.psm1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Utility\\Microsoft.PowerShell.Utility.psm1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management.Automation\\v4.0_3.0.0.0__31bf3856ad364e35\\WINTRUST.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\en-US\\MSCORRC.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\en-US\\MSCORRC.DLL.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\EN\\MSCORRC.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\EN\\MSCORRC.DLL.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscorrc.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscorrc.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Utility\\Microsoft.PowerShell.Utility.psm1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Utility\\Microsoft.PowerShell.Utility.psm1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\MSISIP.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\msisip.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\msisip.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Utility\\Microsoft.PowerShell.Utility.psm1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Utility\\Microsoft.PowerShell.Utility.psm1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management.Automation\\v4.0_3.0.0.0__31bf3856ad364e35\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\wshext.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\wshext.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\POWERSHELL.EXE.LOCAL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\comctl32.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\comctl32.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\NTDLL.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\pwrshsip.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\pwrshsip.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\%SYSTEMROOT%\\SYSTEM32\\WINDOWSPOWERSHELL\\V1.0\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%ALLUSERSPROFILE%\\Oracle\\Java\\javapath\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%ALLUSERSPROFILE%\\Oracle\\Java\\javapath_target_713187\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\wbem\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Programs\\Python\\Python38\\Scripts\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Programs\\Python\\Python38\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES\\V4.0_3.0.0.0_EN-US_31BF3856AD364E35\\MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.PowerShell.ConsoleHost.resources\\V4.0_3.0.0.0_EN-US_31BF3856AD364E35\\MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC\\MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES\\V4.0_3.0.0.0_EN-US_31BF3856AD364E35\\MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_32\\MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES\\3.0.0.0_EN-US_31BF3856AD364E35\\MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_MSIL\\Microsoft.PowerShell.ConsoleHost.Resources\\3.0.0.0_EN-US_31BF3856AD364E35\\MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC\\MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES\\3.0.0.0_EN-US_31BF3856AD364E35\\MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\en-US\\MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\en-US\\MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES\\MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\en-US\\MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES.EXE",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\en-US\\MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES\\MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES.EXE",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Microsoft\\Windows\\PowerShell\\StartupProfileData-NonInteractive",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Data\\b9463297e0537784be981f4d68498abc\\System.Data.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Data\\b9463297e0537784be981f4d68498abc\\System.Data.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Data\\df2dd09ed7c341842a104e1e668f184e\\System.Data.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Data\\df2dd09ed7c341842a104e1e668f184e\\System.Data.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Runtime.Caching\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Runtime.Caching.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Runtime.Caching\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Runtime.Caching.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.EnterpriseServices\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.EnterpriseServices.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.EnterpriseServices\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.EnterpriseServices.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Data\\df2dd09ed7c341842a104e1e668f184e\\System.Data.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Data\\df2dd09ed7c341842a104e1e668f184e\\System.Data.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Data\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Data\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Data\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Data\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Data\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Data\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Data\\v4.0_4.0.0.0__b77a5c561934e089\\SYSTEM.DATA.DLL.CONFIG",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Data\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Data\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Data.SqlXml\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.SqlXml.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Data.SqlXml\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.SqlXml.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Management\\e114780fd3ea5727401c06ea4f22ef35\\System.Management.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Management\\e114780fd3ea5727401c06ea4f22ef35\\System.Management.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.JScript\\v4.0_10.0.0.0__b03f5f7f11d50a3a\\Microsoft.JScript.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.JScript\\v4.0_10.0.0.0__b03f5f7f11d50a3a\\Microsoft.JScript.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Management\\e114780fd3ea5727401c06ea4f22ef35\\System.Management.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Management\\e114780fd3ea5727401c06ea4f22ef35\\System.Management.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Dired13b18a9#\\2e76676fbd265f70be92c82bbf76b8e5\\System.DirectoryServices.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Dired13b18a9#\\2e76676fbd265f70be92c82bbf76b8e5\\System.DirectoryServices.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Dired13b18a9#\\2e76676fbd265f70be92c82bbf76b8e5\\System.DirectoryServices.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Dired13b18a9#\\2e76676fbd265f70be92c82bbf76b8e5\\System.DirectoryServices.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-core-xstate-l2-1-0.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-core-xstate-l2-1-0.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clrjit.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clrjit.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\MICROSOFT.POWERSHELL.SECURITY\\V4.0_3.0.0.0__31BF3856AD364E35\\MICROSOFT.POWERSHELL.SECURITY.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.PowerShell.Security\\v4.0_3.0.0.0__31bf3856ad364e35\\Microsoft.Powershell.Security.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.P6f792626#\\fbf36f7901fec6a367af3bc05a96b929\\Microsoft.PowerShell.Security.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.P6f792626#\\fbf36f7901fec6a367af3bc05a96b929\\Microsoft.PowerShell.Security.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.PowerShell.Security\\v4.0_3.0.0.0__31bf3856ad364e35\\Microsoft.Powershell.Security.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.P6f792626#\\fbf36f7901fec6a367af3bc05a96b929\\Microsoft.PowerShell.Security.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.P6f792626#\\fbf36f7901fec6a367af3bc05a96b929\\Microsoft.PowerShell.Security.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.Mf49f6405#\\e3134541fd9904dc895922f5256ef8f3\\Microsoft.Management.Infrastructure.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.Mf49f6405#\\e3134541fd9904dc895922f5256ef8f3\\Microsoft.Management.Infrastructure.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.Mf49f6405#\\e3134541fd9904dc895922f5256ef8f3\\Microsoft.Management.Infrastructure.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.Mf49f6405#\\e3134541fd9904dc895922f5256ef8f3\\Microsoft.Management.Infrastructure.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Transactions\\3d760b4a3260a41ef84a3fd866780980\\System.Transactions.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Transactions\\3d760b4a3260a41ef84a3fd866780980\\System.Transactions.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Transactions\\3d760b4a3260a41ef84a3fd866780980\\System.Transactions.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Transactions\\3d760b4a3260a41ef84a3fd866780980\\System.Transactions.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Transactions\\v4.0_4.0.0.0__b77a5c561934e089\\System.Transactions.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Transactions\\v4.0_4.0.0.0__b77a5c561934e089\\System.Transactions.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Transactions\\v4.0_4.0.0.0__b77a5c561934e089\\System.Transactions.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Transactions\\v4.0_4.0.0.0__b77a5c561934e089\\System.Transactions.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Transactions\\v4.0_4.0.0.0__b77a5c561934e089\\System.Transactions.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Transactions\\v4.0_4.0.0.0__b77a5c561934e089\\System.Transactions.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Transactions\\v4.0_4.0.0.0__b77a5c561934e089\\SYSTEM.TRANSACTIONS.DLL.CONFIG",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Transactions\\v4.0_4.0.0.0__b77a5c561934e089\\System.Transactions.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Numerics\\8b3a24513f4ee8ea84b4dcac84afdd32\\System.Numerics.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Numerics\\8b3a24513f4ee8ea84b4dcac84afdd32\\System.Numerics.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Transactions\\v4.0_4.0.0.0__b77a5c561934e089\\System.Transactions.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Numerics\\e7d6ed984300c7212c6e682c4f730b1e\\System.Numerics.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Numerics\\e7d6ed984300c7212c6e682c4f730b1e\\System.Numerics.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Numerics\\e7d6ed984300c7212c6e682c4f730b1e\\System.Numerics.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Numerics\\e7d6ed984300c7212c6e682c4f730b1e\\System.Numerics.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\mscorlib\\v4.0_4.0.0.0__b77a5c561934e089\\SECUR32.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\secur32.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\secur32.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\share",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\share",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\share",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\share",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\share",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management.Automation\\v4.0_3.0.0.0__31bf3856ad364e35\\SHLWAPI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\share",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\share",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\share",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\share",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\share",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\share",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\share",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.CSharp\\2ce9271c2b54eaf4a012ee351a9a514d\\Microsoft.CSharp.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.CSharp\\2ce9271c2b54eaf4a012ee351a9a514d\\Microsoft.CSharp.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.CSharp\\f73f48afb5512225dedaee9c88ac5050\\Microsoft.CSharp.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.CSharp\\f73f48afb5512225dedaee9c88ac5050\\Microsoft.CSharp.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Dynamic\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Dynamic.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Dynamic\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Dynamic.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.CSharp\\f73f48afb5512225dedaee9c88ac5050\\Microsoft.CSharp.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.CSharp\\f73f48afb5512225dedaee9c88ac5050\\Microsoft.CSharp.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WLDP.DLL",
+        "access": "80"
+    },
+    {
+        "type": "CREATE",
+        "path": "%TEMP%\\amping5b.xx5.ps1",
+        "access": "120196"
+    },
+    {
+        "type": "CREATE",
+        "path": "%TEMP%\\mccuoomf.tho.psm1",
+        "access": "120196"
+    },
+    {
+        "type": "OPEN",
+        "path": "%TEMP%\\amping5b.xx5.ps1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%TEMP%\\amping5b.xx5.ps1",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%TEMP%\\amping5b.xx5.ps1",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%TEMP%\\amping5b.xx5.ps1",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%TEMP%\\amping5b.xx5.ps1",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Temp",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%USERPROFILE%\\AppData\\Local",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%USERPROFILE%\\AppData",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\Users\\%OSUSER%",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\Users",
+        "access": "100080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%TEMP%\\amping5b.xx5.ps1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%TEMP%\\amping5b.xx5.ps1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%TEMP%\\amping5b.xx5.ps1",
+        "access": "10080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%TEMP%\\mccuoomf.tho.psm1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%TEMP%\\mccuoomf.tho.psm1",
+        "access": "10080"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\PROFILE.PS1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\MICROSOFT.POWERSHELL_PROFILE.PS1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%USERPROFILE%\\Documents\\WINDOWSPOWERSHELL\\PROFILE.PS1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%USERPROFILE%\\Documents\\WINDOWSPOWERSHELL\\MICROSOFT.POWERSHELL_PROFILE.PS1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\uxtheme.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\uxtheme.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\RPCRTREMOTE.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\RpcRtRemote.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\RpcRtRemote.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management.Automation\\v4.0_3.0.0.0__31bf3856ad364e35\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\system\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\%SYSTEMROOT%\\SYSTEM32\\WINDOWSPOWERSHELL\\V1.0\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%ALLUSERSPROFILE%\\Oracle\\Java\\javapath\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%ALLUSERSPROFILE%\\Oracle\\Java\\javapath_target_713187\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\wbem\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Programs\\Python\\Python38\\Scripts\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Programs\\Python\\Python38\\AMSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\%SYSTEMROOT%\\SYSTEM32\\WINDOWSPOWERSHELL\\V1.0",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%ALLUSERSPROFILE%\\Oracle\\Java\\javapath",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%USERPROFILE%\\Documents\\WINDOWSPOWERSHELL\\MODULES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MODULES.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MODULES.PSM1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MODULES.CDXML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MODULES.XAML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MODULES.NI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MODULES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PackageManagement\\1.0.0.1\\PackageManagement.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PackageManagement\\1.0.0.1\\PackageManagement.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Microsoft\\Windows\\PowerShell\\MODULEANALYSISCACHE",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Microsoft\\Windows\\PowerShell\\MODULEANALYSISCACHE",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Microsoft\\Windows\\PowerShell\\MODULEANALYSISCACHE",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PackageManagement\\1.0.0.1\\PackageManagement.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PackageManagement\\PACKAGEMANAGEMENT.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PackageManagement\\PACKAGEMANAGEMENT.PSM1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PackageManagement\\PACKAGEMANAGEMENT.CDXML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PackageManagement\\PACKAGEMANAGEMENT.XAML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PackageManagement\\PACKAGEMANAGEMENT.NI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PackageManagement\\PACKAGEMANAGEMENT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PowerShellGet.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PowerShellGet.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PowerShellGet.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PowerShellGet.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PowerShellGet.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PowerShellGet.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PowerShellGet.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PowerShellGet.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PowerShellGet.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PowerShellGet.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\en-US\\POWERSHELLGET.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\EN\\POWERSHELLGET.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PSModule.psm1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PSModule.psm1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PSGet.Format.ps1xml",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PSGet.Format.ps1xml",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PSGet.Format.ps1xml",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PSModule.psm1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PSModule.psm1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PSGet.Format.ps1xml",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PSGet.Format.ps1xml",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PSGet.Resource.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PSGet.Resource.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PSGETMODULEINFO.XML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PSModule.psm1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PSModule.psm1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PSModule.psm1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PSModule.psm1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PowerShellGet.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PowerShellGet.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\POWERSHELLGET.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\POWERSHELLGET.PSM1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\POWERSHELLGET.CDXML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\POWERSHELLGET.XAML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\POWERSHELLGET.NI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\POWERSHELLGET.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\.PSM1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\.CDXML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\.XAML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\.NI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Utility\\Microsoft.PowerShell.Utility.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Utility\\Microsoft.PowerShell.Utility.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Utility\\Microsoft.PowerShell.Utility.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Management\\Microsoft.PowerShell.Management.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Management\\Microsoft.PowerShell.Management.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Management\\Microsoft.PowerShell.Management.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\BitsTransfer.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\BitsTransfer.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\BitsTransfer.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\BitsTransfer.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\BitsTransfer.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\BitsTransfer.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\BitsTransfer.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\BitsTransfer.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\BitsTransfer.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\BitsTransfer.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\%SYSTEMROOT%\\SYSTEM32\\WINDOWSPOWERSHELL\\V1.0",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%ALLUSERSPROFILE%\\Oracle\\Java\\javapath",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%USERPROFILE%\\Documents\\WINDOWSPOWERSHELL\\MODULES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MODULES.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MODULES.PSM1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MODULES.CDXML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MODULES.XAML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MODULES.NI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MODULES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PackageManagement\\1.0.0.1\\PackageManagement.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PackageManagement\\1.0.0.1\\PackageManagement.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PackageManagement\\PACKAGEMANAGEMENT.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PackageManagement\\PACKAGEMANAGEMENT.PSM1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PackageManagement\\PACKAGEMANAGEMENT.CDXML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PackageManagement\\PACKAGEMANAGEMENT.XAML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PackageManagement\\PACKAGEMANAGEMENT.NI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PackageManagement\\PACKAGEMANAGEMENT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PowerShellGet.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\1.0.0.1\\PowerShellGet.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\POWERSHELLGET.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\POWERSHELLGET.PSM1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\POWERSHELLGET.CDXML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\POWERSHELLGET.XAML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\POWERSHELLGET.NI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\PowerShellGet\\POWERSHELLGET.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\.PSM1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\.CDXML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\.XAML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\.NI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Utility\\Microsoft.PowerShell.Utility.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Utility\\Microsoft.PowerShell.Utility.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Management\\Microsoft.PowerShell.Management.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Management\\Microsoft.PowerShell.Management.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Management\\Microsoft.PowerShell.Management.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Management\\Microsoft.PowerShell.Management.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Management\\Microsoft.PowerShell.Management.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Management\\Microsoft.PowerShell.Management.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Management\\Microsoft.PowerShell.Management.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Management\\Microsoft.PowerShell.Management.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Management\\Microsoft.PowerShell.Management.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Management\\Microsoft.PowerShell.Management.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Management\\Microsoft.PowerShell.Management.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Management\\EN-US\\MICROSOFT.POWERSHELL.MANAGEMENT.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Management\\EN\\MICROSOFT.POWERSHELL.MANAGEMENT.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Management\\PSGETMODULEINFO.XML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Management\\MICROSOFT.POWERSHELL.COMMANDS.MANAGEMENT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Management\\MICROSOFT.POWERSHELL.COMMANDS.MANAGEMENT.DLL\\MICROSOFT.POWERSHELL.COMMANDS.MANAGEMENT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%USERPROFILE%\\Documents\\WINDOWSPOWERSHELL\\MODULES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MICROSOFT.POWERSHELL.COMMANDS.MANAGEMENT",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MICROSOFT.POWERSHELL.COMMANDS.MANAGEMENT\\MICROSOFT.POWERSHELL.COMMANDS.MANAGEMENT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\MICROSOFT.POWERSHELL.COMMANDS.MANAGEMENT",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\MICROSOFT.POWERSHELL.COMMANDS.MANAGEMENT\\MICROSOFT.POWERSHELL.COMMANDS.MANAGEMENT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\MICROSOFT.POWERSHELL.COMMANDS.MANAGEMENT",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\MICROSOFT.POWERSHELL.COMMANDS.MANAGEMENT\\MICROSOFT.POWERSHELL.COMMANDS.MANAGEMENT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\MICROSOFT.POWERSHELL.COMMANDS.MANAGEMENT\\V4.0_3.0.0.0__31BF3856AD364E35\\MICROSOFT.POWERSHELL.COMMANDS.MANAGEMENT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.PowerShell.Commands.Management\\v4.0_3.0.0.0__31bf3856ad364e35\\Microsoft.Powershell.Commands.Management.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.Pae3498d9#\\ade0afceac1317e3668a9c8086d8d18b\\Microsoft.PowerShell.Commands.Management.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.Pae3498d9#\\ade0afceac1317e3668a9c8086d8d18b\\Microsoft.PowerShell.Commands.Management.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.PowerShell.Commands.Management\\v4.0_3.0.0.0__31bf3856ad364e35\\Microsoft.Powershell.Commands.Management.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.ServiceProcess\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.ServiceProcess.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.ServiceProcess\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.ServiceProcess.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Windows.Forms\\v4.0_4.0.0.0__b77a5c561934e089\\System.Windows.Forms.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Windows.Forms\\v4.0_4.0.0.0__b77a5c561934e089\\System.Windows.Forms.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.WSMan.Management\\v4.0_3.0.0.0__31bf3856ad364e35\\Microsoft.WSMan.Management.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.WSMan.Management\\v4.0_3.0.0.0__31bf3856ad364e35\\Microsoft.WSMan.Management.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Drawing\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Drawing.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Drawing\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Drawing.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Web.Services\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Web.Services.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Web.Services\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Web.Services.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Transactions\\v4.0_4.0.0.0__b77a5c561934e089\\System.Transactions.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.Pae3498d9#\\ade0afceac1317e3668a9c8086d8d18b\\Microsoft.PowerShell.Commands.Management.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.Pae3498d9#\\ade0afceac1317e3668a9c8086d8d18b\\Microsoft.PowerShell.Commands.Management.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Confe64a9051#\\1561b93d6d25c4a9c3e2659ab29a5e73\\System.Configuration.Install.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Confe64a9051#\\1561b93d6d25c4a9c3e2659ab29a5e73\\System.Configuration.Install.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Confe64a9051#\\1561b93d6d25c4a9c3e2659ab29a5e73\\System.Configuration.Install.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Confe64a9051#\\1561b93d6d25c4a9c3e2659ab29a5e73\\System.Configuration.Install.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\en-US\\BITSTRANSFER.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\EN\\BITSTRANSFER.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\BitsTransfer.Format.ps1xml",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\BitsTransfer.Format.ps1xml",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\BitsTransfer.Format.ps1xml",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\PSGETMODULEINFO.XML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.PSM1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.CDXML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.XAML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.NI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.PSM1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.CDXML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.XAML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.NI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%USERPROFILE%\\Documents\\WINDOWSPOWERSHELL\\MODULES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.PSM1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.CDXML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.XAML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.NI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.PSM1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.CDXML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.XAML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.NI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.PSM1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.CDXML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.XAML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.NI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\POWERSHELL.EXE.CONFIG",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\pubpol328.dat",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC\\PUBLISHERPOLICY.TME",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\SYSTEM.MANAGEMENT.AUTOMATION\\V4.0_3.0.0.0__31BF3856AD364E35\\SYSTEM.MANAGEMENT.AUTOMATION.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management.Automation\\v4.0_3.0.0.0__31bf3856ad364e35\\System.Management.Automation.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Manaa57fc8cc#\\a68aa6199c81feadf8c95a4ea0254b2c\\System.Management.Automation.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Manaa57fc8cc#\\a68aa6199c81feadf8c95a4ea0254b2c\\System.Management.Automation.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management.Automation\\v4.0_3.0.0.0__31bf3856ad364e35\\System.Management.Automation.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Configuration.Install\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Configuration.Install.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Configuration.Install\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Configuration.Install.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\SYSTEM\\V4.0_4.0.0.0__B77A5C561934E089\\SYSTEM.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\System.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\0b2f69b43a576b9edcc807a30872bd91\\System.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\0b2f69b43a576b9edcc807a30872bd91\\System.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\System.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Configuration\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Configuration.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Configuration\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Configuration.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Xml\\v4.0_4.0.0.0__b77a5c561934e089\\System.Xml.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Xml\\v4.0_4.0.0.0__b77a5c561934e089\\System.Xml.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.Management.Infrastructure\\v4.0_1.0.0.0__31bf3856ad364e35\\Microsoft.Management.Infrastructure.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.Management.Infrastructure\\v4.0_1.0.0.0__31bf3856ad364e35\\Microsoft.Management.Infrastructure.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\SYSTEM.CORE\\V4.0_4.0.0.0__B77A5C561934E089\\SYSTEM.CORE.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Core\\v4.0_4.0.0.0__b77a5c561934e089\\System.Core.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Core\\v4.0_4.0.0.0__b77a5c561934e089\\System.Core.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Numerics\\v4.0_4.0.0.0__b77a5c561934e089\\System.Numerics.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Numerics\\v4.0_4.0.0.0__b77a5c561934e089\\System.Numerics.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Security\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Security.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Security\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Security.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Transactions\\v4.0_4.0.0.0__b77a5c561934e089\\System.Transactions.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Transactions\\v4.0_4.0.0.0__b77a5c561934e089\\System.Transactions.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Transactions\\v4.0_4.0.0.0__b77a5c561934e089\\System.Transactions.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.DirectoryServices\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.DirectoryServices.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.DirectoryServices\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.DirectoryServices.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\Microsoft.Management.Infrastructure.Native\\v4.0_1.0.0.0__31bf3856ad364e35\\Microsoft.Management.Infrastructure.Native.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\Microsoft.Management.Infrastructure.Native\\v4.0_1.0.0.0__31bf3856ad364e35\\Microsoft.Management.Infrastructure.Native.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Runtime.Serialization\\v4.0_4.0.0.0__b77a5c561934e089\\System.Runtime.Serialization.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Runtime.Serialization\\v4.0_4.0.0.0__b77a5c561934e089\\System.Runtime.Serialization.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Management.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Management.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Data\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Data\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.Data\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.CSharp\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\Microsoft.CSharp.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.CSharp\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\Microsoft.CSharp.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\SMDiagnostics\\v4.0_4.0.0.0__b77a5c561934e089\\SMDiagnostics.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\SMDiagnostics\\v4.0_4.0.0.0__b77a5c561934e089\\SMDiagnostics.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.Mf49f6405#\\e3134541fd9904dc895922f5256ef8f3\\Microsoft.Management.Infrastructure.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.Mf49f6405#\\e3134541fd9904dc895922f5256ef8f3\\Microsoft.Management.Infrastructure.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.M870d558a#\\7ceb6b903321c16b12386a8df1be50f9\\Microsoft.Management.Infrastructure.Native.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.M870d558a#\\7ceb6b903321c16b12386a8df1be50f9\\Microsoft.Management.Infrastructure.Native.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.M870d558a#\\7ceb6b903321c16b12386a8df1be50f9\\Microsoft.Management.Infrastructure.Native.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.M870d558a#\\7ceb6b903321c16b12386a8df1be50f9\\Microsoft.Management.Infrastructure.Native.ni.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.M870d558a#\\7ceb6b903321c16b12386a8df1be50f9\\Microsoft.Management.Infrastructure.Native.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.M870d558a#\\7ceb6b903321c16b12386a8df1be50f9\\Microsoft.Management.Infrastructure.Native.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Management\\e114780fd3ea5727401c06ea4f22ef35\\System.Management.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Management\\e114780fd3ea5727401c06ea4f22ef35\\System.Management.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.JScript\\v4.0_10.0.0.0__b03f5f7f11d50a3a\\Microsoft.JScript.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.JScript\\v4.0_10.0.0.0__b03f5f7f11d50a3a\\Microsoft.JScript.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Dired13b18a9#\\2e76676fbd265f70be92c82bbf76b8e5\\System.DirectoryServices.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Dired13b18a9#\\2e76676fbd265f70be92c82bbf76b8e5\\System.DirectoryServices.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Data.SqlXml\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.SqlXml.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Data.SqlXml\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.SqlXml.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Transactions\\3d760b4a3260a41ef84a3fd866780980\\System.Transactions.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Transactions\\3d760b4a3260a41ef84a3fd866780980\\System.Transactions.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.EnterpriseServices\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.EnterpriseServices.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\System.EnterpriseServices\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.EnterpriseServices.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Numerics\\8b3a24513f4ee8ea84b4dcac84afdd32\\System.Numerics.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Numerics\\8b3a24513f4ee8ea84b4dcac84afdd32\\System.Numerics.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Numerics\\e7d6ed984300c7212c6e682c4f730b1e\\System.Numerics.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Numerics\\e7d6ed984300c7212c6e682c4f730b1e\\System.Numerics.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.CSharp\\2ce9271c2b54eaf4a012ee351a9a514d\\Microsoft.CSharp.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.CSharp\\2ce9271c2b54eaf4a012ee351a9a514d\\Microsoft.CSharp.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.CSharp\\f73f48afb5512225dedaee9c88ac5050\\Microsoft.CSharp.ni.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.CSharp\\f73f48afb5512225dedaee9c88ac5050\\Microsoft.CSharp.ni.dll.aux",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Dynamic\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Dynamic.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Dynamic\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Dynamic.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\POWERSHELL.EXE.CONFIG",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES\\V4.0_3.0.0.0_EN-US_31BF3856AD364E35\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management.Automation.resources\\V4.0_3.0.0.0_EN-US_31BF3856AD364E35\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES\\V4.0_3.0.0.0_EN-US_31BF3856AD364E35\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_32\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES\\3.0.0.0_EN-US_31BF3856AD364E35\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_MSIL\\System.Management.Automation.Resources\\3.0.0.0_EN-US_31BF3856AD364E35\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES\\3.0.0.0_EN-US_31BF3856AD364E35\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\en-US\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\en-US\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\en-US\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES.EXE",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\en-US\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES\\SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES.EXE",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.EXE",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.EXE",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_64\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_32\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_MSIL\\Microsoft.BackgroundIntelligentTransfer.Management\\1.0.0.0__31bf3856ad364e35\\Microsoft.BackgroundIntelligentTransfer.Management.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_64\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\V4.0_1.0.0.0__31BF3856AD364E35\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\V4.0_1.0.0.0__31BF3856AD364E35\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\V4.0_1.0.0.0__31BF3856AD364E35\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_32\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT\\1.0.0.0__31BF3856AD364E35\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_MSIL\\Microsoft.BackgroundIntelligentTransfer.Management\\1.0.0.0__31bf3856ad364e35\\Microsoft.BackgroundIntelligentTransfer.Management.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\MICROSOFT.BA45BBBA0#",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\MICROSOFT.BA45BBBA0#",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_MSIL\\Microsoft.BackgroundIntelligentTransfer.Management\\1.0.0.0__31bf3856ad364e35\\Microsoft.BackgroundIntelligentTransfer.Management.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_MSIL\\Microsoft.BackgroundIntelligentTransfer.Management\\1.0.0.0__31bf3856ad364e35\\Microsoft.BackgroundIntelligentTransfer.Management.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_MSIL\\Microsoft.BackgroundIntelligentTransfer.Management\\1.0.0.0__31bf3856ad364e35\\Microsoft.BackgroundIntelligentTransfer.Management.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_MSIL\\Microsoft.BackgroundIntelligentTransfer.Management\\1.0.0.0__31bf3856ad364e35\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.INI",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Policy.1.0.System.Management.Automation\\v4.0_1.0.0.0__31bf3856ad364e35\\Policy.1.0.System.Management.Automation.config",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Policy.1.0.System.Management.Automation\\v4.0_1.0.0.0__31bf3856ad364e35\\Policy.1.0.System.Management.Automation.config",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.INTEROP\\V4.0_6.1.0.0__31BF3856AD364E35\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.INTEROP.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.INTEROP\\V4.0_6.1.0.0__31BF3856AD364E35\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.INTEROP.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.INTEROP\\V4.0_6.1.0.0__31BF3856AD364E35\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.INTEROP.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_32\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.INTEROP\\6.1.0.0__31BF3856AD364E35\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.INTEROP.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_MSIL\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.INTEROP\\6.1.0.0__31BF3856AD364E35\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.INTEROP.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.INTEROP\\6.1.0.0__31BF3856AD364E35\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.INTEROP.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.INTEROP.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.INTEROP\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.INTEROP.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.INTEROP.EXE",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.INTEROP\\MICROSOFT.BACKGROUNDINTELLIGENTTRANSFER.MANAGEMENT.INTEROP.EXE",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Policy.1.0.System.Management.Automation\\v4.0_1.0.0.0__31bf3856ad364e35\\Policy.1.0.System.Management.Automation.config",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\BitsTransfer.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\BitsTransfer\\BitsTransfer.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\CimCmdlets\\CimCmdlets.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\CimCmdlets\\CimCmdlets.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\CimCmdlets\\CimCmdlets.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\ISE\\ise.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\ISE\\ise.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\ISE\\ise.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Archive\\Microsoft.PowerShell.Archive.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Archive\\Microsoft.PowerShell.Archive.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Archive\\Microsoft.PowerShell.Archive.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Diagnostics\\Microsoft.PowerShell.Diagnostics.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Diagnostics\\Microsoft.PowerShell.Diagnostics.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Diagnostics\\Microsoft.PowerShell.Diagnostics.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Host\\Microsoft.PowerShell.Host.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Host\\Microsoft.PowerShell.Host.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Host\\Microsoft.PowerShell.Host.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.ODataUtils\\Microsoft.PowerShell.ODataUtils.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.ODataUtils\\Microsoft.PowerShell.ODataUtils.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.ODataUtils\\Microsoft.PowerShell.ODataUtils.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Security\\Microsoft.PowerShell.Security.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Security\\Microsoft.PowerShell.Security.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.PowerShell.Security\\Microsoft.PowerShell.Security.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.WSMan.Management\\Microsoft.WSMan.Management.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.WSMan.Management\\Microsoft.WSMan.Management.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\Microsoft.WSMan.Management\\Microsoft.WSMan.Management.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDesiredStateConfiguration\\PSDesiredStateConfiguration.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDesiredStateConfiguration\\PSDesiredStateConfiguration.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDesiredStateConfiguration\\PSDesiredStateConfiguration.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\EN-US\\PSDIAGNOSTICS.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\EN\\PSDIAGNOSTICS.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSGETMODULEINFO.XML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\EN-US\\PSDIAGNOSTICS.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\EN\\PSDIAGNOSTICS.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSGETMODULEINFO.XML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDIAGNOSTICS",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psm1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psm1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psm1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psm1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psm1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSDiagnostics\\PSDiagnostics.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSScheduledJob\\PSScheduledJob.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSScheduledJob\\PSScheduledJob.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\PSScheduledJob\\PSScheduledJob.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\TroubleshootingPack.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\TroubleshootingPack.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\TroubleshootingPack.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\TroubleshootingPack.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\TroubleshootingPack.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\TroubleshootingPack.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\TroubleshootingPack.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\TroubleshootingPack.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\TroubleshootingPack.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\TroubleshootingPack.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\p2pcollab.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\p2pcollab.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\QAGENTRT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dnsapi.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dnsapi.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\NCRYPT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ncrypt.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ncrypt.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\BCRYPT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\bcrypt.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\bcrypt.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\bcryptprimitives.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\bcryptprimitives.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\GPAPI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\gpapi.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\gpapi.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\CRYPTNET.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\cryptnet.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\cryptnet.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\SENSAPI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\SensApi.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\SensApi.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\WINHTTP.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\winhttp.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\winhttp.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\WEBIO.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\webio.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\webio.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\CREDSSP.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\credssp.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\credssp.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\mswsock.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\mswsock.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WSHTCPIP.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WSHTCPIP.DLL",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\wship6.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\wship6.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\IPHLPAPI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\IPHLPAPI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\IPHLPAPI.DLL",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\WINNSI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\winnsi.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\winnsi.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\DHCPCSVC6.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dhcpcsvc6.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dhcpcsvc6.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\DHCPCSVC.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dhcpcsvc.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dhcpcsvc.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\winhttp.dll.mui",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\MetaData\\57C8EDB95DF3F0AD4EE2DC2B8CFD4157",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\DNSAPI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dnsapi.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dnsapi.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\RASADHLP.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rasadhlp.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rasadhlp.dll",
+        "access": "100021"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\FWPUCLNT.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\FWPUCLNT.DLL",
+        "access": "100021"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\MetaData\\57C8EDB95DF3F0AD4EE2DC2B8CFD4157",
+        "access": "12019f"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\Content\\57C8EDB95DF3F0AD4EE2DC2B8CFD4157",
+        "access": "12019f"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\MetaData\\7B2238AACCEDC3F1FFE8E7EB5F575EC9",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\Content\\7B2238AACCEDC3F1FFE8E7EB5F575EC9",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\CRYPT32.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\CRYPT32.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\en-US\\TROUBLESHOOTINGPACK.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\EN\\TROUBLESHOOTINGPACK.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\TroubleshootingPack.format.ps1xml",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\TroubleshootingPack.format.ps1xml",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\TroubleshootingPack.format.ps1xml",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\PSGETMODULEINFO.XML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.PSM1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.CDXML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.XAML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.NI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.PSM1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.CDXML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.XAML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.NI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%USERPROFILE%\\Documents\\WINDOWSPOWERSHELL\\MODULES",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.PSM1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.CDXML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.XAML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.NI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\WindowsPowerShell\\Modules\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.PSM1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.CDXML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.XAML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.NI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.PSD1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.PSM1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.CDXML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.XAML",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.NI.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.EXE",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.EXE",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_64\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_32\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_MSIL\\Microsoft.Windows.Diagnosis.TroubleshootingPack\\6.1.0.0__31bf3856ad364e35\\Microsoft.Windows.Diagnosis.TroubleshootingPack.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_64\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\V4.0_6.1.0.0__31BF3856AD364E35\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\V4.0_6.1.0.0__31BF3856AD364E35\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\V4.0_6.1.0.0__31BF3856AD364E35\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_32\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK\\6.1.0.0__31BF3856AD364E35\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_MSIL\\Microsoft.Windows.Diagnosis.TroubleshootingPack\\6.1.0.0__31bf3856ad364e35\\Microsoft.Windows.Diagnosis.TroubleshootingPack.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\MICROSOFT.W3CDB5602#",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\MICROSOFT.W3CDB5602#",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_MSIL\\Microsoft.Windows.Diagnosis.TroubleshootingPack\\6.1.0.0__31bf3856ad364e35\\Microsoft.Windows.Diagnosis.TroubleshootingPack.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_MSIL\\Microsoft.Windows.Diagnosis.TroubleshootingPack\\6.1.0.0__31bf3856ad364e35\\Microsoft.Windows.Diagnosis.TroubleshootingPack.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_MSIL\\Microsoft.Windows.Diagnosis.TroubleshootingPack\\6.1.0.0__31bf3856ad364e35\\Microsoft.Windows.Diagnosis.TroubleshootingPack.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_MSIL\\Microsoft.Windows.Diagnosis.TroubleshootingPack\\6.1.0.0__31bf3856ad364e35\\MICROSOFT.WINDOWS.DIAGNOSIS.TROUBLESHOOTINGPACK.INI",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\MICROSOFT.WINDOWS.DIAGNOSIS.SDENGINE\\V4.0_6.1.0.0__31BF3856AD364E35\\MICROSOFT.WINDOWS.DIAGNOSIS.SDENGINE.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\MICROSOFT.WINDOWS.DIAGNOSIS.SDENGINE\\V4.0_6.1.0.0__31BF3856AD364E35\\MICROSOFT.WINDOWS.DIAGNOSIS.SDENGINE.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC\\MICROSOFT.WINDOWS.DIAGNOSIS.SDENGINE\\V4.0_6.1.0.0__31BF3856AD364E35\\MICROSOFT.WINDOWS.DIAGNOSIS.SDENGINE.DLL",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_32\\Microsoft.Windows.Diagnosis.SDEngine\\6.1.0.0__31bf3856ad364e35\\Microsoft.Windows.Diagnosis.SDEngine.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\MICROSOFT.WD75D181A#",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\MICROSOFT.WD75D181A#",
+        "access": "100001"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_32\\Microsoft.Windows.Diagnosis.SDEngine\\6.1.0.0__31bf3856ad364e35\\Microsoft.Windows.Diagnosis.SDEngine.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_32\\Microsoft.Windows.Diagnosis.SDEngine\\6.1.0.0__31bf3856ad364e35\\Microsoft.Windows.Diagnosis.SDEngine.dll",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_32\\Microsoft.Windows.Diagnosis.SDEngine\\6.1.0.0__31bf3856ad364e35\\Microsoft.Windows.Diagnosis.SDEngine.dll",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Policy.1.0.System.Management.Automation\\v4.0_1.0.0.0__31bf3856ad364e35\\Policy.1.0.System.Management.Automation.config",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Policy.1.0.System.Management.Automation\\v4.0_1.0.0.0__31bf3856ad364e35\\Policy.1.0.System.Management.Automation.config",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC_32\\Microsoft.Windows.Diagnosis.SDEngine\\6.1.0.0__31bf3856ad364e35\\MICROSOFT.WINDOWS.DIAGNOSIS.SDENGINE.INI",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\TroubleshootingPack.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\Modules\\TroubleshootingPack\\TroubleshootingPack.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\AutoItX.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\AutoItX.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\AutoItX.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\AutoItX.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\AutoItX.psd1",
+        "access": "120089"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\AutoItX.psd1",
+        "access": "80"
+    },
+    {
+        "type": "OPEN",
+        "path": "%PROGRAMFILES%\\(x86)\\AutoIt3\\AutoItX\\EN-US\\AUTOITX.PSD1",
+        "access": "80"
+    }
+]

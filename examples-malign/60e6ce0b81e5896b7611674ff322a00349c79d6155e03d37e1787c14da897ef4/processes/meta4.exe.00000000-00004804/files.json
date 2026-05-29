@@ -1,0 +1,227 @@
+[
+    {
+        "type": "CREATE",
+        "path": "\\FileSystem\\Filters\\FltMgrMsg",
+        "access": "FILE_READ_DATA | FILE_WRITE_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64win.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64win.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64cpu.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64cpu.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\WOW64LOG.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-core-synch-l1-2-0.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-core-synch-l1-2-0.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxOle32.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxOle32.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxOle32.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\sechost.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\sechost.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\FLTLIB.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\fltLib.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\fltLib.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-LOCALIZATION-L1-2-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxSSL32.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxSSL32.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxSSL32.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-LOCALIZATION-L1-2-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\meta4.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-LOCALIZATION-L1-2-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-DATETIME-L1-1-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-LOCALIZATION-OBSOLETE-L1-2-0.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\apphelp.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\apphelp.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\AppPatch\\sysmain.sdb",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\vbc.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\vbc.exe",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\UI\\SWDRM.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "type": "KeyHandle (1)",
+        "path": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\SideBySide"
+    },
+    {
+        "type": "FileHandle (16)",
+        "path": "C:\\Windows"
+    },
+    {
+        "type": "FileHandle (20)",
+        "path": "%WINDIR%\\System32\\wow64cpu.dll"
+    },
+    {
+        "type": "FileHandle (28)",
+        "path": "C:\\"
+    },
+    {
+        "type": "FileHandle (44)",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-core-synch-l1-2-0.dll"
+    },
+    {
+        "type": "FileHandle (48)",
+        "path": "%WINDIR%\\Temp\\VxOle32.dll"
+    },
+    {
+        "type": "FileHandle (52)",
+        "path": "%WINDIR%\\SysWOW64\\fltLib.dll"
+    },
+    {
+        "type": "FileHandle (84)",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll"
+    },
+    {
+        "type": "FileHandle (88)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\vbc.exe"
+    },
+    {
+        "type": "FileHandle (144)",
+        "path": "\\FileSystem\\Filters\\FltMgrMsg"
+    },
+    {
+        "type": "FileHandle (148)",
+        "path": "%WINDIR%\\Temp\\VxSSL32.dll"
+    },
+    {
+        "type": "FileHandle (156)",
+        "path": "%WINDIR%\\AppPatch\\sysmain.sdb"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "module_path": "%WINDIR%\\System32\\kernel32.dll",
+        "module_base": "772C0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\KernelBase.dll",
+        "module_base": "FD3E0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\api-ms-win-core-synch-l1-2-0.dll",
+        "module_base": "F9860000"
+    },
+    {
+        "module_path": "C:\\file.exe",
+        "module_base": "3FC20000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\ntdll.dll",
+        "module_base": "774E0000"
+    }
+]

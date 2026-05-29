@@ -1,0 +1,2876 @@
+[
+    {
+        "name": "NtQueryInformationProcess@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "ProcessInformationClass": "24",
+            "ProcessInformationLength": "4"
+        }
+    },
+    {
+        "name": "NtQueryInformationProcess@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "ProcessInformationClass": "24",
+            "ProcessInformationLength": "4"
+        }
+    },
+    {
+        "name": "NtQueryInformationProcess@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "ProcessInformationClass": "24",
+            "ProcessInformationLength": "4"
+        }
+    },
+    {
+        "name": "NtQueryInformationProcess@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "ProcessInformationClass": "24",
+            "ProcessInformationLength": "4"
+        }
+    },
+    {
+        "name": "NtQuerySystemInformation@NTDLL.DLL",
+        "parameters": {
+            "SystemInformationClass": "0",
+            "SystemInformationLength": "40"
+        }
+    },
+    {
+        "name": "NtQuerySystemInformation@NTDLL.DLL",
+        "parameters": {
+            "SystemInformationClass": "0",
+            "SystemInformationLength": "40"
+        }
+    },
+    {
+        "name": "NtAllocateVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "ZeroBits": "0",
+            "AllocationType": "2000",
+            "Protect": "4",
+            "(va_req)": "0000000000000000",
+            "(va_krn)": "00000000001f0000"
+        }
+    },
+    {
+        "name": "NtAllocateVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "ZeroBits": "0",
+            "AllocationType": "1000",
+            "Protect": "4",
+            "(va_req)": "0000000000310000",
+            "(va_krn)": "0000000000310000"
+        }
+    },
+    {
+        "name": "NtQuerySystemInformation@NTDLL.DLL",
+        "parameters": {
+            "SystemInformationClass": "37",
+            "SystemInformationLength": "408"
+        }
+    },
+    {
+        "name": "NtAllocateVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "ZeroBits": "0",
+            "AllocationType": "1000",
+            "Protect": "4",
+            "(va_req)": "0000000000312000",
+            "(va_krn)": "0000000000312000"
+        }
+    },
+    {
+        "name": "NtOpenDirectoryObject@NTDLL.DLL",
+        "parameters": {
+            "DirectoryObjectHandle": "2d79883d20000",
+            "DesiredAccess": "3"
+        }
+    },
+    {
+        "name": "NtQueryVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "MemoryInformationClass": "3",
+            "Length": "18"
+        }
+    },
+    {
+        "name": "NtQueryVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "MemoryInformationClass": "3",
+            "Length": "18"
+        }
+    },
+    {
+        "name": "NtQueryVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "MemoryInformationClass": "3",
+            "Length": "18"
+        }
+    },
+    {
+        "name": "NtQueryVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "MemoryInformationClass": "3",
+            "Length": "18"
+        }
+    },
+    {
+        "name": "NtQueryVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "MemoryInformationClass": "3",
+            "Length": "18"
+        }
+    },
+    {
+        "name": "NtQueryVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "MemoryInformationClass": "3",
+            "Length": "18"
+        }
+    },
+    {
+        "name": "NtQueryVolumeInformationFile@NTDLL.DLL",
+        "parameters": {
+            "FileHandle": "c",
+            "Length": "8",
+            "FileSystemInformationClass": "4",
+            "(name)": "C:\\"
+        }
+    },
+    {
+        "name": "NtOpenSection@NTDLL.DLL",
+        "parameters": {
+            "SectionHandle": "10",
+            "DesiredAccess": "f",
+            "(name)": "\\KnownDlls\\kernel32.dll"
+        }
+    },
+    {
+        "name": "NtMapViewOfSection@NTDLL.DLL",
+        "parameters": {
+            "SectionHandle": "10",
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "ZeroBits": "0",
+            "CommitSize": "0",
+            "InheritDisposition": "1",
+            "AllocationType": "0",
+            "Protect": "4"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtAllocateVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "ZeroBits": "0",
+            "AllocationType": "1000",
+            "Protect": "4",
+            "(va_req)": "0000000000313000",
+            "(va_krn)": "0000000000313000"
+        }
+    },
+    {
+        "name": "NtProtectVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "NewAccessProtection": "4",
+            "(name)": "C:\\file.exe"
+        }
+    },
+    {
+        "name": "NtOpenSection@NTDLL.DLL",
+        "parameters": {
+            "SectionHandle": "10",
+            "DesiredAccess": "f",
+            "(name)": "\\KnownDlls\\KERNELBASE.dll"
+        }
+    },
+    {
+        "name": "NtMapViewOfSection@NTDLL.DLL",
+        "parameters": {
+            "SectionHandle": "10",
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "ZeroBits": "0",
+            "CommitSize": "0",
+            "InheritDisposition": "1",
+            "AllocationType": "0",
+            "Protect": "4"
+        }
+    },
+    {
+        "name": "NtProtectVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "NewAccessProtection": "4",
+            "(name)": "C:\\file.exe"
+        }
+    },
+    {
+        "name": "NtProtectVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "NewAccessProtection": "2",
+            "(name)": "C:\\file.exe"
+        }
+    },
+    {
+        "name": "NtProtectVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "NewAccessProtection": "2",
+            "(name)": "C:\\file.exe"
+        }
+    },
+    {
+        "name": "NtQuerySystemInformation@NTDLL.DLL",
+        "parameters": {
+            "SystemInformationClass": "32",
+            "SystemInformationLength": "8"
+        }
+    },
+    {
+        "name": "NtQuerySystemInformation@NTDLL.DLL",
+        "parameters": {
+            "SystemInformationClass": "0",
+            "SystemInformationLength": "40"
+        }
+    },
+    {
+        "name": "NtQuerySystemInformation@NTDLL.DLL",
+        "parameters": {
+            "SystemInformationClass": "1",
+            "SystemInformationLength": "c"
+        }
+    },
+    {
+        "name": "NtOpenSection@NTDLL.DLL",
+        "parameters": {
+            "SectionHandle": "10",
+            "DesiredAccess": "5",
+            "(name)": "\\Sessions\\1\\Windows\\SharedSection"
+        }
+    },
+    {
+        "name": "NtCreateSection@NTDLL.DLL",
+        "parameters": {
+            "SectionHandle": "14",
+            "DesiredAccess": "f001f",
+            "PageAttributess": "4",
+            "SectionAttributes": "8000000"
+        }
+    },
+    {
+        "name": "NtConnectPort@NTDLL.DLL",
+        "parameters": {
+            "ClientPortHandle": "6651728988000",
+            "ServerPortName": "\\Sessions\\1\\Windows\\ApiPort",
+            "SecurityQos": "2fd435494",
+            "ConnectionInfo": "000000000000000002000000000000000100000000000000b0ea1e0000000000040000000000000080ea1e0000000000"
+        }
+    },
+    {
+        "name": "NtMapViewOfSection@NTDLL.DLL",
+        "parameters": {
+            "SectionHandle": "10",
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "ZeroBits": "0",
+            "CommitSize": "0",
+            "InheritDisposition": "2",
+            "AllocationType": "400000",
+            "Protect": "2"
+        }
+    },
+    {
+        "name": "NtQueryInformationProcess@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "ProcessInformationClass": "24",
+            "ProcessInformationLength": "4"
+        }
+    },
+    {
+        "name": "NtQueryInformationProcess@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "ProcessInformationClass": "24",
+            "ProcessInformationLength": "4"
+        }
+    },
+    {
+        "name": "NtQuerySystemInformation@NTDLL.DLL",
+        "parameters": {
+            "SystemInformationClass": "0",
+            "SystemInformationLength": "40"
+        }
+    },
+    {
+        "name": "NtQuerySystemInformation@NTDLL.DLL",
+        "parameters": {
+            "SystemInformationClass": "1",
+            "SystemInformationLength": "c"
+        }
+    },
+    {
+        "name": "NtQueryInformationProcess@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "ProcessInformationClass": "24",
+            "ProcessInformationLength": "4"
+        }
+    },
+    {
+        "name": "NtRequestWaitReplyPort@NTDLL.DLL",
+        "parameters": {
+            "PortHandle": "18"
+        }
+    },
+    {
+        "name": "NtOpenProcessToken@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "DesiredAccess": "8",
+            "TokenHandle": "10"
+        }
+    },
+    {
+        "name": "NtQueryInformationToken@NTDLL.DLL",
+        "parameters": {
+            "TokenHandle": "10",
+            "TokenInformationClass": "1",
+            "TokenInformationLength": "90"
+        }
+    },
+    {
+        "name": "NtQueryInformationToken@NTDLL.DLL",
+        "parameters": {
+            "TokenHandle": "14",
+            "TokenInformationClass": "1",
+            "TokenInformationLength": "58"
+        }
+    },
+    {
+        "name": "NtProtectVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "NewAccessProtection": "4",
+            "(name)": "C:\\file.exe"
+        }
+    },
+    {
+        "name": "NtOpenSection@NTDLL.DLL",
+        "parameters": {
+            "SectionHandle": "0",
+            "DesiredAccess": "f",
+            "(name)": "\\KnownDlls\\api-ms-win-core-synch-l1-2-0.dll",
+            "(status)": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "NtAllocateVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "ZeroBits": "0",
+            "AllocationType": "1000",
+            "Protect": "4",
+            "(va_req)": "0000000000314000",
+            "(va_krn)": "0000000000314000"
+        }
+    },
+    {
+        "name": "NtQueryAttributesFile@NTDLL.DLL",
+        "parameters": {
+            "FileAttributes": "1eec60",
+            "(name)": "C:\\api-ms-win-core-synch-l1-2-0.dll",
+            "(status)": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "NtQueryAttributesFile@NTDLL.DLL",
+        "parameters": {
+            "FileAttributes": "1d36c2909dcbbda",
+            "(name)": "%WINDIR%\\system32\\api-ms-win-core-synch-l1-2-0.dll"
+        }
+    },
+    {
+        "name": "NtCreateSection@NTDLL.DLL",
+        "parameters": {
+            "SectionHandle": "14",
+            "DesiredAccess": "f",
+            "PageAttributess": "10",
+            "SectionAttributes": "1000000",
+            "FileHandle": "10",
+            "(name)": "%WINDIR%\\System32\\api-ms-win-core-synch-l1-2-0.dll"
+        }
+    },
+    {
+        "name": "NtMapViewOfSection@NTDLL.DLL",
+        "parameters": {
+            "SectionHandle": "14",
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "ZeroBits": "0",
+            "CommitSize": "0",
+            "InheritDisposition": "1",
+            "AllocationType": "0",
+            "Protect": "4"
+        }
+    },
+    {
+        "name": "NtAllocateVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "ZeroBits": "0",
+            "AllocationType": "1000",
+            "Protect": "4",
+            "(va_req)": "0000000000315000",
+            "(va_krn)": "0000000000315000"
+        }
+    },
+    {
+        "name": "NtUnmapViewOfSection@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF"
+        }
+    },
+    {
+        "name": "NtUnmapViewOfSection@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF"
+        }
+    },
+    {
+        "name": "NtUnmapViewOfSection@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF"
+        }
+    },
+    {
+        "name": "NtQueryVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "MemoryInformationClass": "3",
+            "Length": "18"
+        }
+    },
+    {
+        "name": "NtQueryVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "MemoryInformationClass": "3",
+            "Length": "18"
+        }
+    },
+    {
+        "name": "NtQueryVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "MemoryInformationClass": "3",
+            "Length": "18"
+        }
+    },
+    {
+        "name": "NtQueryVirtualMemory@NTDLL.DLL",
+        "parameters": {
+            "ProcessHandle": "FFFFFFFFFFFFFFFF",
+            "MemoryInformationClass": "3",
+            "Length": "18"
+        }
+    },
+    {
+        "name": "NtRaiseHardError@NTDLL.DLL",
+        "parameters": {
+            "ErrorStatus": "c0000145",
+            "NumberOfParameters": "1",
+            "UnicodeStringParameterMask": "0",
+            "Parameters": "050000c0ffffffff",
+            "ValidResponseOptions": "1"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030",
+            "(status)": "STATUS_USER_APC (000000c0)"
+        }
+    },
+    {
+        "name": "NtDelayExecution@NTDLL.DLL",
+        "parameters": {
+            "Alertable": "0",
+            "(originaldelay)": "00000030",
+            "(status)": "STATUS_USER_APC (000000c0)"
+        }
+    },
+    {
+        "name": "NtOpenKeyEx@NTDLL.DLL",
+        "parameters": {
+            "pKeyHandle": "@0",
+            "DesiredAccess": "9",
+            "(class)": "HKLM",
+            "(path)": "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options"
+        }
+    },
+    {
+        "name": "NtQueryValueKey@NTDLL.DLL",
+        "parameters": {
+            "ResultLength": "0",
+            "ValueName": "DisableUserModeCallbackFilter",
+            "KeyValueInformationClass": "0",
+            "Length": "1024",
+            "(status)": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)",
+            "(class)": "HKLM",
+            "(path)": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+            "(value)": "DisableUserModeCallbackFilter"
+        }
+    },
+    {
+        "name": "NtOpenKeyEx@NTDLL.DLL",
+        "parameters": {
+            "pKeyHandle": "@0",
+            "DesiredAccess": "131097",
+            "(class)": "HKLM",
+            "(path)": "HKLM\\SYSTEM\\ControlSet001\\Control\\Session Manager",
+            "(status)": "STATUS_REPARSE (00000104)"
+        }
+    },
+    {
+        "name": "NtOpenKeyEx@NTDLL.DLL",
+        "parameters": {
+            "pKeyHandle": "@0",
+            "DesiredAccess": "131097",
+            "(class)": "HKLM",
+            "(path)": "HKLM\\SYSTEM\\ControlSet001\\Control\\Session Manager"
+        }
+    },
+    {
+        "name": "NtQueryValueKey@NTDLL.DLL",
+        "parameters": {
+            "ResultLength": "0",
+            "ValueName": "CWDIllegalInDLLSearch",
+            "KeyValueInformationClass": "0",
+            "Length": "1024",
+            "(status)": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)",
+            "(class)": "HKLM",
+            "(path)": "HKLM\\SYSTEM\\ControlSet001\\Control\\SESSION MANAGER",
+            "(value)": "CWDIllegalInDLLSearch"
+        }
+    },
+    {
+        "name": "NtOpenKeyEx@NTDLL.DLL",
+        "parameters": {
+            "pKeyHandle": "@0",
+            "DesiredAccess": "3",
+            "(class)": "HKLM",
+            "(path)": "HKLM\\SYSTEM\\ControlSet001\\Control\\SafeBoot\\Option",
+            "(status)": "STATUS_REPARSE (00000104)"
+        }
+    },
+    {
+        "name": "NtOpenKeyEx@NTDLL.DLL",
+        "parameters": {
+            "pKeyHandle": "@0",
+            "DesiredAccess": "3",
+            "(class)": "HKLM",
+            "(path)": "HKLM\\SYSTEM\\ControlSet001\\Control\\SafeBoot\\Option",
+            "(status)": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "NtOpenKeyEx@NTDLL.DLL",
+        "parameters": {
+            "pKeyHandle": "@0",
+            "DesiredAccess": "131097",
+            "(class)": "HKLM",
+            "(path)": "HKLM\\SYSTEM\\ControlSet001\\Control\\Srp\\GP\\DLL",
+            "(status)": "STATUS_REPARSE (00000104)"
+        }
+    },
+    {
+        "name": "NtOpenKeyEx@NTDLL.DLL",
+        "parameters": {
+            "pKeyHandle": "@0",
+            "DesiredAccess": "131097",
+            "(class)": "HKLM",
+            "(path)": "HKLM\\SYSTEM\\ControlSet001\\Control\\Srp\\GP\\DLL",
+            "(status)": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "NtOpenKeyEx@NTDLL.DLL",
+        "parameters": {
+            "pKeyHandle": "@0",
+            "DesiredAccess": "1",
+            "(class)": "HKLM",
+            "(path)": "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers"
+        }
+    },
+    {
+        "name": "NtQueryValueKey@NTDLL.DLL",
+        "parameters": {
+            "ResultLength": "0",
+            "ValueName": "TransparentEnabled",
+            "KeyValueInformationClass": "0",
+            "Length": "80",
+            "(status)": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)",
+            "(class)": "HKLM",
+            "(path)": "HKLM\\SOFTWARE\\Policies\\Microsoft\\Windows\\safer\\codeidentifiers",
+            "(value)": "TransparentEnabled"
+        }
+    },
+    {
+        "name": "NtOpenKeyEx@NTDLL.DLL",
+        "parameters": {
+            "pKeyHandle": "@0",
+            "DesiredAccess": "1",
+            "(class)": "HKCU",
+            "(path)": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "(status)": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "NtOpenFile@NTDLL.DLL",
+        "parameters": {
+            "DesiredAccess": "80",
+            "AllocationSize": "0",
+            "ShareAccess": "7",
+            "CreateDisposition": "1",
+            "CreateOptions": "200000",
+            "(name)": "C:\\API-MS-WIN-CORE-SYNCH-L1-2-0.DLL",
+            "(status)": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "NtOpenFile@NTDLL.DLL",
+        "parameters": {
+            "DesiredAccess": "80",
+            "AllocationSize": "0",
+            "ShareAccess": "7",
+            "CreateDisposition": "1",
+            "CreateOptions": "200000",
+            "(name)": "%WINDIR%\\System32\\api-ms-win-core-synch-l1-2-0.dll"
+        }
+    },
+    {
+        "name": "NtQueryInformationFile@NTDLL.DLL",
+        "parameters": {
+            "FileInformationClass": "4",
+            "Length": "28",
+            "(name)": "%WINDIR%\\System32\\api-ms-win-core-synch-l1-2-0.dll"
+        }
+    },
+    {
+        "name": "NtOpenFile@NTDLL.DLL",
+        "parameters": {
+            "DesiredAccess": "100021",
+            "AllocationSize": "0",
+            "ShareAccess": "5",
+            "CreateDisposition": "1",
+            "CreateOptions": "60",
+            "(name)": "%WINDIR%\\System32\\api-ms-win-core-synch-l1-2-0.dll"
+        }
+    },
+    {
+        "name": "NtQueryInformationFile@NTDLL.DLL",
+        "parameters": {
+            "FileInformationClass": "9",
+            "Length": "fc4",
+            "(name)": "%WINDIR%\\System32\\api-ms-win-core-synch-l1-2-0.dll"
+        }
+    },
+    {
+        "name": "NtQueryInformationFile@NTDLL.DLL",
+        "parameters": {
+            "FileInformationClass": "9",
+            "Length": "fc4",
+            "(name)": "%WINDIR%\\System32\\api-ms-win-core-synch-l1-2-0.dll"
+        }
+    },
+    {
+        "name": "NtTerminateProcess@NTDLL.DLL",
+        "parameters": {
+            "ExitStatus": "STATUS_SUCCESS (0)",
+            "(name)": "C:\\file.exe"
+        }
+    }
+]

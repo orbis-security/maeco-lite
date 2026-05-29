@@ -1,0 +1,930 @@
+[
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\EMPTY",
+            "Key": "EMPTY",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\EMPTY",
+            "Key": "EMPTY",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\LANGUAGE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\LANGUAGE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\LANGUAGE\\INSTALLLANGUAGEFALLBACK",
+            "Key": "INSTALLLANGUAGEFALLBACK",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MUI\\UILANGUAGES\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MUI\\UILANGUAGES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MUI\\UILANGUAGES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MUI\\UILANGUAGES\\EN-US\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MUI\\UILANGUAGES\\EN-US\\TYPE",
+            "Key": "TYPE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MUI\\UILANGUAGES\\EN-US\\ALTERNATECODEPAGE",
+            "Key": "ALTERNATECODEPAGE",
+            "Status": "STATUS_NO_MORE_ENTRIES (8000001a)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MUI\\UILANGUAGES\\PENDINGDELETE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MUI\\UILANGUAGES\\PENDINGDELETE\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\MUI\\SETTINGS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\MUI\\SETTINGS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\DESKTOP\\MUICACHED\\MACHINELANGUAGECONFIGURATION\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MUI\\SETTINGS\\LANGUAGECONFIGURATION\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MUI\\SETTINGS\\LANGUAGECONFIGURATION\\",
+            "Key": "",
+            "Status": "STATUS_NO_MORE_ENTRIES (8000001a)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\MUI\\SETTINGS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\MUI\\SETTINGS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\CONTROL PANEL\\DESKTOP\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\DESKTOP\\LANGUAGECONFIGURATION\\",
+            "Key": "",
+            "Status": "STATUS_NO_MORE_ENTRIES (8000001a)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\MUI\\SETTINGS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\CONTROL PANEL\\DESKTOP\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\DESKTOP\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\DESKTOP\\PREFERREDUILANGUAGES",
+            "Key": "PREFERREDUILANGUAGES",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\DESKTOP\\MUICACHED\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\DESKTOP\\MUICACHED\\MACHINEPREFERREDUILANGUAGES",
+            "Key": "MACHINEPREFERREDUILANGUAGES",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\DESKTOP\\MUICACHED\\MACHINEPREFERREDUILANGUAGES",
+            "Key": "MACHINEPREFERREDUILANGUAGES"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\SIDEBYSIDE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\SIDEBYSIDE\\PREFEREXTERNALMANIFEST",
+            "Key": "PREFEREXTERNALMANIFEST",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\SORTING\\VERSIONS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\SORTING\\VERSIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\SORTING\\VERSIONS\\COMPATDLL",
+            "Key": "COMPATDLL"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\SORTING\\VERSIONS\\00060101.00060101",
+            "Key": "00060101.00060101",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\SORTING\\VERSIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\SAFEDLLSEARCHMODE",
+            "Key": "SAFEDLLSEARCHMODE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\DIAGNOSTICS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\GRE_INITIALIZE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\GRE_INITIALIZE\\DISABLEMETAFILES",
+            "Key": "DISABLEMETAFILES",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\COMPATIBILITY32\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\COMPATIBILITY32\\META4",
+            "Key": "META4",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IME COMPATIBILITY\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\WINDOWS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\WINDOWS\\LOADAPPINIT_DLLS",
+            "Key": "LOADAPPINIT_DLLS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\OLE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\OLE\\PAGEALLOCATORUSESYSTEMHEAP",
+            "Key": "PAGEALLOCATORUSESYSTEMHEAP",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\OLE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\OLE\\PAGEALLOCATORSYSTEMHEAPISPRIVATE",
+            "Key": "PAGEALLOCATORSYSTEMHEAPISPRIVATE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\OLE\\TRACING\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\OLE\\TRACING\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\OLEAUT\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\OLEAUT\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\SIDEBYSIDE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\SIDEBYSIDE\\PREFEREXTERNALMANIFEST",
+            "Key": "PREFEREXTERNALMANIFEST",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\DISABLEUSERMODECALLBACKFILTER",
+            "Key": "DISABLEUSERMODECALLBACKFILTER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\CWDILLEGALINDLLSEARCH",
+            "Key": "CWDILLEGALINDLLSEARCH",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WOW64\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\DISABLEUSERMODECALLBACKFILTER",
+            "Key": "DISABLEUSERMODECALLBACKFILTER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\CWDILLEGALINDLLSEARCH",
+            "Key": "CWDILLEGALINDLLSEARCH",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SAFEBOOT\\OPTION\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SAFEBOOT\\OPTION\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SRP\\GP\\DLL\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SRP\\GP\\DLL\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\TRANSPARENTENABLED",
+            "Key": "TRANSPARENTENABLED",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\EN-US",
+            "Key": "EN-US",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\EN-US",
+            "Key": "EN-US",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\VBC.EXE\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\APPCERTDLLS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\APPCERTDLLS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SAFEBOOT\\OPTION\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SAFEBOOT\\OPTION\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\TRANSPARENTENABLED",
+            "Key": "TRANSPARENTENABLED",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\AUTHENTICODEENABLED",
+            "Key": "AUTHENTICODEENABLED"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SAFEBOOT\\OPTION\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\APPCOMPATIBILITY\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\APPCOMPATIBILITY\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\APPCOMPAT\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\APPCOMPAT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\APPCOMPAT\\DISABLEENGINE",
+            "Key": "DISABLEENGINE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SHELL FOLDERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SHELL FOLDERS\\CACHE",
+            "Key": "CACHE"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\APPCOMPATFLAGS\\LAYERS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\APPCOMPATFLAGS\\LAYERS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\APPCOMPATFLAGS\\CUSTOM\\VBC.EXE\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\DISABLELOCALOVERRIDE",
+            "Key": "DISABLELOCALOVERRIDE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\SIDEBYSIDE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\SIDEBYSIDE\\PREFEREXTERNALMANIFEST",
+            "Key": "PREFEREXTERNALMANIFEST",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    }
+]

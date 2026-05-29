@@ -1,0 +1,294 @@
+[
+    {
+        "type": "KeyHandle (1)",
+        "path": "HKLM\\SYSTEM\\ControlSet001\\Control\\TimeZoneInformation"
+    },
+    {
+        "type": "FileHandle (16)",
+        "path": "C:\\Windows"
+    },
+    {
+        "type": "FileHandle (20)",
+        "path": "%WINDIR%\\System32\\wow64cpu.dll"
+    },
+    {
+        "type": "FileHandle (28)",
+        "path": "C:\\"
+    },
+    {
+        "type": "FileHandle (32)",
+        "path": "%WINDIR%\\SysWOW64\\mscoree.dll"
+    },
+    {
+        "type": "FileHandle (48)",
+        "path": "%WINDIR%\\SysWOW64\\sechost.dll"
+    },
+    {
+        "type": "FileHandle (64)",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui"
+    },
+    {
+        "type": "FileHandle (76)",
+        "path": "%WINDIR%\\Temp\\VxOle32.dll"
+    },
+    {
+        "type": "FileHandle (80)",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll"
+    },
+    {
+        "type": "FileHandle (132)",
+        "path": "\\FileSystem\\Filters\\FltMgrMsg"
+    },
+    {
+        "type": "FileHandle (136)",
+        "path": "%WINDIR%\\Temp\\VxSSL32.dll"
+    },
+    {
+        "type": "FileHandle (148)",
+        "path": "%WINDIR%\\SysWOW64\\ucrtbase_clr0400.dll"
+    },
+    {
+        "type": "FileHandle (160)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll"
+    },
+    {
+        "type": "FileHandle (380)",
+        "path": "%WINDIR%\\Globalization\\Sorting\\SortDefault.nls"
+    },
+    {
+        "type": "FileHandle (468)",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll"
+    },
+    {
+        "type": "FileHandle (472)",
+        "path": "\\Device\\KsecDD"
+    },
+    {
+        "type": "FileHandle (476)",
+        "path": "%WINDIR%\\SysWOW64\\uxtheme.dll"
+    },
+    {
+        "type": "FileHandle (492)",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-core-xstate-l2-1-0.dll"
+    },
+    {
+        "type": "FileHandle (500)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clrjit.dll"
+    },
+    {
+        "type": "FileHandle (516)",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.V9921e851#\\a891970b44db9e340c3ef3efa95b793c\\Microsoft.VisualBasic.ni.dll"
+    },
+    {
+        "type": "FileHandle (520)",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll"
+    },
+    {
+        "type": "FileHandle (532)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\sortdefault.nlp"
+    },
+    {
+        "type": "FileHandle (572)",
+        "path": "%WINDIR%\\SysWOW64\\rasman.dll"
+    },
+    {
+        "type": "FileHandle (576)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config"
+    },
+    {
+        "type": "FileHandle (596)",
+        "path": "%WINDIR%\\SysWOW64\\bcrypt.dll"
+    },
+    {
+        "type": "FileHandle (612)",
+        "path": "%WINDIR%\\SysWOW64\\cryptsp.dll"
+    },
+    {
+        "type": "FileHandle (616)",
+        "path": "%WINDIR%\\SysWOW64\\rtutils.dll"
+    },
+    {
+        "type": "KeyHandle (628)",
+        "path": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\ShipmentadviceH-BLDraft_RASAPI32"
+    },
+    {
+        "type": "KeyHandle (692)",
+        "path": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Tracing\\ShipmentadviceH-BLDraft_RASMANCS"
+    },
+    {
+        "type": "KeyHandle (724)",
+        "path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Connections"
+    },
+    {
+        "type": "KeyHandle (732)",
+        "path": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Connections"
+    },
+    {
+        "type": "KeyHandle (744)",
+        "path": "HKLM\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings"
+    },
+    {
+        "type": "FileHandle (768)",
+        "path": "%WINDIR%\\SysWOW64\\webio.dll"
+    },
+    {
+        "type": "FileHandle (800)",
+        "path": "\\Device\\Nsi"
+    },
+    {
+        "type": "FileHandle (808)",
+        "path": "%WINDIR%\\SysWOW64\\dhcpcsvc6.dll"
+    },
+    {
+        "type": "FileHandle (816)",
+        "path": "%WINDIR%\\SysWOW64\\dhcpcsvc.dll"
+    },
+    {
+        "type": "FileHandle (820)",
+        "path": "\\Device\\NetBT_Tcpip_{E390372A-3FAB-417F-940E-F2CD5C8F68CB}"
+    },
+    {
+        "type": "FileHandle (888)",
+        "path": "%WINDIR%\\SysWOW64\\FWPUCLNT.DLL"
+    },
+    {
+        "type": "FileHandle (904)",
+        "path": "%WINDIR%\\SysWOW64\\RpcRtRemote.dll"
+    },
+    {
+        "type": "PortHandle (908)",
+        "path": "\\RPC Control\\OLE6C8C32A7BA334435B0EA038B9077"
+    },
+    {
+        "type": "FileHandle (964)",
+        "path": "%WINDIR%\\SysWOW64\\dnsapi.dll"
+    },
+    {
+        "type": "FileHandle (980)",
+        "path": "\\Device\\Afd"
+    },
+    {
+        "type": "FileHandle (1044)",
+        "path": "%WINDIR%\\SysWOW64\\secur32.dll"
+    },
+    {
+        "type": "FileHandle (1052)",
+        "path": "%WINDIR%\\SysWOW64\\schannel.dll"
+    },
+    {
+        "type": "FileHandle (1132)",
+        "path": "%WINDIR%\\SysWOW64\\ncrypt.dll"
+    },
+    {
+        "type": "FileHandle (1140)",
+        "path": "%WINDIR%\\SysWOW64\\bcryptprimitives.dll"
+    },
+    {
+        "type": "KeyHandle (1144)",
+        "path": "HKLM\\SYSTEM\\ControlSet001\\services\\crypt32"
+    },
+    {
+        "type": "KeyHandle (1164)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CertDllCreateCertificateChainEngine\\Config"
+    },
+    {
+        "type": "KeyHandle (1184)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\SystemCertificates\\ROOT"
+    },
+    {
+        "type": "KeyHandle (1188)",
+        "path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\Software\\Microsoft\\SystemCertificates\\CA"
+    },
+    {
+        "type": "KeyHandle (1196)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\SystemCertificates\\CA"
+    },
+    {
+        "type": "KeyHandle (1200)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\CA"
+    },
+    {
+        "type": "KeyHandle (1204)",
+        "path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\Software\\Microsoft\\SystemCertificates\\Disallowed"
+    },
+    {
+        "type": "KeyHandle (1212)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\SystemCertificates\\Disallowed"
+    },
+    {
+        "type": "KeyHandle (1216)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\Disallowed"
+    },
+    {
+        "type": "KeyHandle (1224)",
+        "path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\Software\\Microsoft\\SystemCertificates\\Root"
+    },
+    {
+        "type": "KeyHandle (1228)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\SystemCertificates\\AuthRoot"
+    },
+    {
+        "type": "KeyHandle (1232)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\Root"
+    },
+    {
+        "type": "KeyHandle (1236)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\SystemCertificates\\SmartCardRoot"
+    },
+    {
+        "type": "KeyHandle (1240)",
+        "path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\Software\\Microsoft\\SystemCertificates\\TrustedPeople"
+    },
+    {
+        "type": "KeyHandle (1244)",
+        "path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\Software\\Microsoft\\SystemCertificates\\SmartCardRoot"
+    },
+    {
+        "type": "KeyHandle (1252)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\SystemCertificates\\TrustedPeople"
+    },
+    {
+        "type": "KeyHandle (1256)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\TrustedPeople"
+    },
+    {
+        "type": "KeyHandle (1260)",
+        "path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\Software\\Microsoft\\SystemCertificates\\trust"
+    },
+    {
+        "type": "KeyHandle (1268)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\SystemCertificates\\trust"
+    },
+    {
+        "type": "KeyHandle (1272)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\Trust"
+    },
+    {
+        "type": "FileHandle (1312)",
+        "path": "%WINDIR%\\SysWOW64\\gpapi.dll"
+    },
+    {
+        "type": "KeyHandle (1324)",
+        "path": "HKLM\\SOFTWARE\\Policies\\Microsoft\\SystemCertificates"
+    },
+    {
+        "type": "KeyHandle (1384)",
+        "path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\Software\\Policies\\Microsoft\\SystemCertificates"
+    },
+    {
+        "type": "FileHandle (1768)",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\comctl32.dll"
+    },
+    {
+        "type": "FileHandle (1872)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscorrc.dll"
+    },
+    {
+        "type": "FileHandle (1932)",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Web.Extensions\\v4.0_4.0.0.0__31bf3856ad364e35\\System.Web.Extensions.dll"
+    },
+    {
+        "type": "FileHandle (1936)",
+        "path": "%LOCALAPPDATA%\\Google\\Chrome\\User Data\\Default\\Top Sites"
+    }
+]

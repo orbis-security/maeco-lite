@@ -1,0 +1,2142 @@
+[
+    {
+        "type": "CREATE",
+        "path": "\\FileSystem\\Filters\\FltMgrMsg",
+        "access": "FILE_READ_DATA | FILE_WRITE_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64win.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64win.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64cpu.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\wow64cpu.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\WOW64LOG.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\mscoree.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\mscoree.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\sechost.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\sechost.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxOle32.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxOle32.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxOle32.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\FLTLIB.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\fltLib.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\fltLib.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-core-synch-l1-2-0.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-core-synch-l1-2-0.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-LOCALIZATION-L1-2-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxSSL32.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxSSL32.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxSSL32.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-LOCALIZATION-L1-2-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\MSCOREE.DLL.LOCAL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscoreei.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscoreei.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-LOCALIZATION-L1-2-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\MSCOREE.DLL.LOCAL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v1.0.3705\\CLR.DLL",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v1.0.3705\\MSCORWKS.DLL",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v1.1.4322\\CLR.DLL",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v1.1.4322\\MSCORWKS.DLL",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\CLR.DLL",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorwks.dll",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SHIPMENTADVICEH-BLDRAFT.EXE.CONFIG",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\ShipmentadviceH-BLDraft.exe",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\ShipmentadviceH-BLDraft.exe",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-APPMODEL-RUNTIME-L1-1-2.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-APPMODEL-RUNTIME-L1-1-0.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\version.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\version.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\VCRUNTIME140_CLR0400.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\vcruntime140_clr0400.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\vcruntime140_clr0400.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\UCRTBASE_CLR0400.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ucrtbase_clr0400.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ucrtbase_clr0400.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-LOCALIZATION-L1-2-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-FIBERS-L1-1-1.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-CORE-QUIRKS-L1-1-0.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-APPMODEL-RUNTIME-L1-1-2.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\API-MS-WIN-APPMODEL-RUNTIME-L1-1-0.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\MSCOREE.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SHIPMENTADVICEH-BLDRAFT.EXE.CONFIG",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\FUSION.LOCALGAC",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\COMBASE.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Globalization\\Sorting\\SortDefault.nls",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\mscorlib\\v4.0_4.0.0.0__b77a5c561934e089\\mscorlib.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll.aux",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\mscorlib\\v4.0_4.0.0.0__b77a5c561934e089\\mscorlib.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\ShipmentadviceH-BLDraft.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\ShipmentadviceH-BLDraft.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\ShipmentadviceH-BLDraft.exe",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\ShipmentadviceH-BLDraft.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\OLE32.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\RPCSS.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\RPCSS.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\uxtheme.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\uxtheme.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SHIPMENTADVICEH-BLDRAFT.EXE.CONFIG",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\ShipmentadviceH-BLDraft.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\BWHC",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\BWHC",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SHIPMENTADVICEH-BLDRAFT.INI",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-core-xstate-l2-1-0.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-core-xstate-l2-1-0.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clrjit.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clrjit.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\pubpol328.dat",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\GAC\\PUBLISHERPOLICY.TME",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\SYSTEM.WINDOWS.FORMS\\V4.0_4.0.0.0__B77A5C561934E089\\SYSTEM.WINDOWS.FORMS.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Windows.Forms\\v4.0_4.0.0.0__b77a5c561934e089\\System.Windows.Forms.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll.aux",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Windows.Forms\\v4.0_4.0.0.0__b77a5c561934e089\\System.Windows.Forms.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Security\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Security.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Security\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Security.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Xml\\v4.0_4.0.0.0__b77a5c561934e089\\System.Xml.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Xml\\v4.0_4.0.0.0__b77a5c561934e089\\System.Xml.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\SYSTEM\\V4.0_4.0.0.0__B77A5C561934E089\\SYSTEM.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\System.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\0b2f69b43a576b9edcc807a30872bd91\\System.ni.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\0b2f69b43a576b9edcc807a30872bd91\\System.ni.dll.aux",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\System.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll.aux",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Configuration\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Configuration.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Configuration\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Configuration.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\SYSTEM.DRAWING\\V4.0_4.0.0.0__B03F5F7F11D50A3A\\SYSTEM.DRAWING.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Drawing\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Drawing.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll.aux",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Drawing\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Drawing.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Accessibility\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\Accessibility.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Accessibility\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\Accessibility.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Core\\v4.0_4.0.0.0__b77a5c561934e089\\System.Core.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Core\\v4.0_4.0.0.0__b77a5c561934e089\\System.Core.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Deployment\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Deployment.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Deployment\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Deployment.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Runtime.Serialization.Formatters.Soap\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Runtime.Serialization.Formatters.Soap.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Runtime.Serialization.Formatters.Soap\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Runtime.Serialization.Formatters.Soap.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Windows.Forms\\v4.0_4.0.0.0__b77a5c561934e089\\UXTHEME.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Windows.Forms\\v4.0_4.0.0.0__b77a5c561934e089\\System.Windows.Forms.dll",
+        "access": "FILE_GENERIC_EXECUTE | FILE_READ_DATA | FILE_READ_EA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll.aux",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll.aux",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Numerics\\v4.0_4.0.0.0__b77a5c561934e089\\System.Numerics.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Numerics\\v4.0_4.0.0.0__b77a5c561934e089\\System.Numerics.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll.aux",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Data.SqlXml\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.SqlXml.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Data.SqlXml\\v4.0_4.0.0.0__b77a5c561934e089\\System.Data.SqlXml.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\nlssorting.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\nlssorting.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\sortdefault.nlp",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "CREATE",
+        "path": "C:\\Users\\%OSUSER%",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "CREATE",
+        "path": "%USERPROFILE%\\AppData\\Roaming",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\mscorlib\\v4.0_4.0.0.0__b77a5c561934e089\\BCRYPT.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\bcrypt.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\bcrypt.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\CRYPTSP.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\cryptsp.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\cryptsp.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SHIPMENTADVICEH-BLDRAFT.EXE.CONFIG",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SHIPMENTADVICEH-BLDRAFT.EXE.CONFIG",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SHIPMENTADVICEH-BLDRAFT.EXE.LOCAL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\comctl32.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\comctl32.dll",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\comctl32.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\comctl32.dll",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\comctl32.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\comctl32.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SHIPMENTADVICEH-BLDRAFT.EXE.LOCAL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.23894_none_5c0be957a009922e\\GdiPlus.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.23894_none_5c0be957a009922e\\GdiPlus.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\GDIPFONTCACHEV1.DAT",
+        "access": "FILE_GENERIC_READ | FILE_WRITE_DATA | FILE_APPEND_DATA | FILE_WRITE_EA | FILE_WRITE_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\AGENCYR.TTF",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\tahoma.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\tahoma.ttf",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\tahoma.ttf",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\tahoma.ttf",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\msjh.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\msjh.ttf",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\msjh.ttf",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\msjh.ttf",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\msyh.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\msyh.ttf",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\msyh.ttf",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\msyh.ttf",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\malgun.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\malgun.ttf",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\malgun.ttf",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\malgun.ttf",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\micross.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\micross.ttf",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\micross.ttf",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\micross.ttf",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\micross.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\micross.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\micross.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\micross.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\micross.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\segoeui.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\segoeui.ttf",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\segoeui.ttf",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\segoeui.ttf",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\msyh.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\malgun.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\micross.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\micross.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\segoeui.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\msjh.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\malgun.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\segoeui.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\msjh.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\msyh.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\malgun.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\segoeui.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\msjh.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\msyh.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\malgun.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\micross.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\micross.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\segoeui.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\msjh.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Fonts\\msyh.ttf",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SHIPMENTADVICEH-BLDRAFT.EXE.CONFIG",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\EN-US\\BWHC.RESOURCES.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\EN-US\\BWHC.RESOURCES\\BWHC.RESOURCES.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\EN-US\\BWHC.RESOURCES.EXE",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\EN-US\\BWHC.RESOURCES\\BWHC.RESOURCES.EXE",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\en-US\\MSCORRC.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\en-US\\MSCORRC.DLL.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\EN\\MSCORRC.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\EN\\MSCORRC.DLL.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscorrc.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscorrc.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\EN\\BWHC.RESOURCES.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\EN\\BWHC.RESOURCES\\BWHC.RESOURCES.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\EN\\BWHC.RESOURCES.EXE",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\EN\\BWHC.RESOURCES\\BWHC.RESOURCES.EXE",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\ODECS.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsCodecs.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsCodecs.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\mscorlib\\v4.0_4.0.0.0__b77a5c561934e089\\SHELL32.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\AMSI.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\IconCodecService.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\IconCodecService.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_32\\MICROSOFT.VISUALBASIC\\V4.0_10.0.0.0__B03F5F7F11D50A3A\\MICROSOFT.VISUALBASIC.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.VisualBasic\\v4.0_10.0.0.0__b03f5f7f11d50a3a\\Microsoft.VisualBasic.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.V9921e851#\\a891970b44db9e340c3ef3efa95b793c\\Microsoft.VisualBasic.ni.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.V9921e851#\\a891970b44db9e340c3ef3efa95b793c\\Microsoft.VisualBasic.ni.dll.aux",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\Microsoft.VisualBasic\\v4.0_10.0.0.0__b03f5f7f11d50a3a\\Microsoft.VisualBasic.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Management.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Management\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Management.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Xml.Linq\\v4.0_4.0.0.0__b77a5c561934e089\\System.Xml.Linq.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Xml.Linq\\v4.0_4.0.0.0__b77a5c561934e089\\System.Xml.Linq.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Runtime.Remoting\\v4.0_4.0.0.0__b77a5c561934e089\\System.Runtime.Remoting.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Runtime.Remoting\\v4.0_4.0.0.0__b77a5c561934e089\\System.Runtime.Remoting.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.V9921e851#\\a891970b44db9e340c3ef3efa95b793c\\Microsoft.VisualBasic.ni.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.V9921e851#\\a891970b44db9e340c3ef3efa95b793c\\Microsoft.VisualBasic.ni.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\NTDLL.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\PROPSYS.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\propsys.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\propsys.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\shell32.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SHIPMENTADVICEH-BLDRAFT.EXE.LOCAL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\\comctl32.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\\comctl32.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\WindowsShell.Manifest",
+        "access": "FILE_GENERIC_EXECUTE | FILE_READ_DATA | FILE_READ_EA"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\APPHELP.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\apphelp.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\apphelp.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ieframe.dll",
+        "access": "FILE_READ_DATA | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\AppPatch\\sysmain.sdb",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ieframe.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ieframe.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ieframe.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ieframe.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ieframe.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ieframe.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ieframe.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ieframe.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Registration\\R00000000000c.clb",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ieframe.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ieframe.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-downlevel-shell32-l1-1-0.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-downlevel-shell32-l1-1-0.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ieframe.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SHIPMENTADVICEH-BLDRAFT.EXE.LOCAL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\%SYSTEMROOT%\\SYSTEM32\\WINDOWSPOWERSHELL\\V1.0\\POWERSHELL.EXE",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%ALLUSERSPROFILE%\\Oracle\\Java\\javapath",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\Microsoft\\Windows\\Caches",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Microsoft\\Windows\\Caches\\cversions.1.db",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\NTMARTA.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ntmarta.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ntmarta.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\share",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Microsoft\\Windows\\Caches\\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x000000000000003d.db",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%USERPROFILE%\\Desktop\\desktop.ini",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%USERPROFILE%\\Desktop\\desktop.ini",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%USERPROFILE%\\Desktop\\desktop.ini",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%USERPROFILE%\\Desktop\\desktop.ini",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\propsys.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\propsys.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\propsys.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\propsys.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\propsys.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\propsys.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\urlmon.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\urlmon.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SECUR32.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\secur32.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\secur32.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe:ZONE.IDENTIFIER",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\AppPatch\\sysmain.sdb",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\UI\\SWDRM.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\PRCGLGVKEUCXXG.EXE",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\PRCGLGVKEUCXXG.EXE",
+        "access": "READ_CONTROL | WRITE_DAC | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\PRCGLGVKEUCXXG.EXE",
+        "access": "READ_CONTROL | WRITE_DAC"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\ShipmentadviceH-BLDraft.exe",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\ShipmentadviceH-BLDraft.exe",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "CREATE",
+        "path": "%APPDATA%\\PrcGlGVKeUCXxg.exe",
+        "access": "FILE_GENERIC_WRITE | DELETE | FILE_READ_DATA | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%APPDATA%\\PrcGlGVKeUCXxg.exe",
+        "access": "FILE_GENERIC_WRITE | DELETE | FILE_READ_DATA | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\PrcGlGVKeUCXxg.exe",
+        "access": "FILE_WRITE_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ieframe.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ieframe.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-downlevel-shell32-l1-1-0.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-downlevel-shell32-l1-1-0.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ieframe.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SHIPMENTADVICEH-BLDRAFT.EXE.LOCAL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\%SYSTEMROOT%\\SYSTEM32\\WINDOWSPOWERSHELL\\V1.0\\POWERSHELL.EXE",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%ALLUSERSPROFILE%\\Oracle\\Java\\javapath",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe:ZONE.IDENTIFIER",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\AppPatch\\sysmain.sdb",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\UI\\SWDRM.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "CREATE",
+        "path": "%TEMP%\\tmp68B2.tmp",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "CREATE",
+        "path": "%TEMP%\\tmp68B2.tmp",
+        "access": "FILE_GENERIC_WRITE | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ieframe.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ieframe.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-downlevel-shell32-l1-1-0.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-downlevel-shell32-l1-1-0.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ieframe.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SHIPMENTADVICEH-BLDRAFT.EXE.LOCAL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\SCHTASKS.EXE",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\schtasks.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\schtasks.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\schtasks.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\schtasks.exe",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\schtasks.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\schtasks.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\schtasks.exe:ZONE.IDENTIFIER",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\AppPatch\\sysmain.sdb",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\schtasks.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\schtasks.exe",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\UI\\SWDRM.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\RPCRTREMOTE.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\RpcRtRemote.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\RpcRtRemote.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%TEMP%\\tmp68B2.tmp",
+        "access": "DELETE | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\EN-US\\MONTERO.RESOURCES.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\EN-US\\MONTERO.RESOURCES\\MONTERO.RESOURCES.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\EN-US\\MONTERO.RESOURCES.EXE",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\EN-US\\MONTERO.RESOURCES\\MONTERO.RESOURCES.EXE",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\EN\\MONTERO.RESOURCES.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\EN\\MONTERO.RESOURCES\\MONTERO.RESOURCES.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\EN\\MONTERO.RESOURCES.EXE",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\EN\\MONTERO.RESOURCES\\MONTERO.RESOURCES.EXE",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\ShipmentadviceH-BLDraft.exe",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\ShipmentadviceH-BLDraft.exe",
+        "access": "FILE_READ_ATTRIBUTES"
+    }
+]

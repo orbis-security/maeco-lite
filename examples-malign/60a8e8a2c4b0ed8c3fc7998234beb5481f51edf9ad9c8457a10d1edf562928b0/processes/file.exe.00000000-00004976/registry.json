@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\DISABLEUSERMODECALLBACKFILTER",
+            "Key": "DISABLEUSERMODECALLBACKFILTER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\CWDILLEGALINDLLSEARCH",
+            "Key": "CWDILLEGALINDLLSEARCH",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SAFEBOOT\\OPTION\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SAFEBOOT\\OPTION\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SRP\\GP\\DLL\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SRP\\GP\\DLL\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\TRANSPARENTENABLED",
+            "Key": "TRANSPARENTENABLED",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    }
+]

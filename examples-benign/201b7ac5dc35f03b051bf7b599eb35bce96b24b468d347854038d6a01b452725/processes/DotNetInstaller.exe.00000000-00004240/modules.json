@@ -1,0 +1,282 @@
+[
+    {
+        "module_path": "C:\\DotNetInstaller.exe",
+        "module_base": "00400000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\ntdll.dll",
+        "module_base": "F47D0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\ntdll.dll",
+        "module_base": "77C60000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\wow64.dll",
+        "module_base": "F3380000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\wow64base.dll",
+        "module_base": "F25D0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\wow64win.dll",
+        "module_base": "F33E0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\wow64con.dll",
+        "module_base": "F3180000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\wow64cpu.dll",
+        "module_base": "77C50000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\mscoree.dll",
+        "module_base": "73940000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\kernel32.dll",
+        "module_base": "768D0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\KernelBase.dll",
+        "module_base": "75CB0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\apphelp.dll",
+        "module_base": "75090000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\AcSpecfc.dll",
+        "module_base": "73860000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\msvcrt.dll",
+        "module_base": "77260000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\shlwapi.dll",
+        "module_base": "76030000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\user32.dll",
+        "module_base": "76FD0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\win32u.dll",
+        "module_base": "76AD0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\gdi32.dll",
+        "module_base": "76830000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\gdi32full.dll",
+        "module_base": "77A40000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\msvcp_win.dll",
+        "module_base": "75C30000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\ucrtbase.dll",
+        "module_base": "77B30000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\advapi32.dll",
+        "module_base": "75BB0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\sechost.dll",
+        "module_base": "76740000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\rpcrt4.dll",
+        "module_base": "75970000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\ole32.dll",
+        "module_base": "76B50000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\combase.dll",
+        "module_base": "76080000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\shell32.dll",
+        "module_base": "77330000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\oleaut32.dll",
+        "module_base": "76F20000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\ws2_32.dll",
+        "module_base": "76AF0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\comdlg32.dll",
+        "module_base": "77180000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\SHCore.dll",
+        "module_base": "75A30000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "module_base": "77230000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\sspicli.dll",
+        "module_base": "74650000"
+    },
+    {
+        "module_path": "%WINDIR%\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.22621.608_none_42d541138da2ebd2\\comctl32.dll",
+        "module_base": "737C0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\mscms.dll",
+        "module_base": "73720000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\IPHLPAPI.DLL",
+        "module_base": "75200000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\userenv.dll",
+        "module_base": "751E0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\mpr.dll",
+        "module_base": "756C0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\winmm.dll",
+        "module_base": "75910000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\ddraw.dll",
+        "module_base": "73630000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\dwmapi.dll",
+        "module_base": "73600000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\msi.dll",
+        "module_base": "73340000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\winspool.drv",
+        "module_base": "732C0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\dxgi.dll",
+        "module_base": "731F0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\dciman32.dll",
+        "module_base": "731E0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\bcrypt.dll",
+        "module_base": "731C0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\DXCore.dll",
+        "module_base": "73190000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\AcGenral.dll",
+        "module_base": "72F30000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\uxtheme.dll",
+        "module_base": "75160000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\samcli.dll",
+        "module_base": "72F10000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\msacm32.dll",
+        "module_base": "72EF0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\version.dll",
+        "module_base": "75950000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\urlmon.dll",
+        "module_base": "74A40000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\ntmarta.dll",
+        "module_base": "75060000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\iertutil.dll",
+        "module_base": "74810000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\srvcli.dll",
+        "module_base": "747F0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\netutils.dll",
+        "module_base": "747E0000"
+    },
+    {
+        "module_path": "%WINDIR%\\Temp\\VxSSL32.dll",
+        "module_base": "72E90000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\fltLib.dll",
+        "module_base": "74F20000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\cryptsp.dll",
+        "module_base": "72E70000"
+    },
+    {
+        "module_path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscoreei.dll",
+        "module_base": "72D90000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\kernel.appcore.dll",
+        "module_base": "75140000"
+    },
+    {
+        "module_path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorwks.dll",
+        "module_base": "727D0000"
+    },
+    {
+        "module_path": "%WINDIR%\\WinSxS\\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28\\msvcr80.dll",
+        "module_base": "72730000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\windows.storage.dll",
+        "module_base": "73F50000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\WinTypes.dll",
+        "module_base": "73E80000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\profapi.dll",
+        "module_base": "73D00000"
+    },
+    {
+        "module_path": "%WINDIR%\\assembly\\NativeImages_v2.0.50727_32\\mscorlib\\f0de3068dfe880013ac1ab7eee9eac23\\mscorlib.ni.dll",
+        "module_base": "71C30000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\bcryptprimitives.dll",
+        "module_base": "76860000"
+    },
+    {
+        "module_path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorjit.dll",
+        "module_base": "71BD0000"
+    }
+]

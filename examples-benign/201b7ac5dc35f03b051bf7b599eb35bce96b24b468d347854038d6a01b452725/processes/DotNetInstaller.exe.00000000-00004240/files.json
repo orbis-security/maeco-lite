@@ -1,0 +1,717 @@
+[
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\mscoree.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\apphelp.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\DotNetInstaller.exe",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ntdll.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\mscoree.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\kernel32.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\KernelBase.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\apppatch\\sysmain.sdb",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\apppatch\\MergeSdbFilesSource\\sysMerge.sdb",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\DotNetInstaller.exe",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\DotNetInstaller.exe",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\AcSpecfc.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\sspicli.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.22621.608_none_42d541138da2ebd2\\comctl32.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\mscms.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\IPHLPAPI.DLL",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\userenv.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\mpr.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\winmm.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ddraw.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dwmapi.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\msi.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\msi.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\winspool.drv",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dxgi.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dciman32.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\bcrypt.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\DXCore.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\AcGenral.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\uxtheme.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\samcli.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\msacm32.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\version.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\urlmon.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ntmarta.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\iertutil.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\srvcli.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\netutils.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\DotNetInstaller.exe",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\msvcrt.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\rpcrt4.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\sspicli.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\sechost.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\advapi32.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\win32u.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ucrtbase.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\msvcp_win.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\user32.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\gdi32full.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\gdi32.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\mscms.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\shlwapi.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\combase.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ole32.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\shell32.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\oleaut32.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\IPHLPAPI.DLL",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ws2_32.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\userenv.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\mpr.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\winmm.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dxgi.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dciman32.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\DXCore.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ddraw.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\SHCore.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\comdlg32.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\dwmapi.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\bcrypt.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\msi.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\winspool.drv",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\uxtheme.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\samcli.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\msacm32.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\version.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\iertutil.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\srvcli.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\netutils.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\urlmon.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\ntmarta.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxSSL32.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxSSL32.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\fltLib.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\fltLib.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxSSL32.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\cryptsp.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\cryptsp.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxOle32.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxOle32.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Temp\\VxOle32.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "CREATE",
+        "path": "\\Global??\\FltMgrMsg",
+        "access": "FILE_READ_DATA | FILE_WRITE_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscoreei.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v1.0.3705\\clr.dll",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v1.0.3705\\mscorwks.dll",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v1.1.4322\\clr.dll",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v1.1.4322\\mscorwks.dll",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\clr.dll",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorwks.dll",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\DotNetInstaller.exe.config",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\DotNetInstaller.exe",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\DotNetInstaller.exe",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\kernel.appcore.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\kernel.appcore.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorwks.dll",
+        "access": "FILE_GENERIC_EXECUTE | FILE_READ_DATA | FILE_READ_EA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorwks.dll",
+        "access": "FILE_GENERIC_EXECUTE | FILE_READ_DATA | FILE_READ_EA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorwks.dll",
+        "access": "READ_CONTROL | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorwks.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorwks.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\WinSxS\\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.9680_none_d090cb7c44278b28\\msvcr80.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\CONFIG\\machine.config",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\DotNetInstaller.exe.config",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Microsoft\\CLR_v2.0_32\\UsageLogs\\DotNetInstaller.exe.log",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\CONFIG\\security.config",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\CONFIG\\security.config.cch",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\CONFIG\\enterprisesec.config",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\CONFIG\\enterprisesec.config.cch",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\windows.storage.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WinTypes.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\WinTypes.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\windows.storage.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Globalization\\Sorting\\SortDefault.nls",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\profapi.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\profapi.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "CREATE",
+        "path": "C:\\Users\\%OSUSER%",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "CREATE",
+        "path": "%USERPROFILE%\\AppData\\Roaming",
+        "access": "FILE_READ_DATA"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\Microsoft\\CLR Security Config\\v2.0.50727.312\\security.config",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\Microsoft\\CLR Security Config\\v2.0.50727.312\\security.config.cch",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v2.0.50727_32\\indexc.dat",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v2.0.50727_32\\mscorlib\\f0de3068dfe880013ac1ab7eee9eac23\\mscorlib.ni.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\assembly\\NativeImages_v2.0.50727_32\\mscorlib\\f0de3068dfe880013ac1ab7eee9eac23\\mscorlib.ni.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\bcryptprimitives.dll",
+        "access": "READ_CONTROL"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\SysWOW64\\l_intl.nls",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "C:\\DotNetInstaller.exe",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorjit.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorjit.dll",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "OPEN",
+        "path": "%LOCALAPPDATA%\\Microsoft\\CLR_v2.0_32\\UsageLogs\\DotNetInstaller.exe.log",
+        "access": "FILE_GENERIC_READ"
+    },
+    {
+        "type": "CREATE",
+        "path": "%LOCALAPPDATA%\\Microsoft\\CLR_v2.0_32\\UsageLogs\\DotNetInstaller.exe.log",
+        "access": "FILE_GENERIC_WRITE | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "WRITE",
+        "path": "%LOCALAPPDATA%\\Microsoft\\CLR_v2.0_32\\UsageLogs\\DotNetInstaller.exe.log",
+        "access": "-"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\CONFIG\\security.config.cch.4240.907425500",
+        "access": "DELETE | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\CONFIG\\enterprisesec.config.cch.4240.907425500",
+        "access": "DELETE | FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%APPDATA%\\Microsoft\\CLR Security Config\\v2.0.50727.312\\security.config.cch.4240.907425656",
+        "access": "DELETE | FILE_READ_ATTRIBUTES"
+    }
+]

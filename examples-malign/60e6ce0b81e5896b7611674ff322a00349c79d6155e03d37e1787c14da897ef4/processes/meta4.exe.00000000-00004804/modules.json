@@ -1,0 +1,134 @@
+[
+    {
+        "module_path": "%WINDIR%\\System32\\wow64.dll",
+        "module_base": "74510000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\wow64win.dll",
+        "module_base": "744B0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\wow64cpu.dll",
+        "module_base": "74800000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\kernel32.dll",
+        "module_base": "76BB0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\user32.dll",
+        "module_base": "76CD0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\kernel32.dll",
+        "module_base": "75D50000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\KernelBase.dll",
+        "module_base": "75A90000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\api-ms-win-core-synch-l1-2-0.dll",
+        "module_base": "74550000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\user32.dll",
+        "module_base": "76750000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\gdi32.dll",
+        "module_base": "76540000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\lpk.dll",
+        "module_base": "76680000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\usp10.dll",
+        "module_base": "75620000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\msvcrt.dll",
+        "module_base": "765D0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\advapi32.dll",
+        "module_base": "766A0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\sechost.dll",
+        "module_base": "748C0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\rpcrt4.dll",
+        "module_base": "75FC0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\sspicli.dll",
+        "module_base": "74850000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\cryptbase.dll",
+        "module_base": "74840000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\ole32.dll",
+        "module_base": "76380000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\oleaut32.dll",
+        "module_base": "759F0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\fltLib.dll",
+        "module_base": "74820000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\shlwapi.dll",
+        "module_base": "764E0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "module_base": "00110000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "module_base": "76850000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\msctf.dll",
+        "module_base": "75EB0000"
+    },
+    {
+        "module_path": "%WINDIR%\\Temp\\VxSSL32.dll",
+        "module_base": "72F20000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\ws2_32.dll",
+        "module_base": "75E60000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\nsi.dll",
+        "module_base": "76F80000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\ntdll.dll",
+        "module_base": "76DD0000"
+    },
+    {
+        "module_path": "C:\\meta4.exe",
+        "module_base": "00340000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\ntdll.dll",
+        "module_base": "76FB0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\apphelp.dll",
+        "module_base": "741B0000"
+    },
+    {
+        "module_path": "%WINDIR%\\AppPatch\\sysmain.sdb",
+        "module_base": "02A00000"
+    }
+]

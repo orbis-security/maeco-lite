@@ -1,0 +1,134 @@
+[
+    {
+        "type": "FileHandle (16)",
+        "path": "C:\\Windows"
+    },
+    {
+        "type": "FileHandle (20)",
+        "path": "%WINDIR%\\System32\\wow64cpu.dll"
+    },
+    {
+        "type": "FileHandle (28)",
+        "path": "C:\\"
+    },
+    {
+        "type": "FileHandle (32)",
+        "path": "%WINDIR%\\SysWOW64\\mscoree.dll"
+    },
+    {
+        "type": "FileHandle (48)",
+        "path": "%WINDIR%\\SysWOW64\\sechost.dll"
+    },
+    {
+        "type": "FileHandle (64)",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui"
+    },
+    {
+        "type": "FileHandle (72)",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-core-synch-l1-2-0.dll"
+    },
+    {
+        "type": "FileHandle (84)",
+        "path": "%WINDIR%\\SysWOW64\\ucrtbase_clr0400.dll"
+    },
+    {
+        "type": "FileHandle (88)",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll"
+    },
+    {
+        "type": "FileHandle (120)",
+        "path": "%WINDIR%\\Temp\\VxOle32.dll"
+    },
+    {
+        "type": "FileHandle (124)",
+        "path": "%WINDIR%\\SysWOW64\\fltLib.dll"
+    },
+    {
+        "type": "FileHandle (128)",
+        "path": "%WINDIR%\\Temp\\VxSSL32.dll"
+    },
+    {
+        "type": "FileHandle (160)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll"
+    },
+    {
+        "type": "FileHandle (164)",
+        "path": "\\FileSystem\\Filters\\FltMgrMsg"
+    },
+    {
+        "type": "FileHandle (456)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\vbc.exe"
+    },
+    {
+        "type": "FileHandle (460)",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll"
+    },
+    {
+        "type": "FileHandle (464)",
+        "path": "\\Device\\KsecDD"
+    },
+    {
+        "type": "FileHandle (476)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clrjit.dll"
+    },
+    {
+        "type": "FileHandle (488)",
+        "path": "%WINDIR%\\SysWOW64\\DWrite.dll"
+    },
+    {
+        "type": "FileHandle (492)",
+        "path": "%WINDIR%\\SysWOW64\\msvcp140_clr0400.dll"
+    },
+    {
+        "type": "FileHandle (496)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\WPF\\PresentationNative_v0400.dll"
+    },
+    {
+        "type": "FileHandle (500)",
+        "path": "%WINDIR%\\SysWOW64\\rsaenh.dll"
+    },
+    {
+        "type": "FileHandle (504)",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll"
+    },
+    {
+        "type": "FileHandle (508)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\sortdefault.nlp"
+    },
+    {
+        "type": "FileHandle (540)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\vbc.exe.config"
+    },
+    {
+        "type": "FileHandle (560)",
+        "path": "%WINDIR%\\SysWOW64\\bcrypt.dll"
+    },
+    {
+        "type": "KeyHandle (580)",
+        "path": "HKLM\\SYSTEM\\ControlSet001\\services\\WinSock2\\Parameters\\Protocol_Catalog9"
+    },
+    {
+        "type": "KeyHandle (588)",
+        "path": "HKLM\\SYSTEM\\ControlSet001\\services\\WinSock2\\Parameters\\NameSpace_Catalog5"
+    },
+    {
+        "type": "FileHandle (592)",
+        "path": "%WINDIR%\\SysWOW64\\mswsock.dll"
+    },
+    {
+        "type": "FileHandle (596)",
+        "path": "\\Device\\Afd"
+    },
+    {
+        "type": "FileHandle (600)",
+        "path": "%WINDIR%\\SysWOW64\\wship6.dll"
+    },
+    {
+        "type": "FileHandle (604)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\diasymreader.dll"
+    },
+    {
+        "type": "FileHandle (620)",
+        "path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.ServiceModel\\v4.0_4.0.0.0__b77a5c561934e089\\System.ServiceModel.dll"
+    }
+]

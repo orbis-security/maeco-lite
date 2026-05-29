@@ -1,0 +1,17 @@
+[
+    {
+        "type": "OPEN",
+        "path": "C:\\API-MS-WIN-CORE-SYNCH-L1-2-0.DLL",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\api-ms-win-core-synch-l1-2-0.dll",
+        "access": "FILE_READ_ATTRIBUTES"
+    },
+    {
+        "type": "OPEN",
+        "path": "%WINDIR%\\System32\\api-ms-win-core-synch-l1-2-0.dll",
+        "access": "FILE_READ_DATA | FILE_EXECUTE"
+    }
+]

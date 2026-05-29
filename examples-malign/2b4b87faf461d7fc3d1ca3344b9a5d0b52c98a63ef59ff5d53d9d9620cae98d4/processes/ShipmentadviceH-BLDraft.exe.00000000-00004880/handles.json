@@ -1,0 +1,190 @@
+[
+    {
+        "type": "KeyHandle (1)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize"
+    },
+    {
+        "type": "FileHandle (16)",
+        "path": "C:\\Windows"
+    },
+    {
+        "type": "FileHandle (20)",
+        "path": "%WINDIR%\\System32\\wow64cpu.dll"
+    },
+    {
+        "type": "FileHandle (28)",
+        "path": "C:\\"
+    },
+    {
+        "type": "FileHandle (32)",
+        "path": "%WINDIR%\\SysWOW64\\mscoree.dll"
+    },
+    {
+        "type": "FileHandle (52)",
+        "path": "%WINDIR%\\SysWOW64\\sechost.dll"
+    },
+    {
+        "type": "FileHandle (68)",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\comctl32.dll"
+    },
+    {
+        "type": "FileHandle (76)",
+        "path": "%WINDIR%\\Temp\\VxOle32.dll"
+    },
+    {
+        "type": "FileHandle (80)",
+        "path": "%WINDIR%\\SysWOW64\\imm32.dll"
+    },
+    {
+        "type": "FileHandle (132)",
+        "path": "\\FileSystem\\Filters\\FltMgrMsg"
+    },
+    {
+        "type": "FileHandle (136)",
+        "path": "%WINDIR%\\Temp\\VxSSL32.dll"
+    },
+    {
+        "type": "FileHandle (140)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscoreei.dll"
+    },
+    {
+        "type": "FileHandle (148)",
+        "path": "%WINDIR%\\SysWOW64\\ucrtbase_clr0400.dll"
+    },
+    {
+        "type": "FileHandle (160)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll"
+    },
+    {
+        "type": "FileHandle (380)",
+        "path": "%WINDIR%\\Globalization\\Sorting\\SortDefault.nls"
+    },
+    {
+        "type": "FileHandle (468)",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll"
+    },
+    {
+        "type": "FileHandle (476)",
+        "path": "%WINDIR%\\SysWOW64\\uxtheme.dll"
+    },
+    {
+        "type": "FileHandle (492)",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-core-xstate-l2-1-0.dll"
+    },
+    {
+        "type": "FileHandle (500)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clrjit.dll"
+    },
+    {
+        "type": "FileHandle (516)",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll"
+    },
+    {
+        "type": "FileHandle (520)",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll"
+    },
+    {
+        "type": "FileHandle (528)",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll"
+    },
+    {
+        "type": "FileHandle (572)",
+        "path": "%WINDIR%\\SysWOW64\\bcrypt.dll"
+    },
+    {
+        "type": "FileHandle (580)",
+        "path": "\\Device\\KsecDD"
+    },
+    {
+        "type": "FileHandle (584)",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.23894_none_5c0be957a009922e\\GdiPlus.dll"
+    },
+    {
+        "type": "FileHandle (588)",
+        "path": "%WINDIR%\\SysWOW64\\cryptsp.dll"
+    },
+    {
+        "type": "FileHandle (604)",
+        "path": "%WINDIR%\\SysWOW64\\tzres.dll"
+    },
+    {
+        "type": "FileHandle (608)",
+        "path": "%WINDIR%\\SysWOW64\\WindowsCodecs.dll"
+    },
+    {
+        "type": "FileHandle (616)",
+        "path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui"
+    },
+    {
+        "type": "FileHandle (620)",
+        "path": "%WINDIR%\\SysWOW64\\IconCodecService.dll"
+    },
+    {
+        "type": "FileHandle (640)",
+        "path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.V9921e851#\\a891970b44db9e340c3ef3efa95b793c\\Microsoft.VisualBasic.ni.dll"
+    },
+    {
+        "type": "FileHandle (684)",
+        "path": "%WINDIR%\\SysWOW64\\propsys.dll"
+    },
+    {
+        "type": "FileHandle (692)",
+        "path": "%WINDIR%\\SysWOW64\\shell32.dll"
+    },
+    {
+        "type": "FileHandle (696)",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\\comctl32.dll"
+    },
+    {
+        "type": "FileHandle (704)",
+        "path": "%WINDIR%\\WindowsShell.Manifest"
+    },
+    {
+        "type": "FileHandle (708)",
+        "path": "%WINDIR%\\AppPatch\\sysmain.sdb"
+    },
+    {
+        "type": "FileHandle (712)",
+        "path": "%WINDIR%\\SysWOW64\\ieframe.dll"
+    },
+    {
+        "type": "FileHandle (728)",
+        "path": "%WINDIR%\\Registration\\R00000000000c.clb"
+    },
+    {
+        "type": "FileHandle (736)",
+        "path": "%WINDIR%\\SysWOW64\\api-ms-win-downlevel-shell32-l1-1-0.dll"
+    },
+    {
+        "type": "FileHandle (800)",
+        "path": "\\Device\\MountPointManager"
+    },
+    {
+        "type": "FileHandle (840)",
+        "path": "%LOCALAPPDATA%\\Microsoft\\Windows\\Caches\\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x000000000000003d.db"
+    },
+    {
+        "type": "FileHandle (848)",
+        "path": "%WINDIR%\\SysWOW64\\ntmarta.dll"
+    },
+    {
+        "type": "FileHandle (904)",
+        "path": "%WINDIR%\\SysWOW64\\urlmon.dll"
+    },
+    {
+        "type": "FileHandle (912)",
+        "path": "%TEMP%\\tmp68B2.tmp"
+    },
+    {
+        "type": "FileHandle (976)",
+        "path": "%APPDATA%\\PrcGlGVKeUCXxg.exe"
+    },
+    {
+        "type": "FileHandle (992)",
+        "path": "%WINDIR%\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe"
+    },
+    {
+        "type": "FileHandle (1012)",
+        "path": "%WINDIR%\\SysWOW64\\schtasks.exe"
+    }
+]

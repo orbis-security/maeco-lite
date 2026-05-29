@@ -1,0 +1,3792 @@
+[
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\BIAS",
+            "Key": "BIAS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\STANDARDNAME",
+            "Key": "STANDARDNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\STANDARDBIAS",
+            "Key": "STANDARDBIAS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\STANDARDSTART",
+            "Key": "STANDARDSTART"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\DAYLIGHTNAME",
+            "Key": "DAYLIGHTNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\DAYLIGHTBIAS",
+            "Key": "DAYLIGHTBIAS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\DAYLIGHTSTART",
+            "Key": "DAYLIGHTSTART"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\TIMEZONEKEYNAME",
+            "Key": "TIMEZONEKEYNAME",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\TIMEZONEKEYNAME",
+            "Key": "TIMEZONEKEYNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\DYNAMICDAYLIGHTTIMEDISABLED",
+            "Key": "DYNAMICDAYLIGHTTIMEDISABLED"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\DYNAMIC DST\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Create",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Create",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\ACTIVETIMEBIAS",
+            "Key": "ACTIVETIMEBIAS"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\BIAS",
+            "Key": "BIAS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\STANDARDNAME",
+            "Key": "STANDARDNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\STANDARDBIAS",
+            "Key": "STANDARDBIAS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\STANDARDSTART",
+            "Key": "STANDARDSTART"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\DAYLIGHTNAME",
+            "Key": "DAYLIGHTNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\DAYLIGHTBIAS",
+            "Key": "DAYLIGHTBIAS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\DAYLIGHTSTART",
+            "Key": "DAYLIGHTSTART"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\TIMEZONEKEYNAME",
+            "Key": "TIMEZONEKEYNAME",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\TIMEZONEKEYNAME",
+            "Key": "TIMEZONEKEYNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\DYNAMICDAYLIGHTTIMEDISABLED",
+            "Key": "DYNAMICDAYLIGHTTIMEDISABLED"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\DYNAMIC DST\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Create",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Create",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\ACTIVETIMEBIAS",
+            "Key": "ACTIVETIMEBIAS"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\BIAS",
+            "Key": "BIAS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\STANDARDNAME",
+            "Key": "STANDARDNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\STANDARDBIAS",
+            "Key": "STANDARDBIAS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\STANDARDSTART",
+            "Key": "STANDARDSTART"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\DAYLIGHTNAME",
+            "Key": "DAYLIGHTNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\DAYLIGHTBIAS",
+            "Key": "DAYLIGHTBIAS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\DAYLIGHTSTART",
+            "Key": "DAYLIGHTSTART"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\TIMEZONEKEYNAME",
+            "Key": "TIMEZONEKEYNAME",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\DYNAMICDAYLIGHTTIMEDISABLED",
+            "Key": "DYNAMICDAYLIGHTTIMEDISABLED"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\DYNAMIC DST\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Create",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\ACTIVETIMEBIAS",
+            "Key": "ACTIVETIMEBIAS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\BIAS",
+            "Key": "BIAS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\STANDARDNAME",
+            "Key": "STANDARDNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\STANDARDBIAS",
+            "Key": "STANDARDBIAS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\STANDARDSTART",
+            "Key": "STANDARDSTART"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\DAYLIGHTNAME",
+            "Key": "DAYLIGHTNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\DAYLIGHTBIAS",
+            "Key": "DAYLIGHTBIAS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\DAYLIGHTSTART",
+            "Key": "DAYLIGHTSTART"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\DYNAMICDAYLIGHTTIMEDISABLED",
+            "Key": "DYNAMICDAYLIGHTTIMEDISABLED"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\DYNAMIC DST\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\ACTIVETIMEBIAS",
+            "Key": "ACTIVETIMEBIAS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\BIAS",
+            "Key": "BIAS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\STANDARDNAME",
+            "Key": "STANDARDNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\STANDARDBIAS",
+            "Key": "STANDARDBIAS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\STANDARDSTART",
+            "Key": "STANDARDSTART"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\DAYLIGHTNAME",
+            "Key": "DAYLIGHTNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\DAYLIGHTBIAS",
+            "Key": "DAYLIGHTBIAS"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\DAYLIGHTSTART",
+            "Key": "DAYLIGHTSTART"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\DYNAMICDAYLIGHTTIMEDISABLED",
+            "Key": "DYNAMICDAYLIGHTTIMEDISABLED"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\DYNAMIC DST\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\TIMEZONEINFORMATION\\ACTIVETIMEBIAS",
+            "Key": "ACTIVETIMEBIAS"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\SIDEBYSIDE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\SIDEBYSIDE\\PREFEREXTERNALMANIFEST",
+            "Key": "PREFEREXTERNALMANIFEST",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\SEARCHLIST",
+            "Key": "SEARCHLIST",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\ENABLEDHCP",
+            "Key": "ENABLEDHCP"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\REGISTRATIONENABLED",
+            "Key": "REGISTRATIONENABLED"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\REGISTERADAPTERNAME",
+            "Key": "REGISTERADAPTERNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DOMAIN",
+            "Key": "DOMAIN"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPDOMAIN",
+            "Key": "DHCPDOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPV6DOMAIN",
+            "Key": "DHCPV6DOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\NAMESERVER",
+            "Key": "NAMESERVER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\NAMESERVER",
+            "Key": "NAMESERVER"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\NAMESERVER",
+            "Key": "NAMESERVER"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPNAMESERVER",
+            "Key": "DHCPNAMESERVER"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPNAMESERVER",
+            "Key": "DHCPNAMESERVER"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\NAMESERVER",
+            "Key": "NAMESERVER"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\NAMESERVER",
+            "Key": "NAMESERVER"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPNAMESERVER",
+            "Key": "DHCPNAMESERVER"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPNAMESERVER",
+            "Key": "DHCPNAMESERVER"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\ENABLEDHCP",
+            "Key": "ENABLEDHCP",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\REGISTRATIONENABLED",
+            "Key": "REGISTRATIONENABLED",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\REGISTERADAPTERNAME",
+            "Key": "REGISTERADAPTERNAME",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\DOMAIN",
+            "Key": "DOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\DHCPDOMAIN",
+            "Key": "DHCPDOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\NAMESERVER",
+            "Key": "NAMESERVER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\DHCPNAMESERVER",
+            "Key": "DHCPNAMESERVER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\SEARCHLIST",
+            "Key": "SEARCHLIST",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\ENABLEDHCP",
+            "Key": "ENABLEDHCP"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\REGISTRATIONENABLED",
+            "Key": "REGISTRATIONENABLED"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\REGISTERADAPTERNAME",
+            "Key": "REGISTERADAPTERNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DOMAIN",
+            "Key": "DOMAIN"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPDOMAIN",
+            "Key": "DHCPDOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPV6DOMAIN",
+            "Key": "DHCPV6DOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\NAMESERVER",
+            "Key": "NAMESERVER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\ENABLEDHCP",
+            "Key": "ENABLEDHCP",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\REGISTRATIONENABLED",
+            "Key": "REGISTRATIONENABLED",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\REGISTERADAPTERNAME",
+            "Key": "REGISTERADAPTERNAME",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\DOMAIN",
+            "Key": "DOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{846EE342-7039-11DE-9D20-806E6F6E6963}\\DHCPDOMAIN",
+            "Key": "DHCPDOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\LINKAGE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\LINKAGE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\LINKAGE\\BIND",
+            "Key": "BIND",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\LINKAGE\\BIND",
+            "Key": "BIND",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\LINKAGE\\BIND",
+            "Key": "BIND"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\LINKAGE\\BIND",
+            "Key": "BIND",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\LINKAGE\\BIND",
+            "Key": "BIND",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\CLASS\\{4D36E972-E325-11CE-BFC1-08002BE10318}\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\CLASS\\{4D36E972-E325-11CE-BFC1-08002BE10318}\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\00-50-56-91-CA-A1\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\SEARCHLIST",
+            "Key": "SEARCHLIST",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\ENABLEDHCP",
+            "Key": "ENABLEDHCP"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\REGISTRATIONENABLED",
+            "Key": "REGISTRATIONENABLED"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\REGISTERADAPTERNAME",
+            "Key": "REGISTERADAPTERNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DOMAIN",
+            "Key": "DOMAIN"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPDOMAIN",
+            "Key": "DHCPDOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPV6DOMAIN",
+            "Key": "DHCPV6DOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\NAMESERVER",
+            "Key": "NAMESERVER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\SEARCHLIST",
+            "Key": "SEARCHLIST",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPV6DOMAIN",
+            "Key": "DHCPV6DOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\NAMESERVER",
+            "Key": "NAMESERVER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\LINKAGE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\LINKAGE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\CLASS\\{4D36E972-E325-11CE-BFC1-08002BE10318}\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\CLASS\\{4D36E972-E325-11CE-BFC1-08002BE10318}\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\00-50-56-91-CA-A1\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\SEARCHLIST",
+            "Key": "SEARCHLIST",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\DHCPV6DOMAIN",
+            "Key": "DHCPV6DOMAIN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP6\\PARAMETERS\\INTERFACES\\{E390372A-3FAB-417F-940E-F2CD5C8F68CB}\\NAMESERVER",
+            "Key": "NAMESERVER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\SERVICES\\TCPIP\\LINKAGE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\CLASS\\{4D36E972-E325-11CE-BFC1-08002BE10318}\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\00-50-56-91-CA-A1\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\00-50-56-91-CA-A1\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\WPAD\\00-50-56-91-CA-A1\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\OLE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\OLE\\MAXIMUMALLOWEDALLOCATIONSIZE",
+            "Key": "MAXIMUMALLOWEDALLOCATIONSIZE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\RPC\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\RPC\\MAXRPCSIZE",
+            "Key": "MAXRPCSIZE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\COMPUTERNAME\\ACTIVECOMPUTERNAME\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\COMPUTERNAME\\ACTIVECOMPUTERNAME\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\COMPUTERNAME\\ACTIVECOMPUTERNAME\\COMPUTERNAME",
+            "Key": "COMPUTERNAME"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\SETUP\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\SETUP\\OOBEINPROGRESS",
+            "Key": "OOBEINPROGRESS"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\SETUP\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\SETUP\\SYSTEMSETUPINPROGRESS",
+            "Key": "SYSTEMSETUPINPROGRESS"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS NT\\RPC\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS NT\\RPC\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\SQMCLIENT\\WINDOWS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\SQMCLIENT\\WINDOWS\\CEIPENABLE",
+            "Key": "CEIPENABLE"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\DISABLEUSERMODECALLBACKFILTER",
+            "Key": "DISABLEUSERMODECALLBACKFILTER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\CWDILLEGALINDLLSEARCH",
+            "Key": "CWDILLEGALINDLLSEARCH",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WOW64\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\DISABLEUSERMODECALLBACKFILTER",
+            "Key": "DISABLEUSERMODECALLBACKFILTER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\CWDILLEGALINDLLSEARCH",
+            "Key": "CWDILLEGALINDLLSEARCH",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\SORTING\\VERSIONS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\SORTING\\VERSIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\SORTING\\VERSIONS\\COMPATDLL",
+            "Key": "COMPATDLL"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\SORTING\\VERSIONS\\00060101.00060101",
+            "Key": "00060101.00060101",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\SORTING\\VERSIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SAFEBOOT\\OPTION\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SAFEBOOT\\OPTION\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SRP\\GP\\DLL\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SRP\\GP\\DLL\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\TRANSPARENTENABLED",
+            "Key": "TRANSPARENTENABLED",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\SAFEDLLSEARCHMODE",
+            "Key": "SAFEDLLSEARCHMODE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\DIAGNOSTICS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\V4.0\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\V4.0\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\INSTALLROOT",
+            "Key": "INSTALLROOT"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\INSTALLROOT",
+            "Key": "INSTALLROOT"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\INSTALLROOT",
+            "Key": "INSTALLROOT"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\INSTALLROOT",
+            "Key": "INSTALLROOT"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\INSTALLROOT",
+            "Key": "INSTALLROOT"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\CLRLOADLOGDIR",
+            "Key": "CLRLOADLOGDIR",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\USELEGACYV2RUNTIMEACTIVATIONPOLICYDEFAULTVALUE",
+            "Key": "USELEGACYV2RUNTIMEACTIVATIONPOLICYDEFAULTVALUE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\ONLYUSELATESTCLR",
+            "Key": "ONLYUSELATESTCLR",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\STANDARDS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\STANDARDS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\STANDARDS\\V4.0.30319\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\FUSION\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\FUSION\\NOCLIENTCHECKS",
+            "Key": "NOCLIENTCHECKS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\V4.0.30319\\SKUS\\\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\V4.0.30319\\SKUS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\V4.0.30319\\SKUS\\DEFAULT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\NET FRAMEWORK SETUP\\NDP\\V4\\FULL\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\NET FRAMEWORK SETUP\\NDP\\V4\\FULL\\RELEASE",
+            "Key": "RELEASE"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\COMPATIBILITY32\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\COMPATIBILITY32\\SHIPMENTADVICEH-BLDRAFT",
+            "Key": "SHIPMENTADVICEH-BLDRAFT",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IME COMPATIBILITY\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\DISABLECONFIGCACHE",
+            "Key": "DISABLECONFIGCACHE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\SHIPMENTADVICEH-BLDRAFT.EXE\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\CACHELOCATION",
+            "Key": "CACHELOCATION",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\DOWNLOADCACHEQUOTAINKB",
+            "Key": "DOWNLOADCACHEQUOTAINKB",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\FUSION\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\ENABLELOG",
+            "Key": "ENABLELOG",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\LOGGINGLEVEL",
+            "Key": "LOGGINGLEVEL",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\FORCELOG",
+            "Key": "FORCELOG",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\LOGFAILURES",
+            "Key": "LOGFAILURES",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\LOGRESOURCEBINDS",
+            "Key": "LOGRESOURCEBINDS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\FILEINUSERETRYATTEMPTS",
+            "Key": "FILEINUSERETRYATTEMPTS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\FILEINUSEMILLISECONDSBETWEENRETRIES",
+            "Key": "FILEINUSEMILLISECONDSBETWEENRETRIES",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\USELEGACYIDENTITYFORMAT",
+            "Key": "USELEGACYIDENTITYFORMAT",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\DISABLEMSIPEEK",
+            "Key": "DISABLEMSIPEEK",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\DEVOVERRIDEENABLE",
+            "Key": "DEVOVERRIDEENABLE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\NGEN\\POLICY\\V4.0\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\NGEN\\POLICY\\V4.0\\OPTIMIZEUSEDBINARIES",
+            "Key": "OPTIMIZEUSEDBINARIES"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\SERVICING\\",
+            "Key": "",
+            "Status": "STATUS_NO_MORE_ENTRIES (8000001a)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\EN-US",
+            "Key": "EN-US",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\EN-US",
+            "Key": "EN-US",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\SORTING\\VERSIONS\\00060101.00060101",
+            "Key": "00060101.00060101",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\STRONGNAME\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\NET FRAMEWORK SETUP\\NDP\\V4\\FULL\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\NET FRAMEWORK SETUP\\NDP\\V4\\FULL\\RELEASE",
+            "Key": "RELEASE"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\FEATURESIMD",
+            "Key": "FEATURESIMD",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\ALTJIT",
+            "Key": "ALTJIT",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\LATEST",
+            "Key": "LATEST"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\INDEX328",
+            "Key": "INDEX328"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\LEGACYPOLICYTIMESTAMP",
+            "Key": "LEGACYPOLICYTIMESTAMP"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.WINDOWS.FORMS__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.WINDOWS.FORMS__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.SECURITY__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.SECURITY__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.XML__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.XML__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.CONFIGURATION__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.CONFIGURATION__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.DRAWING__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.DRAWING__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.ACCESSIBILITY__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.ACCESSIBILITY__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.CORE__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.CORE__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.DEPLOYMENT__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.DEPLOYMENT__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.RUNTIME.SERIALIZATION.FORMATTERS.SOAP__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.RUNTIME.SERIALIZATION.FORMATTERS.SOAP__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\APTCA\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.10.0.MICROSOFT.VISUALBASIC__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.10.0.MICROSOFT.VISUALBASIC__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.CORE__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.CORE__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.NUMERICS__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.NUMERICS__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.WINDOWS.FORMS__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.WINDOWS.FORMS__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.DRAWING__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.DRAWING__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.MANAGEMENT__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.MANAGEMENT__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.XML.LINQ__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.XML.LINQ__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.RUNTIME.REMOTING__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.RUNTIME.REMOTING__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\COMPUTERNAME\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\COMPUTERNAME\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\COMPUTERNAME\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\COMPUTERNAME\\ACTIVECOMPUTERNAME\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\COMPUTERNAME\\ACTIVECOMPUTERNAME\\COMPUTERNAME",
+            "Key": "COMPUTERNAME"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\SETUP\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\SETUP\\OOBEINPROGRESS",
+            "Key": "OOBEINPROGRESS"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\SETUP\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\SETUP\\SYSTEMSETUPINPROGRESS",
+            "Key": "SYSTEMSETUPINPROGRESS"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\WMR\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\WMR\\DISABLE",
+            "Key": "DISABLE"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\LOCALE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\LOCALE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\LOCALE\\ALTERNATE SORTS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\LOCALE\\ALTERNATE SORTS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\LANGUAGE GROUPS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\LANGUAGE GROUPS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\LOCALE\\00000409",
+            "Key": "00000409"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\LANGUAGE GROUPS\\1",
+            "Key": "1"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\TZI",
+            "Key": "TZI"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\TZI",
+            "Key": "TZI"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\MUI_DISPLAY",
+            "Key": "MUI_DISPLAY"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\MUI_DISPLAY",
+            "Key": "MUI_DISPLAY"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\MUI_STD",
+            "Key": "MUI_STD"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\MUI_STD",
+            "Key": "MUI_STD"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\MUI_DLT",
+            "Key": "MUI_DLT"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\MUI_DLT",
+            "Key": "MUI_DLT"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\CATEGORY",
+            "Key": "CATEGORY"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\NAME",
+            "Key": "NAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\PARENTFOLDER",
+            "Key": "PARENTFOLDER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\DESCRIPTION",
+            "Key": "DESCRIPTION",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\RELATIVEPATH",
+            "Key": "RELATIVEPATH",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\PARSINGNAME",
+            "Key": "PARSINGNAME",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\INFOTIP",
+            "Key": "INFOTIP",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\LOCALIZEDNAME",
+            "Key": "LOCALIZEDNAME",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\ICON",
+            "Key": "ICON",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\SECURITY",
+            "Key": "SECURITY",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\STREAMRESOURCE",
+            "Key": "STREAMRESOURCE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\STREAMRESOURCETYPE",
+            "Key": "STREAMRESOURCETYPE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\LOCALREDIRECTONLY",
+            "Key": "LOCALREDIRECTONLY",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\ROAMABLE",
+            "Key": "ROAMABLE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\PRECREATE",
+            "Key": "PRECREATE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\STREAM",
+            "Key": "STREAM",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\PUBLISHEXPANDEDPATH",
+            "Key": "PUBLISHEXPANDEDPATH",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\ATTRIBUTES",
+            "Key": "ATTRIBUTES",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\FOLDERTYPEID",
+            "Key": "FOLDERTYPEID",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\INITFOLDERHANDLER",
+            "Key": "INITFOLDERHANDLER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\PROPERTYBAG\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\KNOWNFOLDERSETTINGS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\KNOWNFOLDERSETTINGS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\APPCONTEXT\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\CONTROL PANEL\\INTERNATIONAL\\CALENDARS\\TWODIGITYEARMAX\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\INTERNATIONAL\\CALENDARS\\TWODIGITYEARMAX\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\INTERNATIONAL\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\INTERNATIONAL\\SYEARMONTH",
+            "Key": "SYEARMONTH"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\AR",
+            "Key": "AR",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\AR",
+            "Key": "AR",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\AR-SA",
+            "Key": "AR-SA",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\AR-SA",
+            "Key": "AR-SA",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\BG",
+            "Key": "BG",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\BG",
+            "Key": "BG",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\BG-BG",
+            "Key": "BG-BG",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\BG-BG",
+            "Key": "BG-BG",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\CA",
+            "Key": "CA",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\CA",
+            "Key": "CA",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\CA-ES",
+            "Key": "CA-ES",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\CA-ES",
+            "Key": "CA-ES",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\ZH-HANS",
+            "Key": "ZH-HANS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\ZH-HANS",
+            "Key": "ZH-HANS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\ZH-CN",
+            "Key": "ZH-CN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\ZH-CN",
+            "Key": "ZH-CN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\CS",
+            "Key": "CS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\CS",
+            "Key": "CS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\CS-CZ",
+            "Key": "CS-CZ",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\CS-CZ",
+            "Key": "CS-CZ",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\DA",
+            "Key": "DA",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\DA",
+            "Key": "DA",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\DA-DK",
+            "Key": "DA-DK",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\DA-DK",
+            "Key": "DA-DK",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\DE",
+            "Key": "DE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\DE",
+            "Key": "DE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\DE-DE",
+            "Key": "DE-DE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\DE-DE",
+            "Key": "DE-DE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\EL",
+            "Key": "EL",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\EL",
+            "Key": "EL",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\EL-GR",
+            "Key": "EL-GR",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\EL-GR",
+            "Key": "EL-GR",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\EN",
+            "Key": "EN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\EN",
+            "Key": "EN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\ES",
+            "Key": "ES",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\ES",
+            "Key": "ES",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\ES-ES",
+            "Key": "ES-ES",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\ES-ES",
+            "Key": "ES-ES",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\FI",
+            "Key": "FI",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\FI",
+            "Key": "FI",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\FI-FI",
+            "Key": "FI-FI",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\FI-FI",
+            "Key": "FI-FI",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\FR",
+            "Key": "FR",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\FR",
+            "Key": "FR",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\FR-FR",
+            "Key": "FR-FR",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\FR-FR",
+            "Key": "FR-FR",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\HE",
+            "Key": "HE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\HE",
+            "Key": "HE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\HE-IL",
+            "Key": "HE-IL",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\HE-IL",
+            "Key": "HE-IL",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\HU",
+            "Key": "HU",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\HU",
+            "Key": "HU",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\HU-HU",
+            "Key": "HU-HU",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\HU-HU",
+            "Key": "HU-HU",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\IS",
+            "Key": "IS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\IS",
+            "Key": "IS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\IS-IS",
+            "Key": "IS-IS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\IS-IS",
+            "Key": "IS-IS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\IT",
+            "Key": "IT",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\IT",
+            "Key": "IT",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\IT-IT",
+            "Key": "IT-IT",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\IT-IT",
+            "Key": "IT-IT",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\JA",
+            "Key": "JA",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\JA",
+            "Key": "JA",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\JA-JP",
+            "Key": "JA-JP",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\JA-JP",
+            "Key": "JA-JP",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\KO",
+            "Key": "KO",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\KO",
+            "Key": "KO",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\KO-KR",
+            "Key": "KO-KR",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\KO-KR",
+            "Key": "KO-KR",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\NL",
+            "Key": "NL",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\NL",
+            "Key": "NL",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\NL-NL",
+            "Key": "NL-NL",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\NL-NL",
+            "Key": "NL-NL",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\NO",
+            "Key": "NO",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\NO",
+            "Key": "NO",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\NB-NO",
+            "Key": "NB-NO",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\NB-NO",
+            "Key": "NB-NO",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\PL",
+            "Key": "PL",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\PL",
+            "Key": "PL",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\PL-PL",
+            "Key": "PL-PL",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\PL-PL",
+            "Key": "PL-PL",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\PT",
+            "Key": "PT",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\PT",
+            "Key": "PT",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\PT-BR",
+            "Key": "PT-BR",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\PT-BR",
+            "Key": "PT-BR",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\RM",
+            "Key": "RM",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\RM",
+            "Key": "RM",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\RM-CH",
+            "Key": "RM-CH",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\RM-CH",
+            "Key": "RM-CH",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\RO",
+            "Key": "RO",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\RO",
+            "Key": "RO",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\RO-RO",
+            "Key": "RO-RO",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    }
+]

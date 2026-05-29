@@ -1,0 +1,3790 @@
+[
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\EN",
+            "Key": "EN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\EN",
+            "Key": "EN",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 001\\NAME",
+            "Key": "NAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 001\\NAME",
+            "Key": "NAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 001\\NAME",
+            "Key": "NAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 001\\NAME",
+            "Key": "NAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\TYPE",
+            "Key": "TYPE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\IMAGE PATH",
+            "Key": "IMAGE PATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\IMAGE PATH",
+            "Key": "IMAGE PATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\IMAGE PATH",
+            "Key": "IMAGE PATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\IMAGE PATH",
+            "Key": "IMAGE PATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\CRYPTOGRAPHY\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\CRYPTOGRAPHY\\MACHINEGUID",
+            "Key": "MACHINEGUID"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\CRYPTOGRAPHY\\MACHINEGUID",
+            "Key": "MACHINEGUID"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\CRYPTOGRAPHY\\MACHINEGUID",
+            "Key": "MACHINEGUID"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\CRYPTOGRAPHY\\MACHINEGUID",
+            "Key": "MACHINEGUID"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\OFFLOAD\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.3.0.SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES_EN-US_31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.3.0.SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES_EN-US_31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INSTALLER\\MANAGED\\S-1-5-21-686412048-2446563785-1323799475-1001\\INSTALLER\\ASSEMBLIES\\C:|WINDOWS|SYSWOW64|WINDOWSPOWERSHELL|V1.0|POWERSHELL.EXE\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\INSTALLER\\ASSEMBLIES\\C:|WINDOWS|SYSWOW64|WINDOWSPOWERSHELL|V1.0|POWERSHELL.EXE\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\CLASSES\\INSTALLER\\ASSEMBLIES\\C:|WINDOWS|SYSWOW64|WINDOWSPOWERSHELL|V1.0|POWERSHELL.EXE\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INSTALLER\\MANAGED\\S-1-5-21-686412048-2446563785-1323799475-1001\\INSTALLER\\ASSEMBLIES\\GLOBAL\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\INSTALLER\\ASSEMBLIES\\GLOBAL\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\CLASSES\\INSTALLER\\ASSEMBLIES\\GLOBAL\\",
+            "Key": "",
+            "Status": "STATUS_NO_MORE_ENTRIES (8000001a)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.3.0.MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES_EN-US_31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.3.0.MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES_EN-US_31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\APPLICATIONBASE",
+            "Key": "APPLICATIONBASE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\APPLICATIONBASE",
+            "Key": "APPLICATIONBASE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.3.0.SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES_EN-US_31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.3.0.SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES_EN-US_31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.3.0.SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES_EN-US_31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.3.0.SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES_EN-US_31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\DISABLEUSERMODECALLBACKFILTER",
+            "Key": "DISABLEUSERMODECALLBACKFILTER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\CWDILLEGALINDLLSEARCH",
+            "Key": "CWDILLEGALINDLLSEARCH",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WOW64\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\DISABLEUSERMODECALLBACKFILTER",
+            "Key": "DISABLEUSERMODECALLBACKFILTER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\CWDILLEGALINDLLSEARCH",
+            "Key": "CWDILLEGALINDLLSEARCH",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SAFEBOOT\\OPTION\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SAFEBOOT\\OPTION\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SRP\\GP\\DLL\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SRP\\GP\\DLL\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\TRANSPARENTENABLED",
+            "Key": "TRANSPARENTENABLED",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\SORTING\\VERSIONS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\SORTING\\VERSIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\SORTING\\VERSIONS\\COMPATDLL",
+            "Key": "COMPATDLL"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\SORTING\\VERSIONS\\00060101.00060101",
+            "Key": "00060101.00060101",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\SORTING\\VERSIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\DIAGNOSTICS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\SAFEDLLSEARCHMODE",
+            "Key": "SAFEDLLSEARCHMODE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\GRE_INITIALIZE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\GRE_INITIALIZE\\DISABLEMETAFILES",
+            "Key": "DISABLEMETAFILES",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\COMPATIBILITY32\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\COMPATIBILITY32\\POWERSHELL",
+            "Key": "POWERSHELL",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IME COMPATIBILITY\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\EMPTY",
+            "Key": "EMPTY",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\EMPTY",
+            "Key": "EMPTY",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\LANGUAGE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\LANGUAGE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\LANGUAGE\\INSTALLLANGUAGEFALLBACK",
+            "Key": "INSTALLLANGUAGEFALLBACK",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MUI\\UILANGUAGES\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MUI\\UILANGUAGES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MUI\\UILANGUAGES\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MUI\\UILANGUAGES\\EN-US\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MUI\\UILANGUAGES\\EN-US\\TYPE",
+            "Key": "TYPE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MUI\\UILANGUAGES\\EN-US\\ALTERNATECODEPAGE",
+            "Key": "ALTERNATECODEPAGE",
+            "Status": "STATUS_NO_MORE_ENTRIES (8000001a)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MUI\\UILANGUAGES\\PENDINGDELETE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MUI\\UILANGUAGES\\PENDINGDELETE\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\MUI\\SETTINGS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\MUI\\SETTINGS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\DESKTOP\\MUICACHED\\MACHINELANGUAGECONFIGURATION\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MUI\\SETTINGS\\LANGUAGECONFIGURATION\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MUI\\SETTINGS\\LANGUAGECONFIGURATION\\",
+            "Key": "",
+            "Status": "STATUS_NO_MORE_ENTRIES (8000001a)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\MUI\\SETTINGS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\MUI\\SETTINGS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\CONTROL PANEL\\DESKTOP\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\DESKTOP\\LANGUAGECONFIGURATION\\",
+            "Key": "",
+            "Status": "STATUS_NO_MORE_ENTRIES (8000001a)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\MUI\\SETTINGS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\CONTROL PANEL\\DESKTOP\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\DESKTOP\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\DESKTOP\\PREFERREDUILANGUAGES",
+            "Key": "PREFERREDUILANGUAGES",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\DESKTOP\\MUICACHED\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\DESKTOP\\MUICACHED\\MACHINEPREFERREDUILANGUAGES",
+            "Key": "MACHINEPREFERREDUILANGUAGES",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\DESKTOP\\MUICACHED\\MACHINEPREFERREDUILANGUAGES",
+            "Key": "MACHINEPREFERREDUILANGUAGES"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\WINDOWS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\WINDOWS\\LOADAPPINIT_DLLS",
+            "Key": "LOADAPPINIT_DLLS"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\OLE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\OLE\\PAGEALLOCATORUSESYSTEMHEAP",
+            "Key": "PAGEALLOCATORUSESYSTEMHEAP",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\OLE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\OLE\\PAGEALLOCATORSYSTEMHEAPISPRIVATE",
+            "Key": "PAGEALLOCATORSYSTEMHEAPISPRIVATE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\OLE\\TRACING\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\OLE\\TRACING\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\OLEAUT\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\OLEAUT\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\",
+            "Key": "",
+            "Status": "STATUS_NO_MORE_ENTRIES (8000001a)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\POWERSHELLVERSION",
+            "Key": "POWERSHELLVERSION"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\POWERSHELLVERSION",
+            "Key": "POWERSHELLVERSION"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\RUNTIMEVERSION",
+            "Key": "RUNTIMEVERSION"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\RUNTIMEVERSION",
+            "Key": "RUNTIMEVERSION"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\CONSOLEHOSTASSEMBLYNAME",
+            "Key": "CONSOLEHOSTASSEMBLYNAME",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\CONSOLEHOSTASSEMBLYNAME",
+            "Key": "CONSOLEHOSTASSEMBLYNAME",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\CONSOLEHOSTASSEMBLYNAME",
+            "Key": "CONSOLEHOSTASSEMBLYNAME"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MININT\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\MININT\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\POWERSHELLVERSION",
+            "Key": "POWERSHELLVERSION"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\POWERSHELLVERSION",
+            "Key": "POWERSHELLVERSION"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\RUNTIMEVERSION",
+            "Key": "RUNTIMEVERSION"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\RUNTIMEVERSION",
+            "Key": "RUNTIMEVERSION"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\CONSOLEHOSTASSEMBLYNAME",
+            "Key": "CONSOLEHOSTASSEMBLYNAME",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\CONSOLEHOSTASSEMBLYNAME",
+            "Key": "CONSOLEHOSTASSEMBLYNAME",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\NETFRAMEWORKV4ISINSTALLED",
+            "Key": "NETFRAMEWORKV4ISINSTALLED",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\V4.0\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\V4.0\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\INSTALLROOT",
+            "Key": "INSTALLROOT"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\INSTALLROOT",
+            "Key": "INSTALLROOT"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\INSTALLROOT",
+            "Key": "INSTALLROOT"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\INSTALLROOT",
+            "Key": "INSTALLROOT"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\INSTALLROOT",
+            "Key": "INSTALLROOT"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\CLRLOADLOGDIR",
+            "Key": "CLRLOADLOGDIR",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "\\REGISTRY\\USER\\S-1-5-21-686412048-2446563785-1323799475-1001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\USELEGACYV2RUNTIMEACTIVATIONPOLICYDEFAULTVALUE",
+            "Key": "USELEGACYV2RUNTIMEACTIVATIONPOLICYDEFAULTVALUE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\ONLYUSELATESTCLR",
+            "Key": "ONLYUSELATESTCLR",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\FUSION\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\FUSION\\NOCLIENTCHECKS",
+            "Key": "NOCLIENTCHECKS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\NET FRAMEWORK SETUP\\NDP\\V4\\FULL\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\NET FRAMEWORK SETUP\\NDP\\V4\\FULL\\RELEASE",
+            "Key": "RELEASE"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\DISABLECONFIGCACHE",
+            "Key": "DISABLECONFIGCACHE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\POWERSHELL.EXE\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\CACHELOCATION",
+            "Key": "CACHELOCATION",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\DOWNLOADCACHEQUOTAINKB",
+            "Key": "DOWNLOADCACHEQUOTAINKB",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\FUSION\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\ENABLELOG",
+            "Key": "ENABLELOG",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\LOGGINGLEVEL",
+            "Key": "LOGGINGLEVEL",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\FORCELOG",
+            "Key": "FORCELOG",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\LOGFAILURES",
+            "Key": "LOGFAILURES",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\LOGRESOURCEBINDS",
+            "Key": "LOGRESOURCEBINDS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\FILEINUSERETRYATTEMPTS",
+            "Key": "FILEINUSERETRYATTEMPTS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\FILEINUSEMILLISECONDSBETWEENRETRIES",
+            "Key": "FILEINUSEMILLISECONDSBETWEENRETRIES",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\USELEGACYIDENTITYFORMAT",
+            "Key": "USELEGACYIDENTITYFORMAT",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\DISABLEMSIPEEK",
+            "Key": "DISABLEMSIPEEK",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\DEVOVERRIDEENABLE",
+            "Key": "DEVOVERRIDEENABLE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\NGEN\\POLICY\\V4.0\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\NGEN\\POLICY\\V4.0\\OPTIMIZEUSEDBINARIES",
+            "Key": "OPTIMIZEUSEDBINARIES"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\SERVICING\\",
+            "Key": "",
+            "Status": "STATUS_NO_MORE_ENTRIES (8000001a)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\CUSTOMLOCALE\\EN-US",
+            "Key": "EN-US",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\EXTENDEDLOCALE\\EN-US",
+            "Key": "EN-US",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\SORTING\\VERSIONS\\00060101.00060101",
+            "Key": "00060101.00060101",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\STRONGNAME\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\NET FRAMEWORK SETUP\\NDP\\V4\\FULL\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\NET FRAMEWORK SETUP\\NDP\\V4\\FULL\\RELEASE",
+            "Key": "RELEASE"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\LATEST",
+            "Key": "LATEST"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\INDEX328",
+            "Key": "INDEX328"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\LEGACYPOLICYTIMESTAMP",
+            "Key": "LEGACYPOLICYTIMESTAMP"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.3.0.MICROSOFT.POWERSHELL.CONSOLEHOST__31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.3.0.MICROSOFT.POWERSHELL.CONSOLEHOST__31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.CONFIGURATION__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.CONFIGURATION__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.XML__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.XML__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.3.0.SYSTEM.MANAGEMENT.AUTOMATION__31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.3.0.SYSTEM.MANAGEMENT.AUTOMATION__31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.CONFIGURATION.INSTALL__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.CONFIGURATION.INSTALL__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.CORE__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.CORE__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.NUMERICS__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.NUMERICS__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.SECURITY__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.SECURITY__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.1.0.MICROSOFT.MANAGEMENT.INFRASTRUCTURE__31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.1.0.MICROSOFT.MANAGEMENT.INFRASTRUCTURE__31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 001\\NAME",
+            "Key": "NAME"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\TYPE",
+            "Key": "TYPE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\IMAGE PATH",
+            "Key": "IMAGE PATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\SAFEPROCESSSEARCHMODE",
+            "Key": "SAFEPROCESSSEARCHMODE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSA\\FIPSALGORITHMPOLICY\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSA\\FIPSALGORITHMPOLICY\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSA\\FIPSALGORITHMPOLICY\\ENABLED",
+            "Key": "ENABLED"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSA\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSA\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\LSA\\FIPSALGORITHMPOLICY",
+            "Key": "FIPSALGORITHMPOLICY",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\POLICIES\\MICROSOFT\\CRYPTOGRAPHY\\CONFIGURATION\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\POLICIES\\MICROSOFT\\CRYPTOGRAPHY\\CONFIGURATION\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\CRYPTOGRAPHY\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\CRYPTOGRAPHY\\PRIVKEYCACHEMAXITEMS",
+            "Key": "PRIVKEYCACHEMAXITEMS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\CRYPTOGRAPHY\\PRIVKEYCACHEPURGEINTERVALSECONDS",
+            "Key": "PRIVKEYCACHEPURGEINTERVALSECONDS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\CRYPTOGRAPHY\\PRIVATEKEYLIFETIMESECONDS",
+            "Key": "PRIVATEKEYLIFETIMESECONDS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\CRYPTOGRAPHY\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\CRYPTOGRAPHY\\MACHINEGUID",
+            "Key": "MACHINEGUID"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\OFFLOAD\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\APTCA\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.3.0.SYSTEM.MANAGEMENT.AUTOMATION__31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.3.0.SYSTEM.MANAGEMENT.AUTOMATION__31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.TRANSACTIONS__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.TRANSACTIONS__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.DIRECTORYSERVICES__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.DIRECTORYSERVICES__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.1.0.MICROSOFT.MANAGEMENT.INFRASTRUCTURE.NATIVE__31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.1.0.MICROSOFT.MANAGEMENT.INFRASTRUCTURE.NATIVE__31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.RUNTIME.SERIALIZATION__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.RUNTIME.SERIALIZATION__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.MANAGEMENT__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.MANAGEMENT__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.DATA__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.DATA__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.MICROSOFT.CSHARP__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.MICROSOFT.CSHARP__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SMDIAGNOSTICS__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SMDIAGNOSTICS__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\APPCONTEXT\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.3.0.SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES_EN-US_31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.3.0.SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES_EN-US_31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\APPLICATIONBASE",
+            "Key": "APPLICATIONBASE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\APPLICATIONBASE",
+            "Key": "APPLICATIONBASE"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\POWERSHELL\\MODULELOGGING\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\POWERSHELL\\MODULELOGGING\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\POWERSHELL\\MODULELOGGING\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\POWERSHELL\\3\\POWERSHELLENGINE\\APPLICATIONBASE",
+            "Key": "APPLICATIONBASE"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.3.0.MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES_EN-US_31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.3.0.MICROSOFT.POWERSHELL.CONSOLEHOST.RESOURCES_EN-US_31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\CATEGORY",
+            "Key": "CATEGORY"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\NAME",
+            "Key": "NAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\PARENTFOLDER",
+            "Key": "PARENTFOLDER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\DESCRIPTION",
+            "Key": "DESCRIPTION",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\RELATIVEPATH",
+            "Key": "RELATIVEPATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\PARSINGNAME",
+            "Key": "PARSINGNAME",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\INFOTIP",
+            "Key": "INFOTIP",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\LOCALIZEDNAME",
+            "Key": "LOCALIZEDNAME",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\ICON",
+            "Key": "ICON",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\SECURITY",
+            "Key": "SECURITY",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\STREAMRESOURCE",
+            "Key": "STREAMRESOURCE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\STREAMRESOURCETYPE",
+            "Key": "STREAMRESOURCETYPE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\LOCALREDIRECTONLY",
+            "Key": "LOCALREDIRECTONLY"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\ROAMABLE",
+            "Key": "ROAMABLE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\PRECREATE",
+            "Key": "PRECREATE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\STREAM",
+            "Key": "STREAM",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\PUBLISHEXPANDEDPATH",
+            "Key": "PUBLISHEXPANDEDPATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\ATTRIBUTES",
+            "Key": "ATTRIBUTES",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\FOLDERTYPEID",
+            "Key": "FOLDERTYPEID",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\INITFOLDERHANDLER",
+            "Key": "INITFOLDERHANDLER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\PROPERTYBAG\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SESSIONINFO\\1\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SESSIONINFO\\1\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SESSIONINFO\\1\\KNOWNFOLDERS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\USER SHELL FOLDERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\USER SHELL FOLDERS\\LOCAL APPDATA",
+            "Key": "LOCAL APPDATA"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\POWERSHELL\\TRANSCRIPTION\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\POWERSHELL\\TRANSCRIPTION\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\POWERSHELL\\TRANSCRIPTION\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\POWERSHELL\\CONSOLESESSIONCONFIGURATION\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\POWERSHELL\\CONSOLESESSIONCONFIGURATION\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\POWERSHELL\\CONSOLESESSIONCONFIGURATION\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\TZI",
+            "Key": "TZI"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\TZI",
+            "Key": "TZI"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\DYNAMIC DST\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\DYNAMIC DST\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\MUI_DISPLAY",
+            "Key": "MUI_DISPLAY"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\MUI_DISPLAY",
+            "Key": "MUI_DISPLAY"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\MUI_STD",
+            "Key": "MUI_STD"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\MUI_STD",
+            "Key": "MUI_STD"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\MUI_DLT",
+            "Key": "MUI_DLT"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\TIME ZONES\\ROMANCE STANDARD TIME\\MUI_DLT",
+            "Key": "MUI_DLT"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.3.0.SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES_EN-US_31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.3.0.SYSTEM.MANAGEMENT.AUTOMATION.RESOURCES_EN-US_31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.DATA__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.DATA__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.RUNTIME.CACHING__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.RUNTIME.CACHING__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.ENTERPRISESERVICES__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.ENTERPRISESERVICES__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\STANDARDS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\STANDARDS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\POLICY\\STANDARDS\\V4.0.30319\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\FUSION\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\FUSION\\NOCLIENTCHECKS",
+            "Key": "NOCLIENTCHECKS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\BIDINTERFACE\\LOADER\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.XML__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.XML__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.DATA.SQLXML__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.DATA.SQLXML__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.MANAGEMENT__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.MANAGEMENT__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.10.0.MICROSOFT.JSCRIPT__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.10.0.MICROSOFT.JSCRIPT__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.DIRECTORYSERVICES__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.DIRECTORYSERVICES__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\.NETFRAMEWORK\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\FEATURESIMD",
+            "Key": "FEATURESIMD",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\TYPE",
+            "Key": "TYPE"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\CRYPTOGRAPHY\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\OFFLOAD\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\TYPE",
+            "Key": "TYPE"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\CRYPTOGRAPHY\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\OFFLOAD\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 001\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT STRONG CRYPTOGRAPHIC PROVIDER\\TYPE",
+            "Key": "TYPE"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\CRYPTOGRAPHY\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\OFFLOAD\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\.NETFRAMEWORK\\ALTJIT",
+            "Key": "ALTJIT",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\ENVIRONMENT\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\ENVIRONMENT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\ENVIRONMENT\\PSMODULEPATH",
+            "Key": "PSMODULEPATH",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\ENVIRONMENT\\PSMODULEPATH",
+            "Key": "PSMODULEPATH",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\SESSION MANAGER\\ENVIRONMENT\\PSMODULEPATH",
+            "Key": "PSMODULEPATH"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\ENVIRONMENT\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\ENVIRONMENT\\PSMODULEPATH",
+            "Key": "PSMODULEPATH",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\CATEGORY",
+            "Key": "CATEGORY"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\NAME",
+            "Key": "NAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\PARENTFOLDER",
+            "Key": "PARENTFOLDER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\DESCRIPTION",
+            "Key": "DESCRIPTION",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\RELATIVEPATH",
+            "Key": "RELATIVEPATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\PARSINGNAME",
+            "Key": "PARSINGNAME",
+            "Status": "STATUS_BUFFER_OVERFLOW (80000005)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\PARSINGNAME",
+            "Key": "PARSINGNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\INFOTIP",
+            "Key": "INFOTIP",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\LOCALIZEDNAME",
+            "Key": "LOCALIZEDNAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\ICON",
+            "Key": "ICON"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\SECURITY",
+            "Key": "SECURITY",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\STREAMRESOURCE",
+            "Key": "STREAMRESOURCE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\STREAMRESOURCETYPE",
+            "Key": "STREAMRESOURCETYPE",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\LOCALREDIRECTONLY",
+            "Key": "LOCALREDIRECTONLY",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\ROAMABLE",
+            "Key": "ROAMABLE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\PRECREATE",
+            "Key": "PRECREATE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\STREAM",
+            "Key": "STREAM",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\PUBLISHEXPANDEDPATH",
+            "Key": "PUBLISHEXPANDEDPATH",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\ATTRIBUTES",
+            "Key": "ATTRIBUTES"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\FOLDERTYPEID",
+            "Key": "FOLDERTYPEID",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\INITFOLDERHANDLER",
+            "Key": "INITFOLDERHANDLER",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\FOLDERDESCRIPTIONS\\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\\PROPERTYBAG\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SESSIONINFO\\1\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SESSIONINFO\\1\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SESSIONINFO\\1\\KNOWNFOLDERS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\USER SHELL FOLDERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\USER SHELL FOLDERS\\PERSONAL",
+            "Key": "PERSONAL"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.3.0.MICROSOFT.POWERSHELL.SECURITY__31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.3.0.MICROSOFT.POWERSHELL.SECURITY__31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.CORE__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.CORE__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.1.0.MICROSOFT.MANAGEMENT.INFRASTRUCTURE__31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.1.0.MICROSOFT.MANAGEMENT.INFRASTRUCTURE__31BF3856AD364E35\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.NUMERICS__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.NUMERICS__B77A5C561934E089\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.CONFIGURATION__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.CONFIGURATION__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\CONTROL PANEL\\INTERNATIONAL\\CALENDARS\\TWODIGITYEARMAX\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\INTERNATIONAL\\CALENDARS\\TWODIGITYEARMAX\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\INTERNATIONAL\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\INTERNATIONAL\\SYEARMONTH",
+            "Key": "SYEARMONTH"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\CONTROL PANEL\\INTERNATIONAL\\CALENDARS\\TWODIGITYEARMAX\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\INTERNATIONAL\\CALENDARS\\TWODIGITYEARMAX\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\INTERNATIONAL\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\INTERNATIONAL\\SYEARMONTH",
+            "Key": "SYEARMONTH"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\CONTROL PANEL\\INTERNATIONAL\\CALENDARS\\TWODIGITYEARMAX\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\INTERNATIONAL\\CALENDARS\\TWODIGITYEARMAX\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\INTERNATIONAL\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\INTERNATIONAL\\SYEARMONTH",
+            "Key": "SYEARMONTH"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\CONTROL PANEL\\INTERNATIONAL\\CALENDARS\\TWODIGITYEARMAX\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\INTERNATIONAL\\CALENDARS\\TWODIGITYEARMAX\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\INTERNATIONAL\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCUHKCU\\CONTROL PANEL\\INTERNATIONAL\\SYEARMONTH",
+            "Key": "SYEARMONTH"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.MICROSOFT.CSHARP__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.MICROSOFT.CSHARP__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\V4.0_POLICY.4.0.SYSTEM.DYNAMIC__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\MICROSOFT\\FUSION\\PUBLISHERPOLICY\\DEFAULT\\POLICY.4.0.SYSTEM.DYNAMIC__B03F5F7F11D50A3A\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 024\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 024\\NAME",
+            "Key": "NAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 024\\NAME",
+            "Key": "NAME"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 024\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 024\\NAME",
+            "Key": "NAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 024\\NAME",
+            "Key": "NAME"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 024\\NAME",
+            "Key": "NAME"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 024\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER TYPES\\TYPE 024\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT ENHANCED RSA AND AES CRYPTOGRAPHIC PROVIDER\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT ENHANCED RSA AND AES CRYPTOGRAPHIC PROVIDER\\TYPE",
+            "Key": "TYPE"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT ENHANCED RSA AND AES CRYPTOGRAPHIC PROVIDER\\IMAGE PATH",
+            "Key": "IMAGE PATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT ENHANCED RSA AND AES CRYPTOGRAPHIC PROVIDER\\IMAGE PATH",
+            "Key": "IMAGE PATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT ENHANCED RSA AND AES CRYPTOGRAPHIC PROVIDER\\IMAGE PATH",
+            "Key": "IMAGE PATH"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DEFAULTS\\PROVIDER\\MICROSOFT ENHANCED RSA AND AES CRYPTOGRAPHIC PROVIDER\\IMAGE PATH",
+            "Key": "IMAGE PATH"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\WOW6432NODE\\MICROSOFT\\CRYPTOGRAPHY\\DESHASHSESSIONKEYBACKWARD\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\LEVELOBJECTS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\LEVELOBJECTS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\",
+            "Key": ""
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\LEVELS",
+            "Key": "LEVELS",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\0\\PATHS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\0\\PATHS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\0\\HASHES\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\0\\HASHES\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\0\\URLZONES\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\0\\URLZONES\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\4096\\PATHS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\4096\\PATHS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\4096\\HASHES\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\4096\\HASHES\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\4096\\URLZONES\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\4096\\URLZONES\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\65536\\PATHS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\65536\\PATHS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\65536\\HASHES\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\65536\\HASHES\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\65536\\URLZONES\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\65536\\URLZONES\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\131072\\PATHS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\131072\\PATHS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\131072\\HASHES\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\131072\\HASHES\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\131072\\URLZONES\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\131072\\URLZONES\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\262144\\PATHS\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\262144\\PATHS\\",
+            "Key": "",
+            "Status": "STATUS_OBJECT_NAME_NOT_FOUND (c0000034)"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLMHKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\262144\\HASHES\\",
+            "Key": "",
+            "Status": "STATUS_REPARSE (104)"
+        }
+    }
+]

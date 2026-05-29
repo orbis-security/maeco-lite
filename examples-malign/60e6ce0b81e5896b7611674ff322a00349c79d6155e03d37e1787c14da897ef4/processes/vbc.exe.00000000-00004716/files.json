@@ -1,0 +1,7 @@
+[
+    {
+        "type": "CREATE",
+        "path": "\\FileSystem\\Filters\\FltMgrMsg",
+        "access": "FILE_READ_DATA | FILE_WRITE_DATA"
+    }
+]

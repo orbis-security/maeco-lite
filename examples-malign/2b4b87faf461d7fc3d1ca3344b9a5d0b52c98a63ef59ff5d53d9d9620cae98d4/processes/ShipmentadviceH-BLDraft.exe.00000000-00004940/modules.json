@@ -1,0 +1,370 @@
+[
+    {
+        "module_path": "%WINDIR%\\System32\\ntdll.dll",
+        "module_base": "77A10000"
+    },
+    {
+        "module_path": "C:\\ShipmentadviceH-BLDraft.exe",
+        "module_base": "012E0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\ntdll.dll",
+        "module_base": "77BF0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\wow64.dll",
+        "module_base": "74EE0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\wow64win.dll",
+        "module_base": "74AF0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\wow64cpu.dll",
+        "module_base": "75220000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\kernel32.dll",
+        "module_base": "778F0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\user32.dll",
+        "module_base": "777F0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\mscoree.dll",
+        "module_base": "739A0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\kernel32.dll",
+        "module_base": "75B50000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\KernelBase.dll",
+        "module_base": "76210000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\advapi32.dll",
+        "module_base": "75FF0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\msvcrt.dll",
+        "module_base": "75AA0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\sechost.dll",
+        "module_base": "76620000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\rpcrt4.dll",
+        "module_base": "762A0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\sspicli.dll",
+        "module_base": "75490000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\cryptbase.dll",
+        "module_base": "75480000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\user32.dll",
+        "module_base": "75590000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\gdi32.dll",
+        "module_base": "76180000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\lpk.dll",
+        "module_base": "75580000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\usp10.dll",
+        "module_base": "774C0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\ole32.dll",
+        "module_base": "75690000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\oleaut32.dll",
+        "module_base": "75D20000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\fltLib.dll",
+        "module_base": "75460000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "module_base": "00080000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\imm32.dll",
+        "module_base": "763F0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\msctf.dll",
+        "module_base": "760A0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\api-ms-win-core-synch-l1-2-0.dll",
+        "module_base": "74E50000"
+    },
+    {
+        "module_path": "%WINDIR%\\Temp\\VxSSL32.dll",
+        "module_base": "738F0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\ws2_32.dll",
+        "module_base": "75EF0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\nsi.dll",
+        "module_base": "76650000"
+    },
+    {
+        "module_path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscoreei.dll",
+        "module_base": "73840000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\shlwapi.dll",
+        "module_base": "75F30000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\version.dll",
+        "module_base": "74ED0000"
+    },
+    {
+        "module_path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+        "module_base": "71F90000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\vcruntime140_clr0400.dll",
+        "module_base": "73820000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\ucrtbase_clr0400.dll",
+        "module_base": "71EE0000"
+    },
+    {
+        "module_path": "%WINDIR%\\Globalization\\Sorting\\SortDefault.nls",
+        "module_base": "04920000"
+    },
+    {
+        "module_path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\36eaccfde177c2e7b93b8dbdde4e012a\\mscorlib.ni.dll",
+        "module_base": "70AD0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\uxtheme.dll",
+        "module_base": "748B0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\api-ms-win-core-xstate-l2-1-0.dll",
+        "module_base": "737F0000"
+    },
+    {
+        "module_path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clrjit.dll",
+        "module_base": "70A40000"
+    },
+    {
+        "module_path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System\\2c3c912ea8f058f9d04c4650128feb3f\\System.ni.dll",
+        "module_base": "6FFE0000"
+    },
+    {
+        "module_path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Drawing\\f7568d7f1b9d356f64779b4c0927cfb3\\System.Drawing.ni.dll",
+        "module_base": "6FB10000"
+    },
+    {
+        "module_path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Windows.Forms\\c9a4cbc00f690a9e3cddfc400f6e85bb\\System.Windows.Forms.ni.dll",
+        "module_base": "6A020000"
+    },
+    {
+        "module_path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\31fae3290fad30c31c98651462d22724\\System.Core.ni.dll",
+        "module_base": "6E7A0000"
+    },
+    {
+        "module_path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\Microsoft.V9921e851#\\a891970b44db9e340c3ef3efa95b793c\\Microsoft.VisualBasic.ni.dll",
+        "module_base": "6F920000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\tzres.dll",
+        "module_base": "00230000"
+    },
+    {
+        "module_path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\nlssorting.dll",
+        "module_base": "6DEF0000"
+    },
+    {
+        "module_path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\sortdefault.nlp",
+        "module_base": "04EE0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\shell32.dll",
+        "module_base": "76690000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\en-US\\tzres.dll.mui",
+        "module_base": "002F0000"
+    },
+    {
+        "module_path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Configuration\\96f7edb07b12303f0ec2595c7f3778c7\\System.Configuration.ni.dll",
+        "module_base": "6E690000"
+    },
+    {
+        "module_path": "%WINDIR%\\assembly\\NativeImages_v4.0.30319_32\\System.Xml\\15af16d373cf0528cb74fc73d365fdbf\\System.Xml.ni.dll",
+        "module_base": "6DF10000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\profapi.dll",
+        "module_base": "75FE0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\bcrypt.dll",
+        "module_base": "6FCC0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\cryptsp.dll",
+        "module_base": "6DEB0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "module_base": "00630000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\rsaenh.dll",
+        "module_base": "6DE70000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\rasapi32.dll",
+        "module_base": "6F820000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\rasman.dll",
+        "module_base": "6F800000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\rtutils.dll",
+        "module_base": "6F7F0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\mswsock.dll",
+        "module_base": "73A30000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\WSHTCPIP.DLL",
+        "module_base": "73A20000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\wship6.dll",
+        "module_base": "6F880000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\en-US\\KernelBase.dll.mui",
+        "module_base": "011D0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\winhttp.dll",
+        "module_base": "741C0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\webio.dll",
+        "module_base": "74460000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\credssp.dll",
+        "module_base": "6F890000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\IPHLPAPI.DLL",
+        "module_base": "74930000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\winnsi.dll",
+        "module_base": "74EA0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\dhcpcsvc6.dll",
+        "module_base": "73A90000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\dhcpcsvc.dll",
+        "module_base": "73A70000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\cfgmgr32.dll",
+        "module_base": "75C60000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\psapi.dll",
+        "module_base": "772F0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\RpcRtRemote.dll",
+        "module_base": "6DC00000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\dnsapi.dll",
+        "module_base": "746A0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\rasadhlp.dll",
+        "module_base": "6F7E0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\FWPUCLNT.DLL",
+        "module_base": "6F7A0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\secur32.dll",
+        "module_base": "6DC70000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\schannel.dll",
+        "module_base": "6FF90000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\crypt32.dll",
+        "module_base": "75DC0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\msasn1.dll",
+        "module_base": "77BC0000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\ncrypt.dll",
+        "module_base": "6FF50000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\bcryptprimitives.dll",
+        "module_base": "6FF10000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\userenv.dll",
+        "module_base": "76280000"
+    },
+    {
+        "module_path": "%WINDIR%\\SysWOW64\\gpapi.dll",
+        "module_base": "6FEF0000"
+    },
+    {
+        "module_path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscorrc.dll",
+        "module_base": "05CD0000"
+    },
+    {
+        "module_path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Web.Extensions\\v4.0_4.0.0.0__31bf3856ad364e35\\System.Web.Extensions.dll",
+        "module_base": "6FD20000"
+    },
+    {
+        "module_path": "%WINDIR%\\Microsoft.NET\\assembly\\GAC_MSIL\\System.Web.Extensions\\v4.0_4.0.0.0__31bf3856ad364e35\\System.Web.Extensions.dll",
+        "module_base": "6F5D0000"
+    },
+    {
+        "module_path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\comctl32.dll",
+        "module_base": "06090000"
+    },
+    {
+        "module_path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\comctl32.dll",
+        "module_base": "73BF0000"
+    }
+]

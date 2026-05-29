@@ -1,0 +1,782 @@
+[
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\WMR\\"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\WMR\\DISABLE",
+            "Key": "DISABLE",
+            "Value": "00000000040000000400000001000000"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\RPC\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\CURRENTCONTROLSET\\CONTROL\\COMPUTERNAME\\ACTIVECOMPUTERNAME\\"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\COMPUTERNAME\\ACTIVECOMPUTERNAME\\COMPUTERNAME",
+            "Key": "COMPUTERNAME",
+            "Value": "00000000010000002C000000160000001800000043006F006D00700075007400650072004E0061006D00650048004100500055004200570053002D00500043000000"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\SETUP\\"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\SETUP\\OOBEINPROGRESS",
+            "Key": "OOBEINPROGRESS",
+            "Value": "000000000400000030000000040000001C0000004F004F004200450049006E00500072006F006700720065007300730000000000"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\SETUP\\"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\SETUP\\SYSTEMSETUPINPROGRESS",
+            "Key": "SYSTEMSETUPINPROGRESS",
+            "Value": "000000000400000040000000040000002A000000530079007300740065006D005300650074007500700049006E00500072006F00670072006500730073005D7700000000"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS NT\\RPC\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\SQMCLIENT\\WINDOWS\\"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\SQMCLIENT\\WINDOWS\\CEIPENABLE",
+            "Key": "CEIPENABLE",
+            "Value": "00000000040000000400000000000000"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\CURRENTCONTROLSET\\CONTROL\\COMPUTERNAME\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\COMPUTERNAME\\ACTIVECOMPUTERNAME\\"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\COMPUTERNAME\\ACTIVECOMPUTERNAME\\COMPUTERNAME",
+            "Key": "COMPUTERNAME",
+            "Value": "00000000010000002C000000160000001800000043006F006D00700075007400650072004E0061006D00650048004100500055004200570053002D00500043000000"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\SETUP\\"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\SETUP\\OOBEINPROGRESS",
+            "Key": "OOBEINPROGRESS",
+            "Value": "000000000400000030000000040000001C0000004F004F004200450049006E00500072006F006700720065007300730000000000"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\SETUP\\"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\SETUP\\SYSTEMSETUPINPROGRESS",
+            "Key": "SYSTEMSETUPINPROGRESS",
+            "Value": "000000000400000040000000040000002A000000530079007300740065006D005300650074007500700049006E00500072006F0067007200650073007300650000000000"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\DEBUG\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\MACHINEID",
+            "Key": "MACHINEID",
+            "Value": "00000000010000004A000000440041003300420046003600340039002D0044004300310030002D0034003800360046002D0041004100350044002D003900330044003300370032003000430034003800410037000000"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\MACHINEID",
+            "Key": "MACHINEID",
+            "Value": "00000000010000004A000000440041003300420046003600340039002D0044004300310030002D0034003800360046002D0041004100350044002D003900330044003300370032003000430034003800410037000000"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\CURRENTCONTROLSET\\CONTROL\\NLS\\CUSTOMLOCALE\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\CURRENTCONTROLSET\\CONTROL\\NLS\\EXTENDEDLOCALE\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\CONSENT\\"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\CONSENT\\DEFAULTCONSENT",
+            "Key": "DEFAULTCONSENT",
+            "Value": "00000000040000000400000002000000"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\DISABLED",
+            "Key": "DISABLED",
+            "Value": "00000000040000000400000001000000"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\DISABLED",
+            "Key": "DISABLED",
+            "Value": "00000000040000000400000001000000"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\CONSENT\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\CONSENT\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\CONSENT\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\EXCLUDEDAPPLICATIONS\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\DEBUGAPPLICATIONS\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\DEBUGAPPLICATIONS\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\DONTSENDADDITIONALDATA",
+            "Key": "DONTSENDADDITIONALDATA",
+            "Value": "00000000040000000400000000000000"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\DONTSENDADDITIONALDATA",
+            "Key": "DONTSENDADDITIONALDATA",
+            "Value": "00000000040000000400000000000000"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\CONSENT\\"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\CONSENT\\DEFAULTCONSENT",
+            "Key": "DEFAULTCONSENT",
+            "Value": "00000000040000000400000002000000"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\CONSENT\\DEFAULTCONSENT",
+            "Key": "DEFAULTCONSENT",
+            "Value": "00000000040000000400000002000000"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\CONSENT\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\CONSENT\\"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\LOGGINGDISABLED",
+            "Key": "LOGGINGDISABLED",
+            "Value": "00000000040000000400000000000000"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\LOGGINGDISABLED",
+            "Key": "LOGGINGDISABLED",
+            "Value": "00000000040000000400000000000000"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\DONTSHOWUI",
+            "Key": "DONTSHOWUI",
+            "Value": "00000000040000000400000001000000"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\DONTSHOWUI",
+            "Key": "DONTSHOWUI",
+            "Value": "00000000040000000400000001000000"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\DISABLEARCHIVE",
+            "Key": "DISABLEARCHIVE",
+            "Value": "00000000040000000400000000000000"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\DISABLEARCHIVE",
+            "Key": "DISABLEARCHIVE",
+            "Value": "00000000040000000400000000000000"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\CONFIGUREARCHIVE",
+            "Key": "CONFIGUREARCHIVE",
+            "Value": "00000000040000000400000001000000"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\CONFIGUREARCHIVE",
+            "Key": "CONFIGUREARCHIVE",
+            "Value": "00000000040000000400000001000000"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\DISABLEQUEUE",
+            "Key": "DISABLEQUEUE",
+            "Value": "00000000040000000400000000000000"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\DISABLEQUEUE",
+            "Key": "DISABLEQUEUE",
+            "Value": "00000000040000000400000000000000"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\MAXQUEUECOUNT",
+            "Key": "MAXQUEUECOUNT",
+            "Value": "00000000040000000400000032000000"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\MAXQUEUECOUNT",
+            "Key": "MAXQUEUECOUNT",
+            "Value": "00000000040000000400000032000000"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\MAXARCHIVECOUNT",
+            "Key": "MAXARCHIVECOUNT",
+            "Value": "000000000400000004000000F4010000"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\MAXARCHIVECOUNT",
+            "Key": "MAXARCHIVECOUNT",
+            "Value": "000000000400000004000000F4010000"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\FORCEQUEUE",
+            "Key": "FORCEQUEUE",
+            "Value": "00000000040000000400000000000000"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\FORCEQUEUE",
+            "Key": "FORCEQUEUE",
+            "Value": "00000000040000000400000000000000"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\EXCLUDEDAPPLICATIONS\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\DEBUGAPPLICATIONS\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\DEBUGAPPLICATIONS\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\CONSENT\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\CONSENT\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\EXCLUDEDAPPLICATIONS\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\DEBUGAPPLICATIONS\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\DEBUGAPPLICATIONS\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\RELIABILITY ANALYSIS\\RAC\\"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\RELIABILITY ANALYSIS\\RAC\\RACWERSAMPLETIME",
+            "Key": "RACWERSAMPLETIME",
+            "Value": "000000000B000000080000000000000000000000"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\SQMCLIENT\\WINDOWS\\DISABLEDPROCESSES\\\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\SQMCLIENT\\WINDOWS\\DISABLEDSESSIONS\\\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\SQMCLIENT\\WINDOWS\\DISABLEDSESSIONS\\\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\DEBUG\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\WINDOWS ERROR REPORTING\\DEBUG\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\\\"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\DW20.EXE\\DISABLEEXCEPTIONCHAINVALIDATION",
+            "Key": "DISABLEEXCEPTIONCHAINVALIDATION",
+            "Value": "00000000040000000400000000000000"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\CURRENTCONTROLSET\\CONTROL\\SESSION MANAGER\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\IMAGE FILE EXECUTION OPTIONS\\\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\CURRENTCONTROLSET\\CONTROL\\SAFEBOOT\\OPTION\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\CURRENTCONTROLSET\\CONTROL\\SRP\\GP\\DLL\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\WINDOWS\\SAFER\\CODEIDENTIFIERS\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\SIDEBYSIDE\\ASSEMBLYSTORAGEROOTS\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\CURRENTCONTROLSET\\CONTROL\\NLS\\SORTING\\VERSIONS\\"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\SORTING\\VERSIONS\\COMPATDLL",
+            "Key": "COMPATDLL",
+            "Value": "000000000100000028000000240000001200000043006F006D0070006100740044006C006C000000300030003000360030003100300031002E00300030003000360030003100300031000000"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\CONTROLSET001\\CONTROL\\NLS\\SORTING\\VERSIONS\\",
+            "Key": "",
+            "Value": "0000000001000000140000002400000000000000300030003000360030003100300031002E00300030003000360030003100300031000000"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\CURRENTCONTROLSET\\CONTROL\\SESSION MANAGER\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\DIAGNOSTICS\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SYSTEM\\CURRENTCONTROLSET\\CONTROL\\ERROR MESSAGE INSTRUMENT\\\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\GRE_INITIALIZE\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\CONTROL PANEL\\DESKTOP\\MUICACHED\\MACHINELANGUAGECONFIGURATION\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\MUI\\SETTINGS\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\CONTROL PANEL\\DESKTOP\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\CONTROL PANEL\\DESKTOP\\LANGUAGECONFIGURATION\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\MUI\\SETTINGS\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\SOFTWARE\\POLICIES\\MICROSOFT\\CONTROL PANEL\\DESKTOP\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\CONTROL PANEL\\DESKTOP\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\POLICIES\\MICROSOFT\\MUI\\SETTINGS\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKCU\\CONTROL PANEL\\DESKTOP\\MUICACHED\\"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKCU\\CONTROL PANEL\\DESKTOP\\MUICACHED\\MACHINEPREFERREDUILANGUAGES",
+            "Key": "MACHINEPREFERREDUILANGUAGES",
+            "Value": "00000000070000000C00000065006E002D00550053000000"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\WINDOWS\\"
+        }
+    },
+    {
+        "name": "Query",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\WINDOWS\\LOADAPPINIT_DLLS",
+            "Key": "LOADAPPINIT_DLLS",
+            "Value": "00000000040000000400000000000000"
+        }
+    },
+    {
+        "name": "Open",
+        "parameters": {
+            "Path": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\GRE_INITIALIZE\\"
+        }
+    }
+]

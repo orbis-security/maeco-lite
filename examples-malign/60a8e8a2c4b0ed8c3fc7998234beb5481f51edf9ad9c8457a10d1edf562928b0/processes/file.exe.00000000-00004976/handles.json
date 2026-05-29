@@ -1,0 +1,14 @@
+[
+    {
+        "type": "KeyHandle (1)",
+        "path": "HKLM\\SOFTWARE\\Policies\\Microsoft\\Windows\\safer\\codeidentifiers"
+    },
+    {
+        "type": "FileHandle (12)",
+        "path": "C:\\"
+    },
+    {
+        "type": "FileHandle (16)",
+        "path": "%WINDIR%\\System32\\api-ms-win-core-synch-l1-2-0.dll"
+    }
+]

@@ -1,0 +1,442 @@
+[
+    {
+        "type": "KeyHandle (4)",
+        "path": "HKLM\\SYSTEM\\ControlSet001\\Control\\Session Manager"
+    },
+    {
+        "type": "FileHandle (8)",
+        "path": "C:\\"
+    },
+    {
+        "type": "FileHandle (12)",
+        "path": "%WINDIR%\\System32\\mscoree.dll"
+    },
+    {
+        "type": "KeyHandle (24)",
+        "path": "HKLM\\SYSTEM\\ControlSet001\\Control\\Nls\\Sorting\\Versions"
+    },
+    {
+        "type": "FileHandle (36)",
+        "path": "%WINDIR%\\System32\\sechost.dll"
+    },
+    {
+        "type": "FileHandle (52)",
+        "path": "%WINDIR%\\System32\\api-ms-win-core-synch-l1-2-0.dll"
+    },
+    {
+        "type": "FileHandle (56)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319"
+    },
+    {
+        "type": "FileHandle (60)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework"
+    },
+    {
+        "type": "KeyHandle (64)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\SideBySide"
+    },
+    {
+        "type": "FileHandle (68)",
+        "path": "%WINDIR%\\System32\\imm32.dll"
+    },
+    {
+        "type": "KeyHandle (72)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize"
+    },
+    {
+        "type": "KeyHandle (88)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Windows"
+    },
+    {
+        "type": "FileHandle (96)",
+        "path": "%WINDIR%\\winsxs\\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.4940_none_d08cc06a442b34fc"
+    },
+    {
+        "type": "KeyHandle (100)",
+        "path": "HKCU\\Control Panel\\Desktop\\MuiCached"
+    },
+    {
+        "type": "KeyHandle (116)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options"
+    },
+    {
+        "type": "KeyHandle (212)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\.NETFramework\\Security\\Policy\\Extensions\\NamedPermissionSets"
+    },
+    {
+        "type": "KeyHandle (216)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\.NETFramework\\Security\\Policy\\Extensions\\NamedPermissionSets\\LocalIntranet"
+    },
+    {
+        "type": "KeyHandle (236)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{5E6C858F-0E22-4760-9AFE-EA3317B67173}"
+    },
+    {
+        "type": "KeyHandle (240)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Ole"
+    },
+    {
+        "type": "KeyHandle (268)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{3EB685DB-65F9-4CF6-A03A-E3EF65729F3D}"
+    },
+    {
+        "type": "KeyHandle (272)",
+        "path": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders"
+    },
+    {
+        "type": "KeyHandle (276)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\ProfileList\\S-1-5-21-2092356043-4041700817-663127204-1001"
+    },
+    {
+        "type": "KeyHandle (324)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Fusion\\GACChangeNotification\\Default"
+    },
+    {
+        "type": "FileHandle (336)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorsec.dll"
+    },
+    {
+        "type": "KeyHandle (344)",
+        "path": "HKLM\\SYSTEM\\ControlSet001\\services\\crypt32"
+    },
+    {
+        "type": "KeyHandle (364)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Enhanced RSA and AES Cryptographic Provider"
+    },
+    {
+        "type": "KeyHandle (368)",
+        "path": "HKCU\\Software\\Microsoft\\Internet Explorer\\Security"
+    },
+    {
+        "type": "FileHandle (372)",
+        "path": "\\Device\\KsecDD"
+    },
+    {
+        "type": "KeyHandle (376)",
+        "path": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\WinTrust\\Trust Providers\\Software Publishing"
+    },
+    {
+        "type": "FileHandle (412)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorjit.dll"
+    },
+    {
+        "type": "KeyHandle (416)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Cryptography\\OID"
+    },
+    {
+        "type": "FileHandle (424)",
+        "path": "%WINDIR%\\System32\\bcrypt.dll"
+    },
+    {
+        "type": "KeyHandle (428)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptSIPDllPutSignedDataMsg\\{DE351A43-8E59-11D0-8C47-00C04FC295EE}"
+    },
+    {
+        "type": "KeyHandle (432)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo"
+    },
+    {
+        "type": "KeyHandle (436)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CryptDllFindOIDInfo\\1.3.6.1.4.1.311.76.6.1!7"
+    },
+    {
+        "type": "KeyHandle (444)",
+        "path": "HKLM\\SYSTEM\\ControlSet001\\Control\\MUI\\StringCacheSettings"
+    },
+    {
+        "type": "KeyHandle (448)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CertDllCreateCertificateChainEngine\\Config"
+    },
+    {
+        "type": "KeyHandle (452)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 0\\CertDllCreateCertificateChainEngine\\Config\\Default"
+    },
+    {
+        "type": "KeyHandle (456)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObject"
+    },
+    {
+        "type": "KeyHandle (460)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CryptDllEncodeObject\\1.3.6.1.4.1.311.2.1.4"
+    },
+    {
+        "type": "KeyHandle (468)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\SystemCertificates\\ROOT"
+    },
+    {
+        "type": "KeyHandle (472)",
+        "path": "HKCU\\Software\\Microsoft\\SystemCertificates\\CA"
+    },
+    {
+        "type": "KeyHandle (476)",
+        "path": "HKCU\\Software\\Microsoft\\SystemCertificates\\CA\\CTLs"
+    },
+    {
+        "type": "KeyHandle (480)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\SystemCertificates\\CA"
+    },
+    {
+        "type": "KeyHandle (484)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\CA"
+    },
+    {
+        "type": "KeyHandle (488)",
+        "path": "HKCU\\Software\\Microsoft\\SystemCertificates\\Disallowed"
+    },
+    {
+        "type": "KeyHandle (492)",
+        "path": "HKCU\\Software\\Microsoft\\SystemCertificates\\Disallowed\\CTLs"
+    },
+    {
+        "type": "KeyHandle (496)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\SystemCertificates\\Disallowed"
+    },
+    {
+        "type": "KeyHandle (500)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\Disallowed"
+    },
+    {
+        "type": "KeyHandle (504)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\Disallowed\\CTLs"
+    },
+    {
+        "type": "KeyHandle (508)",
+        "path": "HKCU\\Software\\Microsoft\\SystemCertificates\\Root"
+    },
+    {
+        "type": "KeyHandle (512)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\SystemCertificates\\AuthRoot"
+    },
+    {
+        "type": "KeyHandle (516)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\Root"
+    },
+    {
+        "type": "KeyHandle (520)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\SystemCertificates\\SmartCardRoot"
+    },
+    {
+        "type": "KeyHandle (524)",
+        "path": "HKCU\\Software\\Microsoft\\SystemCertificates\\TrustedPeople"
+    },
+    {
+        "type": "KeyHandle (528)",
+        "path": "HKCU\\Software\\Microsoft\\SystemCertificates\\SmartCardRoot"
+    },
+    {
+        "type": "KeyHandle (532)",
+        "path": "HKCU\\Software\\Microsoft\\SystemCertificates\\TrustedPeople\\CTLs"
+    },
+    {
+        "type": "KeyHandle (536)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\SystemCertificates\\TrustedPeople"
+    },
+    {
+        "type": "KeyHandle (540)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\TrustedPeople"
+    },
+    {
+        "type": "KeyHandle (544)",
+        "path": "HKCU\\Software\\Microsoft\\SystemCertificates\\trust"
+    },
+    {
+        "type": "KeyHandle (548)",
+        "path": "HKCU\\Software\\Microsoft\\SystemCertificates\\trust\\CTLs"
+    },
+    {
+        "type": "KeyHandle (552)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\SystemCertificates\\trust"
+    },
+    {
+        "type": "KeyHandle (556)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\Trust"
+    },
+    {
+        "type": "KeyHandle (560)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\EnterpriseCertificates\\Trust\\CTLs"
+    },
+    {
+        "type": "KeyHandle (596)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Rpc"
+    },
+    {
+        "type": "KeyHandle (608)",
+        "path": "HKLM\\SOFTWARE\\Policies\\Microsoft\\SQMClient\\Windows"
+    },
+    {
+        "type": "KeyHandle (628)",
+        "path": "HKLM\\SYSTEM\\ControlSet001\\Control\\SQMServiceList"
+    },
+    {
+        "type": "KeyHandle (676)",
+        "path": "HKLM\\SOFTWARE\\Policies\\Microsoft\\SystemCertificates"
+    },
+    {
+        "type": "KeyHandle (736)",
+        "path": "HKCU\\Software\\Policies\\Microsoft\\SystemCertificates"
+    },
+    {
+        "type": "KeyHandle (864)",
+        "path": "HKCU\\Software\\Microsoft\\SystemCertificates\\AuthRoot\\AutoUpdate"
+    },
+    {
+        "type": "FileHandle (868)",
+        "path": "%WINDIR%\\System32\\cryptnet.dll"
+    },
+    {
+        "type": "FileHandle (872)",
+        "path": "%WINDIR%\\System32\\SensApi.dll"
+    },
+    {
+        "type": "KeyHandle (876)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Cryptography\\CatalogDB"
+    },
+    {
+        "type": "FileHandle (880)",
+        "path": "%WINDIR%\\System32\\webio.dll"
+    },
+    {
+        "type": "KeyHandle (888)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\WinHttp"
+    },
+    {
+        "type": "KeyHandle (892)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CertDllVerifyRevocation\\DEFAULT"
+    },
+    {
+        "type": "KeyHandle (900)",
+        "path": "HKLM\\SYSTEM\\ControlSet001\\services\\WinSock2\\Parameters\\Protocol_Catalog9"
+    },
+    {
+        "type": "KeyHandle (908)",
+        "path": "HKLM\\SYSTEM\\ControlSet001\\services\\WinSock2\\Parameters\\NameSpace_Catalog5"
+    },
+    {
+        "type": "KeyHandle (916)",
+        "path": "HKLM\\SYSTEM\\ControlSet001\\services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000006"
+    },
+    {
+        "type": "FileHandle (928)",
+        "path": "%WINDIR%\\System32\\en-US\\KernelBase.dll.mui"
+    },
+    {
+        "type": "FileHandle (932)",
+        "path": "%WINDIR%\\System32\\sspicli.dll"
+    },
+    {
+        "type": "FileHandle (940)",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\MetaData"
+    },
+    {
+        "type": "KeyHandle (944)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Cryptography\\OID\\EncodingType 1\\CertDllVerifyRevocation"
+    },
+    {
+        "type": "FileHandle (952)",
+        "path": "%WINDIR%\\System32\\mswsock.dll"
+    },
+    {
+        "type": "KeyHandle (956)",
+        "path": "HKLM\\SYSTEM\\ControlSet001\\Control\\SecurityProviders\\SaslProfiles"
+    },
+    {
+        "type": "FileHandle (960)",
+        "path": "\\Device\\Nsi"
+    },
+    {
+        "type": "FileHandle (964)",
+        "path": "%WINDIR%\\System32\\dhcpcsvc6.dll"
+    },
+    {
+        "type": "FileHandle (972)",
+        "path": "%WINDIR%\\System32\\dhcpcsvc.dll"
+    },
+    {
+        "type": "FileHandle (976)",
+        "path": "%WINDIR%\\System32\\en-US\\winhttp.dll.mui"
+    },
+    {
+        "type": "KeyHandle (980)",
+        "path": "HKLM\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Interfaces\\{90A066FE-591C-47F3-850D-9644B684FBA5}"
+    },
+    {
+        "type": "KeyHandle (984)",
+        "path": "HKLM\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings"
+    },
+    {
+        "type": "KeyHandle (988)",
+        "path": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad"
+    },
+    {
+        "type": "FileHandle (992)",
+        "path": "%WINDIR%\\System32\\rpcss.dll"
+    },
+    {
+        "type": "KeyHandle (1000)",
+        "path": "HKLM\\SYSTEM\\ControlSet001\\services\\TCPIP6\\Parameters\\Interfaces\\{90a066fe-591c-47f3-850d-9644b684fba5}"
+    },
+    {
+        "type": "FileHandle (1016)",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\MetaData\\B90B117906B8A74C79D1BC450C2B94B1_A54F26A8A41DE52C237D54D67F12793F"
+    },
+    {
+        "type": "FileHandle (1020)",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\Content\\57C8EDB95DF3F0AD4EE2DC2B8CFD4157"
+    },
+    {
+        "type": "FileHandle (1024)",
+        "path": "%WINDIR%\\System32\\dnsapi.dll"
+    },
+    {
+        "type": "KeyHandle (1052)",
+        "path": "HKLM\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters"
+    },
+    {
+        "type": "FileHandle (1056)",
+        "path": "%WINDIR%\\System32\\FWPUCLNT.DLL"
+    },
+    {
+        "type": "FileHandle (1092)",
+        "path": "%LOCALAPPDATA%\\ow\\Microsoft\\CryptnetUrlCache\\Content\\3B6E683A7A45CC59BF035C9BA8C7AB9D"
+    },
+    {
+        "type": "FileHandle (1116)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\diasymreader.dll"
+    },
+    {
+        "type": "KeyHandle (1118)",
+        "path": "HKLM\\SOFTWARE\\Classes\\CLSID\\{0A29FF9E-7F9C-4437-8B11-F424491E3931}\\Server"
+    },
+    {
+        "type": "FileHandle (1124)",
+        "path": "%WINDIR%\\assembly\\GAC_32\\mscorlib\\2.0.0.0__b77a5c561934e089\\sorttbls.nlp"
+    },
+    {
+        "type": "FileHandle (1128)",
+        "path": "%WINDIR%\\System32\\l_intl.nls"
+    },
+    {
+        "type": "FileHandle (1140)",
+        "path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\dw20.exe"
+    },
+    {
+        "type": "KeyHandle (1148)",
+        "path": "HKLM\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default"
+    },
+    {
+        "type": "FileHandle (1164)",
+        "path": "%WINDIR%\\assembly\\GAC_32\\mscorlib\\2.0.0.0__b77a5c561934e089\\sortkey.nlp"
+    },
+    {
+        "type": "KeyHandle (1170)",
+        "path": "HKCU_CLASSES"
+    },
+    {
+        "type": "FileHandle (1180)",
+        "path": "%WINDIR%\\AppPatch\\sysmain.sdb"
+    },
+    {
+        "type": "KeyHandle (1188)",
+        "path": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders"
+    }
+]

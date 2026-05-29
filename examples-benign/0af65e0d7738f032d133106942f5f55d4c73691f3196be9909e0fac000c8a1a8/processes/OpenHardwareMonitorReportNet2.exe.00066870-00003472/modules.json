@@ -1,0 +1,326 @@
+[
+    {
+        "module_path": "C:\\OpenHardwareMonitorReportNet2.exe",
+        "module_base": "002D0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\ntdll.dll",
+        "module_base": "77580000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\winhttp.dll",
+        "module_base": "71080000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\en-US\\KernelBase.dll.mui",
+        "module_base": "04460000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\sspicli.dll",
+        "module_base": "75310000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\credssp.dll",
+        "module_base": "74B20000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\rasadhlp.dll",
+        "module_base": "70070000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\FWPUCLNT.DLL",
+        "module_base": "73360000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\mscoree.dll",
+        "module_base": "6EA40000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\kernel32.dll",
+        "module_base": "77300000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\KernelBase.dll",
+        "module_base": "75640000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\advapi32.dll",
+        "module_base": "77250000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\msvcrt.dll",
+        "module_base": "76F00000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\sechost.dll",
+        "module_base": "76830000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\rpcrt4.dll",
+        "module_base": "770D0000"
+    },
+    {
+        "module_path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscoreei.dll",
+        "module_base": "6E9B0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\api-ms-win-core-synch-l1-2-0.dll",
+        "module_base": "737F0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\shlwapi.dll",
+        "module_base": "76B90000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\gdi32.dll",
+        "module_base": "76A50000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\user32.dll",
+        "module_base": "77180000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\lpk.dll",
+        "module_base": "76B80000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\usp10.dll",
+        "module_base": "76AA0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\imm32.dll",
+        "module_base": "000F0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\imm32.dll",
+        "module_base": "776F0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\msctf.dll",
+        "module_base": "76FB0000"
+    },
+    {
+        "module_path": "C:\\OpenHardwareMonitorReportNet2.exe",
+        "module_base": "00100000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\version.dll",
+        "module_base": "74A00000"
+    },
+    {
+        "module_path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorwks.dll",
+        "module_base": "698B0000"
+    },
+    {
+        "module_path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorwks.dll",
+        "module_base": "69E60000"
+    },
+    {
+        "module_path": "%WINDIR%\\winsxs\\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.4940_none_d08cc06a442b34fc\\msvcr80.dll",
+        "module_base": "6A900000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\shell32.dll",
+        "module_base": "757C0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\ole32.dll",
+        "module_base": "768F0000"
+    },
+    {
+        "module_path": "%WINDIR%\\Globalization\\Sorting\\SortDefault.nls",
+        "module_base": "01670000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\profapi.dll",
+        "module_base": "75490000"
+    },
+    {
+        "module_path": "%WINDIR%\\assembly\\NativeImages_v2.0.50727_32\\mscorlib\\9f895c66454577eff9c77442d0c84f71\\mscorlib.ni.dll",
+        "module_base": "69360000"
+    },
+    {
+        "module_path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorsec.dll",
+        "module_base": "6FF20000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\wintrust.dll",
+        "module_base": "756A0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\crypt32.dll",
+        "module_base": "754D0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\msasn1.dll",
+        "module_base": "754A0000"
+    },
+    {
+        "module_path": "%WINDIR%\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\comctl32.dll",
+        "module_base": "6EA90000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\riched20.dll",
+        "module_base": "6A880000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\cryptsp.dll",
+        "module_base": "74E90000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\rsaenh.dll",
+        "module_base": "74C20000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\cryptbase.dll",
+        "module_base": "75380000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\imagehlp.dll",
+        "module_base": "77710000"
+    },
+    {
+        "module_path": "C:\\OpenHardwareMonitorReportNet2.exe",
+        "module_base": "00570000"
+    },
+    {
+        "module_path": "C:\\OpenHardwareMonitorReportNet2.exe",
+        "module_base": "00580000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\ncrypt.dll",
+        "module_base": "74FC0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\bcrypt.dll",
+        "module_base": "74FA0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\bcryptprimitives.dll",
+        "module_base": "74B60000"
+    },
+    {
+        "module_path": "C:\\OpenHardwareMonitorReportNet2.exe",
+        "module_base": "00590000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\userenv.dll",
+        "module_base": "754B0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\gpapi.dll",
+        "module_base": "74A60000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\cryptnet.dll",
+        "module_base": "71010000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\Wldap32.dll",
+        "module_base": "77080000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\SensApi.dll",
+        "module_base": "70EC0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\webio.dll",
+        "module_base": "71030000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\ws2_32.dll",
+        "module_base": "76B40000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\nsi.dll",
+        "module_base": "776E0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\mswsock.dll",
+        "module_base": "74E50000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\wshqos.dll",
+        "module_base": "71440000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\WSHTCPIP.DLL",
+        "module_base": "748F0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\wship6.dll",
+        "module_base": "74E40000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\IPHLPAPI.DLL",
+        "module_base": "749E0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\winnsi.dll",
+        "module_base": "749D0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\dhcpcsvc6.dll",
+        "module_base": "73340000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\dhcpcsvc.dll",
+        "module_base": "74900000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\cfgmgr32.dll",
+        "module_base": "756D0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\en-US\\winhttp.dll.mui",
+        "module_base": "005A0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\dnsapi.dll",
+        "module_base": "74D10000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\l_intl.nls",
+        "module_base": "005B0000"
+    },
+    {
+        "module_path": "C:\\OpenHardwareMonitorReportNet2.exe",
+        "module_base": "005C0000"
+    },
+    {
+        "module_path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorjit.dll",
+        "module_base": "6E950000"
+    },
+    {
+        "module_path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\Culture.dll",
+        "module_base": "73860000"
+    },
+    {
+        "module_path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\mscorrc.dll",
+        "module_base": "01440000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\apphelp.dll",
+        "module_base": "75330000"
+    },
+    {
+        "module_path": "%WINDIR%\\AppPatch\\sysmain.sdb",
+        "module_base": "05110000"
+    },
+    {
+        "module_path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\dw20.exe",
+        "module_base": "10000000"
+    },
+    {
+        "module_path": "%WINDIR%\\assembly\\GAC_32\\mscorlib\\2.0.0.0__b77a5c561934e089\\sorttbls.nlp",
+        "module_base": "014A0000"
+    },
+    {
+        "module_path": "%WINDIR%\\assembly\\GAC_32\\mscorlib\\2.0.0.0__b77a5c561934e089\\sortkey.nlp",
+        "module_base": "01510000"
+    },
+    {
+        "module_path": "%WINDIR%\\Microsoft.NET\\Framework\\v2.0.50727\\diasymreader.dll",
+        "module_base": "6A840000"
+    }
+]

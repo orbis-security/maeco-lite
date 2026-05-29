@@ -1,0 +1,86 @@
+[
+    {
+        "module_path": "%WINDIR%\\System32\\kernel32.dll",
+        "module_base": "77300000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\KernelBase.dll",
+        "module_base": "75640000"
+    },
+    {
+        "module_path": "%WINDIR%\\winsxs\\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.4940_none_d08cc06a442b34fc\\msvcr80.dll",
+        "module_base": "6A900000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\msvcrt.dll",
+        "module_base": "76F00000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\advapi32.dll",
+        "module_base": "77250000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\sechost.dll",
+        "module_base": "76830000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\rpcrt4.dll",
+        "module_base": "770D0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\user32.dll",
+        "module_base": "77180000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\gdi32.dll",
+        "module_base": "76A50000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\lpk.dll",
+        "module_base": "76B80000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\usp10.dll",
+        "module_base": "76AA0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\version.dll",
+        "module_base": "74A00000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\psapi.dll",
+        "module_base": "77740000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\imm32.dll",
+        "module_base": "00160000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\imm32.dll",
+        "module_base": "776F0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\msctf.dll",
+        "module_base": "76FB0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\wer.dll",
+        "module_base": "6FC30000"
+    },
+    {
+        "module_path": "%WINDIR%\\Globalization\\Sorting\\SortDefault.nls",
+        "module_base": "012C0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\en-US\\KernelBase.dll.mui",
+        "module_base": "01590000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\en-US\\wer.dll.mui",
+        "module_base": "003E0000"
+    },
+    {
+        "module_path": "%WINDIR%\\System32\\SensApi.dll",
+        "module_base": "70EC0000"
+    }
+]
