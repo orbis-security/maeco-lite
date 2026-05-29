@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:maeco="https://orbis-security.com/maeco#">
+    <Ontology rdf:about="https://orbis-security.com/maeco/lite/core">
+        <versionIRI rdf:resource="https://orbis-security.com/maeco/lite/core-0.3.0"/>
+    </Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://orbis-security.com/maeco#accessedFile -->
+
+    <ObjectProperty rdf:about="https://orbis-security.com/maeco#accessedFile">
+        <inverseOf rdf:resource="https://orbis-security.com/maeco#fileAccessedBy"/>
+        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#Process"/>
+        <rdfs:range rdf:resource="https://orbis-security.com/maeco#File"/>
+        <rdfs:comment>Links a Process to a File that it accessed during its execution.</rdfs:comment>
+        <rdfs:label>accessed file</rdfs:label>
+    </ObjectProperty>
+    
+
+
+    <!-- https://orbis-security.com/maeco#accessedRegistryKey -->
+
+    <ObjectProperty rdf:about="https://orbis-security.com/maeco#accessedRegistryKey">
+        <inverseOf rdf:resource="https://orbis-security.com/maeco#registryKeyAccessedBy"/>
+        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#Process"/>
+        <rdfs:range rdf:resource="https://orbis-security.com/maeco#WindowsRegistryKey"/>
+        <rdfs:comment>Links a Process to a WindowsRegistryKey that it accessed during its execution.</rdfs:comment>
+        <rdfs:label>accessed registry key</rdfs:label>
+    </ObjectProperty>
+    
+
+
+    <!-- https://orbis-security.com/maeco#actionPerformedBy -->
+
+    <ObjectProperty rdf:about="https://orbis-security.com/maeco#actionPerformedBy">
+        <inverseOf rdf:resource="https://orbis-security.com/maeco#performedAction"/>
+        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#Action"/>
+        <rdfs:range rdf:resource="https://orbis-security.com/maeco#Process"/>
+        <rdfs:comment>Links an Action to a Processes that performed it during its execution.</rdfs:comment>
+        <rdfs:label>action performed by</rdfs:label>
+    </ObjectProperty>
+    
+
+
+    <!-- https://orbis-security.com/maeco#executedIn -->
+
+    <ObjectProperty rdf:about="https://orbis-security.com/maeco#executedIn">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <inverseOf rdf:resource="https://orbis-security.com/maeco#executedSample"/>
+        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#File"/>
+        <rdfs:range rdf:resource="https://orbis-security.com/maeco#Process"/>
+        <rdfs:comment>Links a Sample to a Process within which the Sample was executed.</rdfs:comment>
+        <rdfs:label>executed in</rdfs:label>
+    </ObjectProperty>
+    
+
+
+    <!-- https://orbis-security.com/maeco#executedSample -->
+
+    <ObjectProperty rdf:about="https://orbis-security.com/maeco#executedSample">
+        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#Process"/>
+        <rdfs:range rdf:resource="https://orbis-security.com/maeco#File"/>
+        <rdfs:comment>Links a Process to the Sample that was executed within the Process.</rdfs:comment>
+        <rdfs:label>execuded sample</rdfs:label>
+    </ObjectProperty>
+    
+
+
+    <!-- https://orbis-security.com/maeco#fileAccessedBy -->
+
+    <ObjectProperty rdf:about="https://orbis-security.com/maeco#fileAccessedBy">
+        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#File"/>
+        <rdfs:range rdf:resource="https://orbis-security.com/maeco#Process"/>
+        <rdfs:comment>Links an File to a Processes that accessed it during its execution.</rdfs:comment>
+        <rdfs:label>file accessed by</rdfs:label>
+    </ObjectProperty>
+    
+
+
+    <!-- https://orbis-security.com/maeco#hadChild -->
+
+    <ObjectProperty rdf:about="https://orbis-security.com/maeco#hadChild">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <inverseOf rdf:resource="https://orbis-security.com/maeco#hadParent"/>
+        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#Process"/>
+        <rdfs:range rdf:resource="https://orbis-security.com/maeco#Process"/>
+        <rdfs:comment>Links a Process to a spawned child Process.</rdfs:comment>
+        <rdfs:label>had child process</rdfs:label>
+    </ObjectProperty>
+    
+
+
+    <!-- https://orbis-security.com/maeco#hadParent -->
+
+    <ObjectProperty rdf:about="https://orbis-security.com/maeco#hadParent">
+        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#Process"/>
+        <rdfs:range rdf:resource="https://orbis-security.com/maeco#Process"/>
+        <rdfs:comment>Links a Process to its parent Process.</rdfs:comment>
+        <rdfs:label>had parent process</rdfs:label>
+    </ObjectProperty>
+    
+
+
+    <!-- https://orbis-security.com/maeco#performedAction -->
+
+    <ObjectProperty rdf:about="https://orbis-security.com/maeco#performedAction">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#Process"/>
+        <rdfs:range rdf:resource="https://orbis-security.com/maeco#Action"/>
+        <rdfs:comment>Links a Process to an Action it performed during its execution.</rdfs:comment>
+        <rdfs:label>performed action</rdfs:label>
+    </ObjectProperty>
+    
+
+
+    <!-- https://orbis-security.com/maeco#performedTechnique -->
+
+    <ObjectProperty rdf:about="https://orbis-security.com/maeco#performedTechnique">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <inverseOf rdf:resource="https://orbis-security.com/maeco#techniquePerformedBy"/>
+        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#Sample"/>
+        <rdfs:range rdf:resource="https://orbis-security.com/maeco#Technique"/>
+        <rdfs:comment>Links a Sample to a Technique that the Process executing the Sample or its descendant Processes have performed.</rdfs:comment>
+        <rdfs:label>performed technique</rdfs:label>
+    </ObjectProperty>
+    
+
+
+    <!-- https://orbis-security.com/maeco#registryKeyAccessedBy -->
+
+    <ObjectProperty rdf:about="https://orbis-security.com/maeco#registryKeyAccessedBy">
+        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#WindowsRegistryKey"/>
+        <rdfs:range rdf:resource="https://orbis-security.com/maeco#Process"/>
+        <rdfs:comment>Links an WindowsRegistryKey to a Processes that accessed it during its execution.</rdfs:comment>
+        <rdfs:label>registry key accessed by</rdfs:label>
+    </ObjectProperty>
+    
+
+
+    <!-- https://orbis-security.com/maeco#techniquePerformedBy -->
+
+    <ObjectProperty rdf:about="https://orbis-security.com/maeco#techniquePerformedBy">
+        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#Technique"/>
+        <rdfs:range rdf:resource="https://orbis-security.com/maeco#Sample"/>
+        <rdfs:comment>Links a Technique to a Sample such that the Process executing the Sample or its descendant Processes have performed the Technique.</rdfs:comment>
+        <rdfs:label>technique performed by</rdfs:label>
+    </ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://orbis-security.com/maeco#Action -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#Action">
+        <rdfs:comment>An Action is an abstraction on a system-level API call (or similar entity) called by a Process during its execution, thus corresponding to the lowest-level observable dynamic operation of the Process. Examples of Actions include the creation of a particular file on disk and the opening of a port. Actions are commonly captured and reported by dynamic malware analysis tools (i.e., sandboxes).</rdfs:comment>
+        <rdfs:label>Action</rdfs:label>
+        <rdfs:seeAlso>https://maecproject.github.io/documentation/maec5-docs/#malware-action</rdfs:seeAlso>
+    </Class>
+    
+
+
+    <!-- https://orbis-security.com/maeco#File -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#File">
+        <rdfs:comment>A File is a collection of data managed by the operating system as a part of a hierarchical file system, within which it is identified by a path.</rdfs:comment>
+        <rdfs:label>File</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://orbis-security.com/maeco#Process -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#Process">
+        <rdfs:comment>A Process is an active runtime context created by the operating system to execute an executable file.</rdfs:comment>
+        <rdfs:label>Process</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://orbis-security.com/maeco#Sample -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#Sample">
+        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#File"/>
+        <rdfs:comment>A Sample is a File subjected to malware analysis.</rdfs:comment>
+        <rdfs:label>Sample</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://orbis-security.com/maeco#Technique -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#Technique">
+        <rdfs:comment>A Techniques is a method through which an adversary achieves a tactical goal by performing an action or a sequence of thereof.</rdfs:comment>
+        <rdfs:label>Technique</rdfs:label>
+        <rdfs:seeAlso>https://attack.mitre.org/techniques/</rdfs:seeAlso>
+    </Class>
+    
+
+
+    <!-- https://orbis-security.com/maeco#WindowsRegistryKey -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#WindowsRegistryKey">
+        <rdfs:comment>A WindowsRegistryKey is a folder-like entity stored in the Microsoft Windows Registry database.</rdfs:comment>
+        <rdfs:label>Windows Registry Key</rdfs:label>
+    </Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <members rdf:parseType="Collection">
+            <rdf:Description rdf:about="https://orbis-security.com/maeco#Action"/>
+            <rdf:Description rdf:about="https://orbis-security.com/maeco#File"/>
+            <rdf:Description rdf:about="https://orbis-security.com/maeco#Process"/>
+            <rdf:Description rdf:about="https://orbis-security.com/maeco#Technique"/>
+            <rdf:Description rdf:about="https://orbis-security.com/maeco#WindowsRegistryKey"/>
+        </members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi -->
+

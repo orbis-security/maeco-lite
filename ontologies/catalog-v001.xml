@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="https://orbis-security.com/maeco/lite/techniques-enterprise-attack-v18.1" uri="lite/techniques.owl"/>
+    <uri id="Imports Wizard Entry" name="https://orbis-security.com/maeco/lite/windows-registry-keys-0.3.0" uri="lite/windows-registry-keys.owl"/>
+    <uri id="Imports Wizard Entry" name="https://orbis-security.com/maeco/lite/files-0.3.0" uri="lite/files.owl"/>
+    <uri id="Imports Wizard Entry" name="https://orbis-security.com/maeco/lite/actions-0.3.0" uri="lite/actions.owl"/>
+    <uri id="Imports Wizard Entry" name="https://orbis-security.com/maeco/lite/core-0.3.0" uri="lite/core.owl"/>
+</catalog>

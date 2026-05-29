@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:maeco="https://orbis-security.com/maeco#">
+    <Ontology rdf:about="https://orbis-security.com/maeco/lite/files">
+        <versionIRI rdf:resource="https://orbis-security.com/maeco/lite/files-0.3.0"/>
+    </Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://orbis-security.com/maeco#accessedFile -->
+
+    <ObjectProperty rdf:about="https://orbis-security.com/maeco#accessedFile"/>
+    
+
+
+    <!-- https://orbis-security.com/maeco#createdFile -->
+
+    <ObjectProperty rdf:about="https://orbis-security.com/maeco#createdFile">
+        <rdfs:subPropertyOf rdf:resource="https://orbis-security.com/maeco#accessedFile"/>
+        <inverseOf rdf:resource="https://orbis-security.com/maeco#fileCreatedBy"/>
+        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#Process"/>
+        <rdfs:range rdf:resource="https://orbis-security.com/maeco#File"/>
+        <rdfs:comment>Links a Process to a File that the Process created during its execution.</rdfs:comment>
+        <rdfs:label>created file</rdfs:label>
+    </ObjectProperty>
+    
+
+
+    <!-- https://orbis-security.com/maeco#fileAccessedBy -->
+
+    <ObjectProperty rdf:about="https://orbis-security.com/maeco#fileAccessedBy"/>
+    
+
+
+    <!-- https://orbis-security.com/maeco#fileCreatedBy -->
+
+    <ObjectProperty rdf:about="https://orbis-security.com/maeco#fileCreatedBy">
+        <rdfs:subPropertyOf rdf:resource="https://orbis-security.com/maeco#fileAccessedBy"/>
+        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#File"/>
+        <rdfs:range rdf:resource="https://orbis-security.com/maeco#Process"/>
+        <rdfs:comment>Links a File to a Process that created the File during its execution.</rdfs:comment>
+        <rdfs:label>file created by</rdfs:label>
+    </ObjectProperty>
+    
+
+
+    <!-- https://orbis-security.com/maeco#fileOpenedBy -->
+
+    <ObjectProperty rdf:about="https://orbis-security.com/maeco#fileOpenedBy">
+        <rdfs:subPropertyOf rdf:resource="https://orbis-security.com/maeco#fileAccessedBy"/>
+        <inverseOf rdf:resource="https://orbis-security.com/maeco#openedFile"/>
+        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#File"/>
+        <rdfs:range rdf:resource="https://orbis-security.com/maeco#Process"/>
+        <rdfs:comment>Links a File to a Process that opened the File during its execution.</rdfs:comment>
+        <rdfs:label>file opened by</rdfs:label>
+    </ObjectProperty>
+    
+
+
+    <!-- https://orbis-security.com/maeco#fileWrittenToBy -->
+
+    <ObjectProperty rdf:about="https://orbis-security.com/maeco#fileWrittenToBy">
+        <rdfs:subPropertyOf rdf:resource="https://orbis-security.com/maeco#fileAccessedBy"/>
+        <inverseOf rdf:resource="https://orbis-security.com/maeco#writtenToFile"/>
+        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#File"/>
+        <rdfs:range rdf:resource="https://orbis-security.com/maeco#Process"/>
+        <rdfs:comment>Links a File to a Process that wrote to the File during its execution.</rdfs:comment>
+        <rdfs:label>file written to by</rdfs:label>
+    </ObjectProperty>
+    
+
+
+    <!-- https://orbis-security.com/maeco#openedFile -->
+
+    <ObjectProperty rdf:about="https://orbis-security.com/maeco#openedFile">
+        <rdfs:subPropertyOf rdf:resource="https://orbis-security.com/maeco#accessedFile"/>
+        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#Process"/>
+        <rdfs:range rdf:resource="https://orbis-security.com/maeco#File"/>
+        <rdfs:comment>Links a Process to a File that the Process opened during its execution.</rdfs:comment>
+        <rdfs:label>opened file</rdfs:label>
+    </ObjectProperty>
+    
+
+
+    <!-- https://orbis-security.com/maeco#writtenToFile -->
+
+    <ObjectProperty rdf:about="https://orbis-security.com/maeco#writtenToFile">
+        <rdfs:subPropertyOf rdf:resource="https://orbis-security.com/maeco#accessedFile"/>
+        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#Process"/>
+        <rdfs:range rdf:resource="https://orbis-security.com/maeco#File"/>
+        <rdfs:comment>Links a Process to a File that the Process wrote to during its execution.</rdfs:comment>
+        <rdfs:label>written to file</rdfs:label>
+    </ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://orbis-security.com/maeco#ApplicationDataOrConfigFile -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#ApplicationDataOrConfigFile">
+        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ApplicationFile"/>
+        <rdfs:comment>A file storing application data, configuration, logs, or caches shared accross all users, found in the \ProgramData directory.</rdfs:comment>
+        <rdfs:label>Application Data Or Config File</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://orbis-security.com/maeco#ApplicationFile -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#ApplicationFile">
+        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#File"/>
+        <rdfs:comment>A file that is a part of a application found in the \Program Files, \Program Files (x86), or \ProgramData directory.</rdfs:comment>
+        <rdfs:label>Application File</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://orbis-security.com/maeco#ApplicationProgramFile -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#ApplicationProgramFile">
+        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ApplicationFile"/>
+        <rdfs:comment>A file that is a part of a application found in the \Program Files, \Program Files (x86) directory.</rdfs:comment>
+        <rdfs:label>Application Program File</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://orbis-security.com/maeco#File -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#File"/>
+    
+
+
+    <!-- https://orbis-security.com/maeco#PersistenceFile -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#PersistenceFile">
+        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#File"/>
+        <rdfs:comment>A file that can be used to achieve malware persistence, such as a scheduled task definition or a shell module.</rdfs:comment>
+        <rdfs:label>Persistence File</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://orbis-security.com/maeco#Process -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#Process"/>
+    
+
+
+    <!-- https://orbis-security.com/maeco#PublicUserDataFile -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#PublicUserDataFile">
+        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#UserDataFile"/>
+        <rdfs:comment>A data or configuration file shared for all users in the \Users\Public directory.</rdfs:comment>
+        <rdfs:label>Public User Data File</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://orbis-security.com/maeco#SystemConfigFile -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#SystemConfigFile">
+        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SystemFile"/>
+        <rdfs:comment>A data or configuration file shared for all users in the \Users\Public directory.</rdfs:comment>
+        <rdfs:label>Public User Data File</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://orbis-security.com/maeco#SystemCoreFile -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#SystemCoreFile">
+        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SystemFile"/>
+        <rdfs:comment>A core system file (executable, library, driver, etc.) critical for its functionality found in the \Windows directory.</rdfs:comment>
+        <rdfs:label>System Core File</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://orbis-security.com/maeco#SystemFile -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#SystemFile">
+        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#File"/>
+        <rdfs:comment>A file that is a part of the Windows operating system, residing in the \Windows directory.</rdfs:comment>
+        <rdfs:label>System File</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://orbis-security.com/maeco#SystemSpoolFile -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#SystemSpoolFile">
+        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SystemFile"/>
+        <rdfs:comment>A print spool file.</rdfs:comment>
+        <rdfs:label>System Spool File</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://orbis-security.com/maeco#SystemTemporaryFile -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#SystemTemporaryFile">
+        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SystemFile"/>
+        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#TemporaryFile"/>
+        <rdfs:comment>A file in the system-wide temporary directory.</rdfs:comment>
+        <rdfs:label>System Temporary File</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://orbis-security.com/maeco#TemporaryFile -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#TemporaryFile">
+        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#File"/>
+        <rdfs:comment>A file in a (system-wide or per-user) temporary directory.</rdfs:comment>
+        <rdfs:label>Temporary File</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://orbis-security.com/maeco#UserDataFile -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#UserDataFile">
+        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#UserFile"/>
+        <rdfs:comment>A data or configuration file in a user's directory.</rdfs:comment>
+        <rdfs:label>User Data File</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://orbis-security.com/maeco#UserFile -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#UserFile">
+        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#File"/>
+        <rdfs:comment>A file in a user's directory.</rdfs:comment>
+        <rdfs:label>User File</rdfs:label>
+    </Class>
+    
+
+
+    <!-- https://orbis-security.com/maeco#UserTemporaryFile -->
+
+    <Class rdf:about="https://orbis-security.com/maeco#UserTemporaryFile">
+        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#TemporaryFile"/>
+        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#UserFile"/>
+        <rdfs:comment>A file in a user's temporary directory.</rdfs:comment>
+        <rdfs:label>User Temporary File</rdfs:label>
+    </Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi -->
+
