@@ -1,0 +1,27 @@
+<settings>
+  <mirrors>
+    <!-- Disable Maven 3.8+ default HTTP blocker -->
+    <mirror>
+      <id>maven-default-http-blocker</id>
+      <mirrorOf>dummy</mirrorOf>
+      <url>http://0.0.0.0/</url>
+    </mirror>
+    <!-- Redirect AKSW HTTP repos to their HTTPS equivalents -->
+    <mirror>
+      <id>aksw-internal-https</id>
+      <mirrorOf>maven.aksw.internal</mirrorOf>
+      <url>https://maven.aksw.org/repository/internal</url>
+    </mirror>
+    <mirror>
+      <id>aksw-snapshots-https</id>
+      <mirrorOf>maven.aksw.snapshots</mirrorOf>
+      <url>https://maven.aksw.org/repository/snapshots</url>
+    </mirror>
+    <!-- Redirect dead davidsoergel repo to Central (jlibsvm is mirrored there) -->
+    <mirror>
+      <id>davidsoergel-central</id>
+      <mirrorOf>davidsoergel.releases</mirrorOf>
+      <url>https://repo1.maven.org/maven2</url>
+    </mirror>
+  </mirrors>
+</settings>
