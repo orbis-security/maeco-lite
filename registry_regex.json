@@ -1,0 +1,46 @@
+{
+    "ConfigurationRegistryKey": [
+        "(?i)^HKCU\\\\Software\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\Internet Settings$",
+        "(?i)^HKLM\\\\SOFTWARE\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\Policies\\\\Explorer$",
+        "(?i)^HKLM\\\\SYSTEM\\\\CurrentControlSet\\\\Control\\\\WMI\\\\Autologger$"
+    ],
+    "CredentialAccessRegistryKey": [
+        "(?i)^HKCU\\\\Software\\\\Microsoft\\\\(?:Windows|Office)\\\\[^\\\\]+\\\\Credentials$",
+        "(?i)^HKCU\\\\Software\\\\Microsoft\\\\Internet Explorer\\\\IntelliForms\\\\Storage2$"
+    ],
+    "DefenseEvasionRegistryKey": [
+        "(?i)^HKLM\\\\SOFTWARE\\\\(?:Policies\\\\)?Microsoft\\\\Windows Defender$",
+        "(?i)^HKLM\\\\SOFTWARE\\\\(?:Wow6432Node\\\\)?Microsoft\\\\Security Center\\\\Monitoring$",
+        "(?i)^HKLM\\\\SYSTEM\\\\CurrentControlSet\\\\Services\\\\SharedAccess\\\\Parameters\\\\FirewallPolicy$",
+        "(?i)^HKLM\\\\SOFTWARE\\\\(?:Wow6432Node\\\\)?Microsoft\\\\Windows\\\\CurrentVersion\\\\Policies\\\\System$",
+        "(?i)^HKLM\\\\SOFTWARE\\\\(?:Wow6432Node\\\\)?Microsoft\\\\Windows NT\\\\CurrentVersion\\\\Image File Execution Options\\\\taskmgr\\.exe$"
+    ],
+    "ExecutionHijackingRegistryKey": [
+        "(?i)^HKLM\\\\SOFTWARE\\\\(?:Wow6432Node\\\\)?Microsoft\\\\Windows NT\\\\CurrentVersion\\\\Image File Execution Options\\\\.+$",
+        "(?i)^HKLM\\\\SYSTEM\\\\CurrentControlSet\\\\Control\\\\SecurityProviders\\\\WDigest$",
+        "(?i)^HKCR\\\\(?:\\.(?:exe|bat|cmd|scr)\\\\|exefile\\\\|batfile\\\\|cmdfile\\\\)shell\\\\open\\\\command$"
+    ],
+    "LateralMovementRegistryKey": [
+        "(?i)^HKLM\\\\SYSTEM\\\\CurrentControlSet\\\\Control\\\\Terminal Server$",
+        "(?i)^HKLM\\\\SOFTWARE\\\\(?:Wow6432Node\\\\)?Microsoft\\\\Windows NT\\\\CurrentVersion\\\\Winlogon\\\\SpecialAccounts\\\\UserList$"
+    ],
+    "PersistenceRegistryKey": [
+        "(?i)^HKLM\\\\(?:SOFTWARE\\\\(?:Wow6432Node\\\\)?)?Microsoft\\\\Windows\\\\CurrentVersion\\\\Run$",
+        "(?i)^HKCU\\\\SOFTWARE\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\Run$",
+        "(?i)^HKLM\\\\SYSTEM\\\\CurrentControlSet\\\\Services\\\\([^\\\\]+)$",
+        "(?i)^HKLM\\\\SOFTWARE\\\\(?:Wow6432Node\\\\)?Microsoft\\\\Active Setup\\\\Installed Components\\\\.+$",
+        "(?i)^HKLM\\\\SOFTWARE\\\\(?:Wow6432Node\\\\)?Microsoft\\\\Windows NT\\\\CurrentVersion\\\\Winlogon$",
+        "(?i)^HKCU\\\\SOFTWARE\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\Explorer\\\\User Shell Folders$",
+        "(?i)^HKLM\\\\SOFTWARE\\\\(?:Wow6432Node\\\\)?Microsoft\\\\Windows\\\\CurrentVersion\\\\Explorer\\\\StartupApproved\\\\Run$",
+        "(?i)^HKCU\\\\SOFTWARE\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\Explorer\\\\StartupApproved\\\\Run$",
+        "(?i)^HKLM\\\\SOFTWARE\\\\(?:Wow6432Node\\\\)?Microsoft\\\\Windows\\\\CurrentVersion\\\\Explorer\\\\Browser Helper Objects$",
+        "(?i)^HKLM\\\\SOFTWARE\\\\(?:Wow6432Node\\\\)?Microsoft\\\\Windows\\\\CurrentVersion\\\\Shell Extensions\\\\Approved$",
+        "(?i)^HKLM\\\\SOFTWARE\\\\(?:Wow6432Node\\\\)?Classes\\\\CLSID\\\\{[A-F0-9-]+(?:-[A-F0-9]+){4}\\\\}\\\\InprocServer32$",
+        "(?i)^HKCU\\\\SOFTWARE\\\\Classes\\\\CLSID\\\\{[A-F0-9-]+(?:-[A-F0-9]+){4}\\\\}\\\\InprocServer32$",
+        "(?i)^HKLM\\\\SOFTWARE\\\\(?:Wow6432Node\\\\)?Microsoft\\\\Windows NT\\\\CurrentVersion\\\\Windows$"
+    ],
+    "PrivilegeEscalationRegistryKey": [
+        "(?i)^HKCU\\\\Environment$",
+        "(?i)^HKCR\\\\(?:ms-(?:settings|cmdtool)\\\\|exefile\\\\)shell\\\\open\\\\command$"
+    ]
+}
