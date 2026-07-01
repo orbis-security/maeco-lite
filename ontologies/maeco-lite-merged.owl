@@ -1,16 +1,81 @@
 <?xml version="1.0"?>
 <rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
      xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     xmlns:maeco="https://orbis-security.com/maeco#">
+     xmlns:maeco="https://orbis-security.com/maeco#"
+     xmlns:terms="http://purl.org/dc/terms/">
     <Ontology rdf:about="https://orbis-security.com/maeco/maeco-lite">
         <versionIRI rdf:resource="https://orbis-security.com/maeco/maeco-lite-merged-0.3.0+18.1"/>
+        <dc:contributor>Martin Homola</dc:contributor>
+        <dc:contributor>Work on the MAECO-Lite ontology and related research has been co-founded by the European Union – NextGenerationEU through the Recovery and Resilience Plan for Slovakia under the project No. 09I05-03-V02-00064 and by the Slovak Republic under the SRDA grant APVV-23-0292 (DyMAX) and VEGA grant no. 1/0630/25 (eXSec).</dc:contributor>
+        <dc:contributor>Štefan Balogh</dc:contributor>
+        <dc:creator>Ján Kľuka</dc:creator>
+        <dc:creator>Monday Onoja</dc:creator>
+        <dc:creator>Peter Švec</dc:creator>
+        <dc:creator>Roderik Ploszek</dc:creator>
+        <dc:creator>Zekeri Adams</dc:creator>
+        <dc:subject>Dynamic Malware Analysis, Ontology, MAEC, STIX, MITRE ATT&amp;CK</dc:subject>
+        <dc:title>MAECO-Lite: A Lightweight Modular Ontology for Dynamic Malware Analysis (Merged Version)</dc:title>
+        <terms:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+        <rdfs:comment>MAECO-Lite is a lightweight, modular ontology for representing dynamic malware analysis. It models malware samples, processes, runtime actions, files, Windows Registry keys, and MITRE ATT&amp;CK techniques, capturing the relationships between executed samples, spawned processes, performed actions, accessed system artifacts, and observed adversarial techniques. The ontology is designed to support semantic representation, knowledge sharing, reasoning, and machine learning over dynamic malware behavior.</rdfs:comment>
         <rdfs:comment>This version of MAECO-Lite is produced by merging instead of importing the modules for use with tools that do not support imports.</rdfs:comment>
+        <rdfs:label>MAECO-Lite Ontology</rdfs:label>
+        <versionInfo>V merged-0.3.0+18.1</versionInfo>
+        <foaf:homepage rdf:resource="https://github.com/orbis-security/maeco-lite"/>
     </Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/contributor -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/contributor"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/creator -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/creator"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/subject -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/subject"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/title -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/title"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/license -->
+
+    <AnnotationProperty rdf:about="http://purl.org/dc/terms/license"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/homepage -->
+
+    <AnnotationProperty rdf:about="http://xmlns.com/foaf/0.1/homepage"/>
     
 
 
