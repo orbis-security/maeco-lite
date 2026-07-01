@@ -687,7 +687,7 @@ if __name__ == "__main__":
     parser.add_argument("--variants",      type=int, default=1, help="Number of randomly sampled dataset variants to generate (default: 1)")
     parser.add_argument("--from-manifest", default=None, help="Path to a _manifest.json file to reproduce an exact previously generated dataset")
     parser.add_argument("--vx-family",     nargs="+",    default=None, metavar="FAMILY", help="Only include malware samples whose vx_family matches one of the given values")
-    parser.add_argument("--namespace",     default="https://orbis-security.com/maeco#", help="Ontology namespace IRI (default: https://orbis-security.com/maeco#)")
+    parser.add_argument("--namespace",     default="http://purl.org/orbis-security/maeco-lite#", help="Ontology namespace IRI (default: http://purl.org/orbis-security/maeco-lite#)")
 
     args = parser.parse_args()
 

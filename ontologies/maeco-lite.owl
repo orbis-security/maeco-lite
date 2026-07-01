@@ -8,15 +8,15 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     xmlns:maeco="https://orbis-security.com/maeco#"
+     xmlns:maeco="http://purl.org/orbis-security/maeco-lite#"
      xmlns:terms="http://purl.org/dc/terms/">
-    <Ontology rdf:about="https://orbis-security.com/maeco/maeco-lite">
-        <versionIRI rdf:resource="https://orbis-security.com/maeco/maeco-lite-0.3.0+18.1"/>
-        <imports rdf:resource="https://orbis-security.com/maeco/lite/actions-0.3.0"/>
-        <imports rdf:resource="https://orbis-security.com/maeco/lite/core-0.3.0"/>
-        <imports rdf:resource="https://orbis-security.com/maeco/lite/files-0.3.0"/>
-        <imports rdf:resource="https://orbis-security.com/maeco/lite/techniques-enterprise-attack-v18.1"/>
-        <imports rdf:resource="https://orbis-security.com/maeco/lite/windows-registry-keys-0.3.0"/>
+    <Ontology rdf:about="http://purl.org/orbis-security/maeco-lite">
+        <versionIRI rdf:resource="http://purl.org/orbis-security/maeco-lite/v0.3.0+18.1"/>
+        <imports rdf:resource="http://purl.org/orbis-security/maeco-lite/v0.3.0+18.1/actions"/>
+        <imports rdf:resource="http://purl.org/orbis-security/maeco-lite/v0.3.0+18.1/core"/>
+        <imports rdf:resource="http://purl.org/orbis-security/maeco-lite/v0.3.0+18.1/files"/>
+        <imports rdf:resource="http://purl.org/orbis-security/maeco-lite/v0.3.0+18.1/techniques"/>
+        <imports rdf:resource="http://purl.org/orbis-security/maeco-lite/v0.3.0+18.1/windows-registry-keys"/>
         <dc:contributor>Martin Homola</dc:contributor>
         <dc:contributor>Work on the MAECO-Lite ontology and related research has been co-founded by the European Union – NextGenerationEU through the Recovery and Resilience Plan for Slovakia under the project No. 09I05-03-V02-00064 and by the Slovak Republic under the SRDA grant APVV-23-0292 (DyMAX) and VEGA grant no. 1/0630/25 (eXSec).</dc:contributor>
         <dc:contributor>Štefan Balogh</dc:contributor>

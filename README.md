@@ -52,7 +52,7 @@ benign_dataset/
 | `--ontology-name` | no | `maeco-mini-merged.owl` | Ontology file name |
 | `--output-path` | no | `./converted` | Directory where the output dataset will be saved |
 | `--from-manifest` | no | — | Path to a `_manifest.json` to reproduce an exact previously generated dataset |
-| `--namespace` | no | `https://orbis-security.com/maeco#` | Ontology namespace IRI |
+| `--namespace` | no | `http://purl.org/orbis-security/maeco-lite#` | Ontology namespace IRI |
 | `--vx-family` | no | all families | One or more `vx_family` values; only malware samples matching at least one are loaded |
 
 \* Required unless `--from-manifest` is used.

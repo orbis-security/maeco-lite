@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="https://orbis-security.com/maeco/lite/actions#"
-     xml:base="https://orbis-security.com/maeco/lite/actions"
+<rdf:RDF xmlns="http://purl.org/orbis-security/maeco-lite/actions#"
+     xml:base="http://purl.org/orbis-security/maeco-lite/actions"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-    <owl:Ontology rdf:about="https://orbis-security.com/maeco/lite/actions">
-        <owl:versionIRI rdf:resource="https://orbis-security.com/maeco/lite/actions-0.3.0"/>
+    <owl:Ontology rdf:about="http://purl.org/orbis-security/maeco-lite/actions">
+        <owl:versionIRI rdf:resource="http://purl.org/orbis-security/maeco-lite/v0.3.0+18.1/actions"/>
     </owl:Ontology>
     
 
@@ -23,9 +23,9 @@
     
 
 
-    <!-- https://orbis-security.com/maeco#performedAction -->
+    <!-- http://purl.org/orbis-security/maeco-lite#performedAction -->
 
-    <owl:ObjectProperty rdf:about="https://orbis-security.com/maeco#performedAction">
+    <owl:ObjectProperty rdf:about="http://purl.org/orbis-security/maeco-lite#performedAction">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
     </owl:ObjectProperty>
     
@@ -42,1636 +42,1636 @@
     
 
 
-    <!-- https://orbis-security.com/maeco#AcceptSocketConnection -->
+    <!-- http://purl.org/orbis-security/maeco-lite#AcceptSocketConnection -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#AcceptSocketConnection">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Networking"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#AcceptSocketConnection">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Networking"/>
         <rdfs:comment>The action of accepting a socket connection.</rdfs:comment>
         <rdfs:label>Accept Socket Connection</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#AccessManagement -->
+    <!-- http://purl.org/orbis-security/maeco-lite#AccessManagement -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#AccessManagement">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Action"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#AccessManagement">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Action"/>
         <rdfs:comment>The action of managing access rights, permissions, or user credentials</rdfs:comment>
         <rdfs:label>Access Management</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#Action -->
+    <!-- http://purl.org/orbis-security/maeco-lite#Action -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#Action"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#Action"/>
     
 
 
-    <!-- https://orbis-security.com/maeco#AddNetworkShare -->
+    <!-- http://purl.org/orbis-security/maeco-lite#AddNetworkShare -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#AddNetworkShare">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ResourceSharing"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#AddNetworkShare">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ResourceSharing"/>
         <rdfs:comment>The action of adding a new network share on a server.</rdfs:comment>
         <rdfs:label>Add Network Share</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#AddScheduledTask -->
+    <!-- http://purl.org/orbis-security/maeco-lite#AddScheduledTask -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#AddScheduledTask">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SystemManipulation"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#AddScheduledTask">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SystemManipulation"/>
         <rdfs:comment>The action of adding a scheduled task to a system.</rdfs:comment>
         <rdfs:label>Add Scheduled Task</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#AddUser -->
+    <!-- http://purl.org/orbis-security/maeco-lite#AddUser -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#AddUser">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#AccessManagement"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#AddUser">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#AccessManagement"/>
         <rdfs:comment>The action of adding a new user.</rdfs:comment>
         <rdfs:label>Add User</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#AddWindowsHook -->
+    <!-- http://purl.org/orbis-security/maeco-lite#AddWindowsHook -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#AddWindowsHook">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#WindowHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#AddWindowsHook">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowHandling"/>
         <rdfs:comment>The action of adding a new Windows application-defined hook procedure.</rdfs:comment>
         <rdfs:label>Add Windows Hook</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#AllocateProcessVirtualMemory -->
+    <!-- http://purl.org/orbis-security/maeco-lite#AllocateProcessVirtualMemory -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#AllocateProcessVirtualMemory">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ProcessHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#AllocateProcessVirtualMemory">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ProcessHandling"/>
         <rdfs:comment>The action of allocating a virtual memory region in an existing process.</rdfs:comment>
         <rdfs:label>Allocate Process Virtual Memory</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#AntiDebugging -->
+    <!-- http://purl.org/orbis-security/maeco-lite#AntiDebugging -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#AntiDebugging">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Action"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#AntiDebugging">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Action"/>
         <rdfs:comment>The action of employing techniques to detect, evade, or interfere with debugging or analysis tools</rdfs:comment>
         <rdfs:label>Anti Debugging</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#BindAddressToSocket -->
+    <!-- http://purl.org/orbis-security/maeco-lite#BindAddressToSocket -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#BindAddressToSocket">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Networking"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#BindAddressToSocket">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Networking"/>
         <rdfs:comment>The action of binding a socket address to a socket.</rdfs:comment>
         <rdfs:label>Bind Address To Socket</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ChangePassword -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ChangePassword -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ChangePassword">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#AccessManagement"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ChangePassword">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#AccessManagement"/>
         <rdfs:comment>The action of changing a user’s password.</rdfs:comment>
         <rdfs:label>Change Password</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CheckForKernelDebugger -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CheckForKernelDebugger -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CheckForKernelDebugger">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#AntiDebugging"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CheckForKernelDebugger">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#AntiDebugging"/>
         <rdfs:comment>The action of checking for the presence of a kernel debugger.</rdfs:comment>
         <rdfs:label>Check For Kernel Debugger</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CheckForRemoteDebugger -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CheckForRemoteDebugger -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CheckForRemoteDebugger">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#AntiDebugging"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CheckForRemoteDebugger">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#AntiDebugging"/>
         <rdfs:comment>The action of checking for the presence of a remote debugger.</rdfs:comment>
         <rdfs:label>Check For Remote Debugger</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CloseFile -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CloseFile -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CloseFile">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#FileHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CloseFile">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
         <rdfs:comment>The action of closing an existing file previously opened for reading or writing.</rdfs:comment>
         <rdfs:label>Close File</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CloseRegistryKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CloseRegistryKey -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CloseRegistryKey">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#RegistryHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CloseRegistryKey">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#RegistryHandling"/>
         <rdfs:comment>The action of closing a handle to an existing registry key.</rdfs:comment>
         <rdfs:label>Close Registry Key</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CloseSocket -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CloseSocket -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CloseSocket">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Networking"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CloseSocket">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Networking"/>
         <rdfs:comment>The action of closing a socket.</rdfs:comment>
         <rdfs:label>Close Socket</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ConnectToFtpServer -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ConnectToFtpServer -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ConnectToFtpServer">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Networking"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ConnectToFtpServer">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Networking"/>
         <rdfs:comment>The action of connecting to an ftp server.</rdfs:comment>
         <rdfs:label>Connect To Ftp Server</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ConnectToNamedPipe -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ConnectToNamedPipe -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ConnectToNamedPipe">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#InterProcessCommunication"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ConnectToNamedPipe">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#InterProcessCommunication"/>
         <rdfs:comment>The action of connecting to a named pipe.</rdfs:comment>
         <rdfs:label>Connect To Named Pipe</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ConnectToSocket -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ConnectToSocket -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ConnectToSocket">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Networking"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ConnectToSocket">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Networking"/>
         <rdfs:comment>&quot;The action of connecting to a socket, which consists of an IP address and port number.</rdfs:comment>
         <rdfs:label>Connect To Socket</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ConnectToUrl -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ConnectToUrl -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ConnectToUrl">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Networking"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ConnectToUrl">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Networking"/>
         <rdfs:comment>The action of connecting to a URL.</rdfs:comment>
         <rdfs:label>Connect To Url</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CopyFile -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CopyFile -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CopyFile">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#FileHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CopyFile">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
         <rdfs:comment>The action of copying a file from one location to another.</rdfs:comment>
         <rdfs:label>Copy File</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CreateCriticalSection -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CreateCriticalSection -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CreateCriticalSection">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SynchronizationPrimitivesHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CreateCriticalSection">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SynchronizationPrimitivesHandling"/>
         <rdfs:comment>The action of creating a new critical section.</rdfs:comment>
         <rdfs:label>Create Critical Section</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CreateDialogBox -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CreateDialogBox -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CreateDialogBox">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#WindowHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CreateDialogBox">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowHandling"/>
         <rdfs:comment>The action of creating a new dialog box.</rdfs:comment>
         <rdfs:label>Create Dialog Box</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CreateDirectory -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CreateDirectory -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CreateDirectory">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#DirectoryHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CreateDirectory">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#DirectoryHandling"/>
         <rdfs:comment>The action of creating a new directory.</rdfs:comment>
         <rdfs:label>Create Directory</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CreateEvent -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CreateEvent -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CreateEvent">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SynchronizationPrimitivesHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CreateEvent">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SynchronizationPrimitivesHandling"/>
         <rdfs:comment>The action of creating a new event.</rdfs:comment>
         <rdfs:label>Create Event</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CreateFile -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CreateFile -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CreateFile">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#FileHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CreateFile">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
         <rdfs:comment>The action of creating a new file.</rdfs:comment>
         <rdfs:label>Create File</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CreateFileMapping -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CreateFileMapping -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CreateFileMapping">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#FileHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CreateFileMapping">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
         <rdfs:comment>The action of creating a new file mapping object.</rdfs:comment>
         <rdfs:label>Create File Mapping</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CreateFileSymbolicLink -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CreateFileSymbolicLink -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CreateFileSymbolicLink">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#FileHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CreateFileSymbolicLink">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
         <rdfs:comment>The action of creating a new symbolic link to a file.</rdfs:comment>
         <rdfs:label>Create File Symbolic Link</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CreateMailslot -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CreateMailslot -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CreateMailslot">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#InterProcessCommunication"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CreateMailslot">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#InterProcessCommunication"/>
         <rdfs:comment>The action of creating a new mailslot.</rdfs:comment>
         <rdfs:label>Create Mailslot</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CreateMutex -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CreateMutex -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CreateMutex">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SynchronizationPrimitivesHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CreateMutex">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SynchronizationPrimitivesHandling"/>
         <rdfs:comment>The action of creating a new mutex.</rdfs:comment>
         <rdfs:label>Create Mutex</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CreateNamedPipe -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CreateNamedPipe -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CreateNamedPipe">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#InterProcessCommunication"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CreateNamedPipe">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#InterProcessCommunication"/>
         <rdfs:comment>The action of creating a new named pipe.</rdfs:comment>
         <rdfs:label>Create Named Pipe</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CreateProcess -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CreateProcess -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CreateProcess">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ProcessHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CreateProcess">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ProcessHandling"/>
         <rdfs:comment>The action of creating a new process.</rdfs:comment>
         <rdfs:label>Create Process</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CreateProcessAsUser -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CreateProcessAsUser -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CreateProcessAsUser">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ProcessHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CreateProcessAsUser">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ProcessHandling"/>
         <rdfs:comment>The action of creating a new process as a particular user.</rdfs:comment>
         <rdfs:label>Create Process As User</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CreateRegistryKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CreateRegistryKey -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CreateRegistryKey">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#RegistryHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CreateRegistryKey">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#RegistryHandling"/>
         <rdfs:comment>The action of creating a new registry key.</rdfs:comment>
         <rdfs:label>Create Registry Key</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CreateRegistryKeyValue -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CreateRegistryKeyValue -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CreateRegistryKeyValue">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#RegistryHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CreateRegistryKeyValue">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#RegistryHandling"/>
         <rdfs:comment>The action of creating a new registry key value.</rdfs:comment>
         <rdfs:label>Create Registry Key Value</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CreateRemoteThreadInProcess -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CreateRemoteThreadInProcess -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CreateRemoteThreadInProcess">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ThreadHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CreateRemoteThreadInProcess">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ThreadHandling"/>
         <rdfs:comment>The action of creating a new thread that runs in the virtual address space of another process.</rdfs:comment>
         <rdfs:label>Create Remote Thread In Process</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CreateSemaphore -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CreateSemaphore -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CreateSemaphore">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SynchronizationPrimitivesHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CreateSemaphore">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SynchronizationPrimitivesHandling"/>
         <rdfs:comment>The action of creating a new named semaphore.</rdfs:comment>
         <rdfs:label>Create Semaphore</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CreateService -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CreateService -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CreateService">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ServiceHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CreateService">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ServiceHandling"/>
         <rdfs:comment>The action of creating a new service.</rdfs:comment>
         <rdfs:label>Create Service</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CreateSocket -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CreateSocket -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CreateSocket">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Networking"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CreateSocket">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Networking"/>
         <rdfs:comment>The action of creating a new socket.</rdfs:comment>
         <rdfs:label>Create Socket</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CreateThread -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CreateThread -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CreateThread">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ThreadHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CreateThread">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ThreadHandling"/>
         <rdfs:comment>The action of creating a new thread.</rdfs:comment>
         <rdfs:label>Create Thread</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CreateWindow -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CreateWindow -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#CreateWindow">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#WindowHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#CreateWindow">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowHandling"/>
         <rdfs:comment>The action of creating a new window.</rdfs:comment>
         <rdfs:label>Create Window</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#Cryptography -->
+    <!-- http://purl.org/orbis-security/maeco-lite#Cryptography -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#Cryptography">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Action"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#Cryptography">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Action"/>
         <rdfs:comment>The action of performing cryptographic operations, including encryption, decryption, hashing, or key generation</rdfs:comment>
         <rdfs:label>Cryptography</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#Decrypt -->
+    <!-- http://purl.org/orbis-security/maeco-lite#Decrypt -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#Decrypt">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Cryptography"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#Decrypt">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Cryptography"/>
         <rdfs:comment>The action of decrypting data</rdfs:comment>
         <rdfs:label>Decrypt</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#DeleteCriticalSection -->
+    <!-- http://purl.org/orbis-security/maeco-lite#DeleteCriticalSection -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#DeleteCriticalSection">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SynchronizationPrimitivesHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#DeleteCriticalSection">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SynchronizationPrimitivesHandling"/>
         <rdfs:comment>The action of deleting a critical section object.</rdfs:comment>
         <rdfs:label>Delete Critical Section</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#DeleteDirectory -->
+    <!-- http://purl.org/orbis-security/maeco-lite#DeleteDirectory -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#DeleteDirectory">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#DirectoryHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#DeleteDirectory">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#DirectoryHandling"/>
         <rdfs:comment>The action of deleting a directory on a filesystem.</rdfs:comment>
         <rdfs:label>Delete Directory</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#DeleteFile -->
+    <!-- http://purl.org/orbis-security/maeco-lite#DeleteFile -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#DeleteFile">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#FileHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#DeleteFile">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
         <rdfs:comment>The action of deleting a file.</rdfs:comment>
         <rdfs:label>Delete File</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#DeleteNetworkShare -->
+    <!-- http://purl.org/orbis-security/maeco-lite#DeleteNetworkShare -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#DeleteNetworkShare">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ResourceSharing"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#DeleteNetworkShare">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ResourceSharing"/>
         <rdfs:comment>The action of deleting a network share on a server.</rdfs:comment>
         <rdfs:label>Delete Network Share</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#DeleteRegistryKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#DeleteRegistryKey -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#DeleteRegistryKey">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#RegistryHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#DeleteRegistryKey">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#RegistryHandling"/>
         <rdfs:comment>The action of deleting a registry key.</rdfs:comment>
         <rdfs:label>Delete Registry Key</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#DeleteRegistryKeyValue -->
+    <!-- http://purl.org/orbis-security/maeco-lite#DeleteRegistryKeyValue -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#DeleteRegistryKeyValue">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#RegistryHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#DeleteRegistryKeyValue">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#RegistryHandling"/>
         <rdfs:comment>The action of deleting a named value under an existing registry key.</rdfs:comment>
         <rdfs:label>Delete Registry Key Value</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#DeleteService -->
+    <!-- http://purl.org/orbis-security/maeco-lite#DeleteService -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#DeleteService">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ServiceHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#DeleteService">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ServiceHandling"/>
         <rdfs:comment>The action of deleting a service.</rdfs:comment>
         <rdfs:label>Delete Service</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#DeleteUser -->
+    <!-- http://purl.org/orbis-security/maeco-lite#DeleteUser -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#DeleteUser">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#AccessManagement"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#DeleteUser">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#AccessManagement"/>
         <rdfs:comment>The action of deleting a user.</rdfs:comment>
         <rdfs:label>Delete User</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#DirectoryHandling -->
+    <!-- http://purl.org/orbis-security/maeco-lite#DirectoryHandling -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#DirectoryHandling">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Action"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#DirectoryHandling">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Action"/>
         <rdfs:comment>The action of performing operations on directories, such as creating, deleting, or enumerating their contents</rdfs:comment>
         <rdfs:label>Directory Handling</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#DiskManagement -->
+    <!-- http://purl.org/orbis-security/maeco-lite#DiskManagement -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#DiskManagement">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Action"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#DiskManagement">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Action"/>
         <rdfs:comment>The action of performing operations on disk drives or volumes, such as mounting, unmounting, or querying attributes</rdfs:comment>
         <rdfs:label>Disk Management</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#DownloadFile -->
+    <!-- http://purl.org/orbis-security/maeco-lite#DownloadFile -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#DownloadFile">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#FileHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#DownloadFile">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
         <rdfs:comment>The action of downloading a file from a remote location.</rdfs:comment>
         <rdfs:label>Download File</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#Encrypt -->
+    <!-- http://purl.org/orbis-security/maeco-lite#Encrypt -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#Encrypt">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Cryptography"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#Encrypt">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Cryptography"/>
         <rdfs:comment>The action of encrypting data</rdfs:comment>
         <rdfs:label>Encrypt</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#EnumerateDisks -->
+    <!-- http://purl.org/orbis-security/maeco-lite#EnumerateDisks -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#EnumerateDisks">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#DiskManagement"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#EnumerateDisks">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#DiskManagement"/>
         <rdfs:comment>The action of listing all disks available on a system.</rdfs:comment>
         <rdfs:label>Enumerate Disks</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#EnumerateLibraries -->
+    <!-- http://purl.org/orbis-security/maeco-lite#EnumerateLibraries -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#EnumerateLibraries">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#LibraryHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#EnumerateLibraries">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#LibraryHandling"/>
         <rdfs:comment>The action of enumerating the libraries used by a process.</rdfs:comment>
         <rdfs:label>Enumerate Libraries</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#EnumerateNetworkShares -->
+    <!-- http://purl.org/orbis-security/maeco-lite#EnumerateNetworkShares -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#EnumerateNetworkShares">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ResourceSharing"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#EnumerateNetworkShares">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ResourceSharing"/>
         <rdfs:comment>The action of enumerating the available shared resources on a server.</rdfs:comment>
         <rdfs:label>Enumerate Network Shares</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#EnumerateProcesses -->
+    <!-- http://purl.org/orbis-security/maeco-lite#EnumerateProcesses -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#EnumerateProcesses">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ProcessHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#EnumerateProcesses">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ProcessHandling"/>
         <rdfs:comment>The action of enumerating all of the running processes on a system.</rdfs:comment>
         <rdfs:label>Enumerate Processes</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#EnumerateRegistryKeySubkeys -->
+    <!-- http://purl.org/orbis-security/maeco-lite#EnumerateRegistryKeySubkeys -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#EnumerateRegistryKeySubkeys">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#RegistryHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#EnumerateRegistryKeySubkeys">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#RegistryHandling"/>
         <rdfs:comment>The action of enumerating the registry key subkeys under a registry key.</rdfs:comment>
         <rdfs:label>Enumerate Registry Key Subkeys</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#EnumerateRegistryKeyValues -->
+    <!-- http://purl.org/orbis-security/maeco-lite#EnumerateRegistryKeyValues -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#EnumerateRegistryKeyValues">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#RegistryHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#EnumerateRegistryKeyValues">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#RegistryHandling"/>
         <rdfs:comment>The action of enumerating the named values under a registry key.</rdfs:comment>
         <rdfs:label>Enumerate Registry Key Values</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#EnumerateServices -->
+    <!-- http://purl.org/orbis-security/maeco-lite#EnumerateServices -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#EnumerateServices">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ServiceHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#EnumerateServices">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ServiceHandling"/>
         <rdfs:comment>The action of enumerating a specific set of services on a system.</rdfs:comment>
         <rdfs:label>Enumerate Services</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#EnumerateThreads -->
+    <!-- http://purl.org/orbis-security/maeco-lite#EnumerateThreads -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#EnumerateThreads">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ThreadHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#EnumerateThreads">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ThreadHandling"/>
         <rdfs:comment>The action of enumerating all threads in the calling process.</rdfs:comment>
         <rdfs:label>Enumerate Threads</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#EnumerateUsers -->
+    <!-- http://purl.org/orbis-security/maeco-lite#EnumerateUsers -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#EnumerateUsers">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#AccessManagement"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#EnumerateUsers">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#AccessManagement"/>
         <rdfs:comment>The action of enumerating all users.</rdfs:comment>
         <rdfs:label>Enumerate Users</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#EnumerateWindows -->
+    <!-- http://purl.org/orbis-security/maeco-lite#EnumerateWindows -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#EnumerateWindows">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#WindowHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#EnumerateWindows">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowHandling"/>
         <rdfs:comment>The action of enumerating all open windows.</rdfs:comment>
         <rdfs:label>Enumerate Windows</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ExecuteFile -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ExecuteFile -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ExecuteFile">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#FileHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ExecuteFile">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
         <rdfs:comment>The action of executing a file.</rdfs:comment>
         <rdfs:label>Execute File</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#FileHandling -->
+    <!-- http://purl.org/orbis-security/maeco-lite#FileHandling -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#FileHandling">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Action"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#FileHandling">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Action"/>
         <rdfs:comment>The action of performing file operations such as creating, reading, writing, deleting, or moving files</rdfs:comment>
         <rdfs:label>File Handling</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#FindFile -->
+    <!-- http://purl.org/orbis-security/maeco-lite#FindFile -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#FindFile">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#FileHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#FindFile">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
         <rdfs:comment>The action of searching for a file.</rdfs:comment>
         <rdfs:label>Find File</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#FindWindow -->
+    <!-- http://purl.org/orbis-security/maeco-lite#FindWindow -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#FindWindow">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#WindowHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#FindWindow">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowHandling"/>
         <rdfs:comment>The action of searching for a window.</rdfs:comment>
         <rdfs:label>Find Window</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#FlushProcessInstructionCache -->
+    <!-- http://purl.org/orbis-security/maeco-lite#FlushProcessInstructionCache -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#FlushProcessInstructionCache">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ProcessHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#FlushProcessInstructionCache">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ProcessHandling"/>
         <rdfs:comment>The action of flushing the instruction cache of a process.</rdfs:comment>
         <rdfs:label>Flush Process Instruction Cache</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#FreeLibrary -->
+    <!-- http://purl.org/orbis-security/maeco-lite#FreeLibrary -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#FreeLibrary">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#LibraryHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#FreeLibrary">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#LibraryHandling"/>
         <rdfs:comment>The action of freeing a library previously loaded into the address space of the calling process.</rdfs:comment>
         <rdfs:label>Free Library</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#FreeProcessVirtualMemory -->
+    <!-- http://purl.org/orbis-security/maeco-lite#FreeProcessVirtualMemory -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#FreeProcessVirtualMemory">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ProcessHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#FreeProcessVirtualMemory">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ProcessHandling"/>
         <rdfs:comment>The action of freeing virtual memory regions from a process.</rdfs:comment>
         <rdfs:label>Free Process Virtual Memory</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#GenerateKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#GenerateKey -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#GenerateKey">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Cryptography"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#GenerateKey">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Cryptography"/>
         <rdfs:comment>The action of generating a cryptographic key</rdfs:comment>
         <rdfs:label>Generate Key</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#GetDiskAttributes -->
+    <!-- http://purl.org/orbis-security/maeco-lite#GetDiskAttributes -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#GetDiskAttributes">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#DiskManagement"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#GetDiskAttributes">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#DiskManagement"/>
         <rdfs:comment>&quot;The action of querying the attributes of a disk, such as the amount of available free space.</rdfs:comment>
         <rdfs:label>Get Disk Attributes</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#GetDiskType -->
+    <!-- http://purl.org/orbis-security/maeco-lite#GetDiskType -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#GetDiskType">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#DiskManagement"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#GetDiskType">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#DiskManagement"/>
         <rdfs:comment>The action of getting the disk type.</rdfs:comment>
         <rdfs:label>Get Disk Type</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#GetElapsedSystemUpTime -->
+    <!-- http://purl.org/orbis-security/maeco-lite#GetElapsedSystemUpTime -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#GetElapsedSystemUpTime">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SystemManipulation"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#GetElapsedSystemUpTime">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SystemManipulation"/>
         <rdfs:comment>The action of getting the elapsed up-time for a system.</rdfs:comment>
         <rdfs:label>Get Elapsed System Up Time</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#GetFileOrDirectoryAttributes -->
+    <!-- http://purl.org/orbis-security/maeco-lite#GetFileOrDirectoryAttributes -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#GetFileOrDirectoryAttributes">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#FileHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#GetFileOrDirectoryAttributes">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
         <rdfs:comment>The action of getting the attributes of a file or directory.</rdfs:comment>
         <rdfs:label>Get File Or Directory Attributes</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#GetFunctionAddress -->
+    <!-- http://purl.org/orbis-security/maeco-lite#GetFunctionAddress -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#GetFunctionAddress">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#LibraryHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#GetFunctionAddress">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#LibraryHandling"/>
         <rdfs:comment>The action of getting the address of an exported function or variable from a library.</rdfs:comment>
         <rdfs:label>Get Function Address</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#GetHostByAddress -->
+    <!-- http://purl.org/orbis-security/maeco-lite#GetHostByAddress -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#GetHostByAddress">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Networking"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#GetHostByAddress">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Networking"/>
         <rdfs:comment>The action of getting information on a host from a local or remote host database by its IP address.</rdfs:comment>
         <rdfs:label>Get Host By Address</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#GetHostByName -->
+    <!-- http://purl.org/orbis-security/maeco-lite#GetHostByName -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#GetHostByName">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Networking"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#GetHostByName">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Networking"/>
         <rdfs:comment>The action of getting information on a host from a local or remote host database by its name.</rdfs:comment>
         <rdfs:label>Get Host By Name</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#GetNetbiosName -->
+    <!-- http://purl.org/orbis-security/maeco-lite#GetNetbiosName -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#GetNetbiosName">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SystemManipulation"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#GetNetbiosName">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SystemManipulation"/>
         <rdfs:comment>The action of getting the NetBIOS name of a system.</rdfs:comment>
         <rdfs:label>Get Netbios Name</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#GetProcessCurrentDirectory -->
+    <!-- http://purl.org/orbis-security/maeco-lite#GetProcessCurrentDirectory -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#GetProcessCurrentDirectory">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ProcessHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#GetProcessCurrentDirectory">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ProcessHandling"/>
         <rdfs:comment>The action of getting the current directory of a process.</rdfs:comment>
         <rdfs:label>Get Process Current Directory</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#GetProcessEnvironmentVariable -->
+    <!-- http://purl.org/orbis-security/maeco-lite#GetProcessEnvironmentVariable -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#GetProcessEnvironmentVariable">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ProcessHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#GetProcessEnvironmentVariable">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ProcessHandling"/>
         <rdfs:comment>The action of setting an environment variable used by a process.</rdfs:comment>
         <rdfs:label>Get Process Environment Variable</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#GetProcessStartupinfo -->
+    <!-- http://purl.org/orbis-security/maeco-lite#GetProcessStartupinfo -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#GetProcessStartupinfo">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ProcessHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#GetProcessStartupinfo">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ProcessHandling"/>
         <rdfs:comment>The action of getting the STARTUPINFO struct associated with a process.</rdfs:comment>
         <rdfs:label>Get Process Startupinfo</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#GetSystemGlobalFlags -->
+    <!-- http://purl.org/orbis-security/maeco-lite#GetSystemGlobalFlags -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#GetSystemGlobalFlags">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SystemManipulation"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#GetSystemGlobalFlags">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SystemManipulation"/>
         <rdfs:comment>The action of getting the enabled global flags on a system.</rdfs:comment>
         <rdfs:label>Get System Global Flags</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#GetSystemLocalTime -->
+    <!-- http://purl.org/orbis-security/maeco-lite#GetSystemLocalTime -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#GetSystemLocalTime">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SystemManipulation"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#GetSystemLocalTime">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SystemManipulation"/>
         <rdfs:comment>The action of getting the local time of a system.</rdfs:comment>
         <rdfs:label>Get System Local Time</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#GetSystemTime -->
+    <!-- http://purl.org/orbis-security/maeco-lite#GetSystemTime -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#GetSystemTime">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SystemManipulation"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#GetSystemTime">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SystemManipulation"/>
         <rdfs:comment>&quot;The action of getting the system time of a system, represented in Coordinated Universal Time (UTC).</rdfs:comment>
         <rdfs:label>Get System Time</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#GetTemporaryFilesDirectory -->
+    <!-- http://purl.org/orbis-security/maeco-lite#GetTemporaryFilesDirectory -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#GetTemporaryFilesDirectory">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#FileHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#GetTemporaryFilesDirectory">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
         <rdfs:comment>The action of getting the temporary file directory on a system.</rdfs:comment>
         <rdfs:label>Get Temporary Files Directory</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#GetThreadContext -->
+    <!-- http://purl.org/orbis-security/maeco-lite#GetThreadContext -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#GetThreadContext">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ThreadHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#GetThreadContext">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ThreadHandling"/>
         <rdfs:comment>The action of getting the context structure (containing process-specific register data) of a thread.</rdfs:comment>
         <rdfs:label>Get Thread Context</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#GetUsername -->
+    <!-- http://purl.org/orbis-security/maeco-lite#GetUsername -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#GetUsername">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#AccessManagement"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#GetUsername">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#AccessManagement"/>
         <rdfs:comment>The action of getting the username of the currently logged in user of a system.</rdfs:comment>
         <rdfs:label>Get Username</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#GetWindowsDirectory -->
+    <!-- http://purl.org/orbis-security/maeco-lite#GetWindowsDirectory -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#GetWindowsDirectory">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SystemManipulation"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#GetWindowsDirectory">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SystemManipulation"/>
         <rdfs:comment>The action of getting the Windows installation directory on a system.</rdfs:comment>
         <rdfs:label>Get Windows Directory</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#GetWindowsSystemDirectory -->
+    <!-- http://purl.org/orbis-security/maeco-lite#GetWindowsSystemDirectory -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#GetWindowsSystemDirectory">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SystemManipulation"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#GetWindowsSystemDirectory">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SystemManipulation"/>
         <rdfs:comment>The action of getting the Windows \System or \System32 directory on a system.</rdfs:comment>
         <rdfs:label>Get Windows System Directory</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#Hash -->
+    <!-- http://purl.org/orbis-security/maeco-lite#Hash -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#Hash">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Cryptography"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#Hash">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Cryptography"/>
         <rdfs:comment>The action of computing a cryptographic hash of data</rdfs:comment>
         <rdfs:label>Hash</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ImpersonateProcess -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ImpersonateProcess -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ImpersonateProcess">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ProcessHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ImpersonateProcess">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ProcessHandling"/>
         <rdfs:comment>The action of a thread in the calling process impersonating the security context of another process.</rdfs:comment>
         <rdfs:label>Impersonate Process</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#InterProcessCommunication -->
+    <!-- http://purl.org/orbis-security/maeco-lite#InterProcessCommunication -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#InterProcessCommunication">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Action"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#InterProcessCommunication">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Action"/>
         <rdfs:comment>The action of exchanging data or commands between processes</rdfs:comment>
         <rdfs:label>Inter Process Communication</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#KillProcess -->
+    <!-- http://purl.org/orbis-security/maeco-lite#KillProcess -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#KillProcess">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ProcessHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#KillProcess">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ProcessHandling"/>
         <rdfs:comment>The action of killing a process.</rdfs:comment>
         <rdfs:label>Kill Process</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#KillThread -->
+    <!-- http://purl.org/orbis-security/maeco-lite#KillThread -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#KillThread">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ThreadHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#KillThread">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ThreadHandling"/>
         <rdfs:comment>The action of killing a thread in the virtual address space of the calling process.</rdfs:comment>
         <rdfs:label>Kill Thread</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#KillWindow -->
+    <!-- http://purl.org/orbis-security/maeco-lite#KillWindow -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#KillWindow">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#WindowHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#KillWindow">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowHandling"/>
         <rdfs:comment>The action of killing a window.</rdfs:comment>
         <rdfs:label>Kill Window</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#LibraryHandling -->
+    <!-- http://purl.org/orbis-security/maeco-lite#LibraryHandling -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#LibraryHandling">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Action"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#LibraryHandling">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Action"/>
         <rdfs:comment>The action of loading, unloading, or otherwise manipulating shared libraries (DLLs)</rdfs:comment>
         <rdfs:label>Library Handling</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ListenOnSocket -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ListenOnSocket -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ListenOnSocket">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Networking"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ListenOnSocket">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Networking"/>
         <rdfs:comment>The action of listening on a socket.</rdfs:comment>
         <rdfs:label>Listen On Socket</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#LoadLibrary -->
+    <!-- http://purl.org/orbis-security/maeco-lite#LoadLibrary -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#LoadLibrary">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#LibraryHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#LoadLibrary">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#LibraryHandling"/>
         <rdfs:comment>The action of loading a library into the address space of the calling process.</rdfs:comment>
         <rdfs:label>Load Library</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#LockFile -->
+    <!-- http://purl.org/orbis-security/maeco-lite#LockFile -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#LockFile">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#FileHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#LockFile">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
         <rdfs:comment>The action of locking a file.</rdfs:comment>
         <rdfs:label>Lock File</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#LogonAsUser -->
+    <!-- http://purl.org/orbis-security/maeco-lite#LogonAsUser -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#LogonAsUser">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#AccessManagement"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#LogonAsUser">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#AccessManagement"/>
         <rdfs:comment>The action of logging on as a specific user.</rdfs:comment>
         <rdfs:label>Logon As User</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#MapFileIntoProcess -->
+    <!-- http://purl.org/orbis-security/maeco-lite#MapFileIntoProcess -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#MapFileIntoProcess">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#FileHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#MapFileIntoProcess">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
         <rdfs:comment>The action of mapping a file into the address space of the calling process.</rdfs:comment>
         <rdfs:label>Map File Into Process</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ModifyProcessVirtualMemoryProtection -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ModifyProcessVirtualMemoryProtection -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ModifyProcessVirtualMemoryProtection">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ProcessHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ModifyProcessVirtualMemoryProtection">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ProcessHandling"/>
         <rdfs:comment>The action of modifying the protection on a memory region in the virtual address space of a process.</rdfs:comment>
         <rdfs:label>Modify Process Virtual Memory Protection</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ModifyRegistryKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ModifyRegistryKey -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ModifyRegistryKey">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#RegistryHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ModifyRegistryKey">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#RegistryHandling"/>
         <rdfs:comment>The action of modifying a registry key.</rdfs:comment>
         <rdfs:label>Modify Registry Key</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ModifyServiceConfiguration -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ModifyServiceConfiguration -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ModifyServiceConfiguration">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ServiceHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ModifyServiceConfiguration">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ServiceHandling"/>
         <rdfs:comment>The action of modifying the configuration parameters of a service.</rdfs:comment>
         <rdfs:label>Modify Service Configuration</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#MonitorDirectory -->
+    <!-- http://purl.org/orbis-security/maeco-lite#MonitorDirectory -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#MonitorDirectory">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#DirectoryHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#MonitorDirectory">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#DirectoryHandling"/>
         <rdfs:comment>The action of monitoring a directory on the filesystem for changes.</rdfs:comment>
         <rdfs:label>Monitor Directory</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#MonitorRegistryKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#MonitorRegistryKey -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#MonitorRegistryKey">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#RegistryHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#MonitorRegistryKey">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#RegistryHandling"/>
         <rdfs:comment>The action of monitoring a registry key for changes.</rdfs:comment>
         <rdfs:label>Monitor Registry Key</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#MountDisk -->
+    <!-- http://purl.org/orbis-security/maeco-lite#MountDisk -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#MountDisk">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#DiskManagement"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#MountDisk">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#DiskManagement"/>
         <rdfs:comment>The action of mounting a file system to a mounting point.</rdfs:comment>
         <rdfs:label>Mount Disk</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#MoveFile -->
+    <!-- http://purl.org/orbis-security/maeco-lite#MoveFile -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#MoveFile">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#FileHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#MoveFile">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
         <rdfs:comment>The action of moving a file from one location to another.</rdfs:comment>
         <rdfs:label>Move File</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#Networking -->
+    <!-- http://purl.org/orbis-security/maeco-lite#Networking -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#Networking">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Action"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#Networking">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Action"/>
         <rdfs:comment>The action of performing network-related operations, such as connecting, sending, or receiving data</rdfs:comment>
         <rdfs:label>Networking</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#OpenCriticalSection -->
+    <!-- http://purl.org/orbis-security/maeco-lite#OpenCriticalSection -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#OpenCriticalSection">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SynchronizationPrimitivesHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#OpenCriticalSection">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SynchronizationPrimitivesHandling"/>
         <rdfs:comment>The action of opening a critical section object.</rdfs:comment>
         <rdfs:label>Open Critical Section</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#OpenDirectory -->
+    <!-- http://purl.org/orbis-security/maeco-lite#OpenDirectory -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#OpenDirectory">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#DirectoryHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#OpenDirectory">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#DirectoryHandling"/>
         <rdfs:comment>The action of opening a directory.</rdfs:comment>
         <rdfs:label>Open Directory</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#OpenEvent -->
+    <!-- http://purl.org/orbis-security/maeco-lite#OpenEvent -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#OpenEvent">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SynchronizationPrimitivesHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#OpenEvent">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SynchronizationPrimitivesHandling"/>
         <rdfs:comment>The action of opening a named event object.</rdfs:comment>
         <rdfs:label>Open Event</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#OpenFileMapping -->
+    <!-- http://purl.org/orbis-security/maeco-lite#OpenFileMapping -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#OpenFileMapping">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#FileHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#OpenFileMapping">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
         <rdfs:comment>The action of opening a file mapping object.</rdfs:comment>
         <rdfs:label>Open File Mapping</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#OpenMutex -->
+    <!-- http://purl.org/orbis-security/maeco-lite#OpenMutex -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#OpenMutex">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SynchronizationPrimitivesHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#OpenMutex">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SynchronizationPrimitivesHandling"/>
         <rdfs:comment>The action of opening a named mutex.</rdfs:comment>
         <rdfs:label>Open Mutex</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#OpenProcess -->
+    <!-- http://purl.org/orbis-security/maeco-lite#OpenProcess -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#OpenProcess">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ProcessHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#OpenProcess">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ProcessHandling"/>
         <rdfs:comment>The action of opening a process.</rdfs:comment>
         <rdfs:label>Open Process</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#OpenRegistryKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#OpenRegistryKey -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#OpenRegistryKey">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#RegistryHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#OpenRegistryKey">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#RegistryHandling"/>
         <rdfs:comment>The action of opening a registry key.</rdfs:comment>
         <rdfs:label>Open Registry Key</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#OpenSemaphore -->
+    <!-- http://purl.org/orbis-security/maeco-lite#OpenSemaphore -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#OpenSemaphore">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SynchronizationPrimitivesHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#OpenSemaphore">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SynchronizationPrimitivesHandling"/>
         <rdfs:comment>The action of opening a named semaphore.</rdfs:comment>
         <rdfs:label>Open Semaphore</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#OpenService -->
+    <!-- http://purl.org/orbis-security/maeco-lite#OpenService -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#OpenService">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ServiceHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#OpenService">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ServiceHandling"/>
         <rdfs:comment>The action of opening a service.</rdfs:comment>
         <rdfs:label>Open Service</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#OutputDebugString -->
+    <!-- http://purl.org/orbis-security/maeco-lite#OutputDebugString -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#OutputDebugString">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#AntiDebugging"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#OutputDebugString">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#AntiDebugging"/>
         <rdfs:comment>The action of sending a string to the debugger for display or logging</rdfs:comment>
         <rdfs:label>Output Debug String</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ProcessHandling -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ProcessHandling -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ProcessHandling">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Action"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ProcessHandling">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Action"/>
         <rdfs:comment>The action of performing operations on processes, such as creating, terminating, or opening</rdfs:comment>
         <rdfs:label>Process Handling</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#QueueApcInThread -->
+    <!-- http://purl.org/orbis-security/maeco-lite#QueueApcInThread -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#QueueApcInThread">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ThreadHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#QueueApcInThread">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ThreadHandling"/>
         <rdfs:comment>The action of queuing a new Asynchronized Procedure Call (APC) in the context of a thread.</rdfs:comment>
         <rdfs:label>Queue Apc In Thread</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ReadFromFile -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ReadFromFile -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ReadFromFile">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#FileHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ReadFromFile">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
         <rdfs:comment>The action of reading from a file.</rdfs:comment>
         <rdfs:label>Read From File</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ReadFromProcessMemory -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ReadFromProcessMemory -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ReadFromProcessMemory">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ProcessHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ReadFromProcessMemory">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ProcessHandling"/>
         <rdfs:comment>The action of reading from a memory region of a process.</rdfs:comment>
         <rdfs:label>Read From Process Memory</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ReadRegistryKeyValue -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ReadRegistryKeyValue -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ReadRegistryKeyValue">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#RegistryHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ReadRegistryKeyValue">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#RegistryHandling"/>
         <rdfs:comment>The action of reading a named value of a registry key.</rdfs:comment>
         <rdfs:label>Read Registry Key Value</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ReceiveDataOnSocket -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ReceiveDataOnSocket -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ReceiveDataOnSocket">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Networking"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ReceiveDataOnSocket">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Networking"/>
         <rdfs:comment>The action of receiving data on a socket.</rdfs:comment>
         <rdfs:label>Receive Data On Socket</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#RegistryHandling -->
+    <!-- http://purl.org/orbis-security/maeco-lite#RegistryHandling -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#RegistryHandling">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Action"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#RegistryHandling">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Action"/>
         <rdfs:comment>The action of performing operations on the Windows registry, such as creating, reading, modifying, or deleting keys and values</rdfs:comment>
         <rdfs:label>Registry Handling</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ReleaseCriticalSection -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ReleaseCriticalSection -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ReleaseCriticalSection">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SynchronizationPrimitivesHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ReleaseCriticalSection">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SynchronizationPrimitivesHandling"/>
         <rdfs:comment>The action of releasing a critical section object.</rdfs:comment>
         <rdfs:label>Release Critical Section</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ReleaseMutex -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ReleaseMutex -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ReleaseMutex">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SynchronizationPrimitivesHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ReleaseMutex">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SynchronizationPrimitivesHandling"/>
         <rdfs:comment>The action of releasing ownership of a named mutex.</rdfs:comment>
         <rdfs:label>Release Mutex</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ReleaseSemaphore -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ReleaseSemaphore -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ReleaseSemaphore">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SynchronizationPrimitivesHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ReleaseSemaphore">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SynchronizationPrimitivesHandling"/>
         <rdfs:comment>The action of releasing ownership of a named semaphore.</rdfs:comment>
         <rdfs:label>Release Semaphore</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#RemoveUserFromGroup -->
+    <!-- http://purl.org/orbis-security/maeco-lite#RemoveUserFromGroup -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#RemoveUserFromGroup">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#AccessManagement"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#RemoveUserFromGroup">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#AccessManagement"/>
         <rdfs:comment>The action of removing a user from a group.</rdfs:comment>
         <rdfs:label>Remove User From Group</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ResetEvent -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ResetEvent -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ResetEvent">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SynchronizationPrimitivesHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ResetEvent">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SynchronizationPrimitivesHandling"/>
         <rdfs:comment>The action of resetting a named event object to the non-signaled state.</rdfs:comment>
         <rdfs:label>Reset Event</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ResourceSharing -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ResourceSharing -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ResourceSharing">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Action"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ResourceSharing">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Action"/>
         <rdfs:comment>The action of sharing resources, such as files, printers, or network shares</rdfs:comment>
         <rdfs:label>Resource Sharing</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#RevertThreadToSelf -->
+    <!-- http://purl.org/orbis-security/maeco-lite#RevertThreadToSelf -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#RevertThreadToSelf">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ThreadHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#RevertThreadToSelf">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ThreadHandling"/>
         <rdfs:comment>The action of reverting a thread to its own security context.</rdfs:comment>
         <rdfs:label>Revert Thread To Self</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#SendDataOnSocket -->
+    <!-- http://purl.org/orbis-security/maeco-lite#SendDataOnSocket -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#SendDataOnSocket">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Networking"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#SendDataOnSocket">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Networking"/>
         <rdfs:comment>The action of sending data on a connected socket.</rdfs:comment>
         <rdfs:label>Send Data On Socket</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#SendDnsQuery -->
+    <!-- http://purl.org/orbis-security/maeco-lite#SendDnsQuery -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#SendDnsQuery">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Networking"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#SendDnsQuery">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Networking"/>
         <rdfs:comment>The action of sending a DNS query.</rdfs:comment>
         <rdfs:label>Send Dns Query</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#SendFtpCommand -->
+    <!-- http://purl.org/orbis-security/maeco-lite#SendFtpCommand -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#SendFtpCommand">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Networking"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#SendFtpCommand">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Networking"/>
         <rdfs:comment>The action of of sending a command on an FTP server connection.</rdfs:comment>
         <rdfs:label>Send Ftp Command</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#SendHttpConnectRequest -->
+    <!-- http://purl.org/orbis-security/maeco-lite#SendHttpConnectRequest -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#SendHttpConnectRequest">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Networking"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#SendHttpConnectRequest">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Networking"/>
         <rdfs:comment>The action of sending an HTTP CONNECT client request to a server.</rdfs:comment>
         <rdfs:label>Send Http Connect Request</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#SendHttpRequest -->
+    <!-- http://purl.org/orbis-security/maeco-lite#SendHttpRequest -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#SendHttpRequest">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Networking"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#SendHttpRequest">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Networking"/>
         <rdfs:comment>The action of sending an HTTP request (such as GET, POST, etc.) to a server</rdfs:comment>
         <rdfs:label>Send Http Request</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#SendIcmpRequest -->
+    <!-- http://purl.org/orbis-security/maeco-lite#SendIcmpRequest -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#SendIcmpRequest">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Networking"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#SendIcmpRequest">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Networking"/>
         <rdfs:comment>The action of sending an ICMP request.</rdfs:comment>
         <rdfs:label>Send Icmp Request</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ServiceHandling -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ServiceHandling -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ServiceHandling">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Action"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ServiceHandling">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Action"/>
         <rdfs:comment>The action of performing operations on Windows services, such as creating, starting, stopping, or deleting</rdfs:comment>
         <rdfs:label>Service Handling</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#SetFileOrDirectoryAttributes -->
+    <!-- http://purl.org/orbis-security/maeco-lite#SetFileOrDirectoryAttributes -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#SetFileOrDirectoryAttributes">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#FileHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#SetFileOrDirectoryAttributes">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
         <rdfs:comment>The action of setting some attributes on a file or directory.</rdfs:comment>
         <rdfs:label>Set File Or Directory Attributes</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#SetNetbiosName -->
+    <!-- http://purl.org/orbis-security/maeco-lite#SetNetbiosName -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#SetNetbiosName">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SystemManipulation"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#SetNetbiosName">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SystemManipulation"/>
         <rdfs:comment>The action of setting the NetBIOS name of a system.</rdfs:comment>
         <rdfs:label>Set Netbios Name</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#SetProcessCurrentDirectory -->
+    <!-- http://purl.org/orbis-security/maeco-lite#SetProcessCurrentDirectory -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#SetProcessCurrentDirectory">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ProcessHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#SetProcessCurrentDirectory">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ProcessHandling"/>
         <rdfs:comment>The action of setting the current directory of a process.</rdfs:comment>
         <rdfs:label>Set Process Current Directory</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#SetProcessEnvironmentVariable -->
+    <!-- http://purl.org/orbis-security/maeco-lite#SetProcessEnvironmentVariable -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#SetProcessEnvironmentVariable">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ProcessHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#SetProcessEnvironmentVariable">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ProcessHandling"/>
         <rdfs:comment>The action of setting an environment variable used by a process.</rdfs:comment>
         <rdfs:label>Set Process Environment Variable</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#SetSystemTime -->
+    <!-- http://purl.org/orbis-security/maeco-lite#SetSystemTime -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#SetSystemTime">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SystemManipulation"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#SetSystemTime">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SystemManipulation"/>
         <rdfs:comment>&quot;The action of setting a system’s time, represented in UTC.</rdfs:comment>
         <rdfs:label>Set System Time</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#SetThreadContext -->
+    <!-- http://purl.org/orbis-security/maeco-lite#SetThreadContext -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#SetThreadContext">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ThreadHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#SetThreadContext">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ThreadHandling"/>
         <rdfs:comment>The action of setting the context structure (containing process-specific register data) for a thread.</rdfs:comment>
         <rdfs:label>Set Thread Context</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ShowWindow -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ShowWindow -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ShowWindow">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#WindowHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ShowWindow">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowHandling"/>
         <rdfs:comment>The action of showing a window.</rdfs:comment>
         <rdfs:label>Show Window</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ShutdownSystem -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ShutdownSystem -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ShutdownSystem">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SystemManipulation"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ShutdownSystem">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SystemManipulation"/>
         <rdfs:comment>The action of shutting down a system.</rdfs:comment>
         <rdfs:label>Shutdown System</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#SleepProcess -->
+    <!-- http://purl.org/orbis-security/maeco-lite#SleepProcess -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#SleepProcess">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ProcessHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#SleepProcess">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ProcessHandling"/>
         <rdfs:comment>The action of sleeping a process for some period of time.</rdfs:comment>
         <rdfs:label>Sleep Process</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#StartService -->
+    <!-- http://purl.org/orbis-security/maeco-lite#StartService -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#StartService">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ServiceHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#StartService">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ServiceHandling"/>
         <rdfs:comment>The action of starting a service.</rdfs:comment>
         <rdfs:label>Start Service</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#StopService -->
+    <!-- http://purl.org/orbis-security/maeco-lite#StopService -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#StopService">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ServiceHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#StopService">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ServiceHandling"/>
         <rdfs:comment>The action of stopping a service.</rdfs:comment>
         <rdfs:label>Stop Service</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#SynchronizationPrimitivesHandling -->
+    <!-- http://purl.org/orbis-security/maeco-lite#SynchronizationPrimitivesHandling -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#SynchronizationPrimitivesHandling">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Action"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#SynchronizationPrimitivesHandling">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Action"/>
         <rdfs:comment>The action of creating, opening, or operating on synchronization objects (mutexes, semaphores, events, critical sections, etc.)</rdfs:comment>
         <rdfs:label>Synchronization Primitives Handling</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#SystemManipulation -->
+    <!-- http://purl.org/orbis-security/maeco-lite#SystemManipulation -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#SystemManipulation">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Action"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#SystemManipulation">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Action"/>
         <rdfs:comment>The action of altering system configuration, state, or behaviour</rdfs:comment>
         <rdfs:label>System Manipulation</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ThreadHandling -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ThreadHandling -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#ThreadHandling">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Action"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#ThreadHandling">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Action"/>
         <rdfs:comment>The action of performing operations on threads, including creation, termination, suspension, or context manipulation</rdfs:comment>
         <rdfs:label>Thread Handling</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#UnloadDriver -->
+    <!-- http://purl.org/orbis-security/maeco-lite#UnloadDriver -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#UnloadDriver">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#SystemManipulation"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#UnloadDriver">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#SystemManipulation"/>
         <rdfs:comment>The action of unloading a driver from a system.</rdfs:comment>
         <rdfs:label>Unload Driver</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#UnlockFile -->
+    <!-- http://purl.org/orbis-security/maeco-lite#UnlockFile -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#UnlockFile">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#FileHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#UnlockFile">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
         <rdfs:comment>The action of unlocking a file.</rdfs:comment>
         <rdfs:label>Unlock File</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#UnmapFileFromProcess -->
+    <!-- http://purl.org/orbis-security/maeco-lite#UnmapFileFromProcess -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#UnmapFileFromProcess">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#FileHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#UnmapFileFromProcess">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
         <rdfs:comment>The action of unmapping a file from the address space of the calling process.</rdfs:comment>
         <rdfs:label>Unmap File From Process</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#UnmountDisk -->
+    <!-- http://purl.org/orbis-security/maeco-lite#UnmountDisk -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#UnmountDisk">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#DiskManagement"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#UnmountDisk">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#DiskManagement"/>
         <rdfs:comment>The action of unmounting a file system from a mounting point.</rdfs:comment>
         <rdfs:label>Unmount Disk</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#WindowHandling -->
+    <!-- http://purl.org/orbis-security/maeco-lite#WindowHandling -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#WindowHandling">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#Action"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#WindowHandling">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#Action"/>
         <rdfs:comment>The action of creating, modifying, enumerating, or destroying windows</rdfs:comment>
         <rdfs:label>Window Handling</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#WriteToFile -->
+    <!-- http://purl.org/orbis-security/maeco-lite#WriteToFile -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#WriteToFile">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#FileHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#WriteToFile">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
         <rdfs:comment>The action of writing data to a file.</rdfs:comment>
         <rdfs:label>Write To File</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#WriteToProcessMemory -->
+    <!-- http://purl.org/orbis-security/maeco-lite#WriteToProcessMemory -->
 
-    <owl:Class rdf:about="https://orbis-security.com/maeco#WriteToProcessMemory">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#ProcessHandling"/>
+    <owl:Class rdf:about="http://purl.org/orbis-security/maeco-lite#WriteToProcessMemory">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#ProcessHandling"/>
         <rdfs:comment>The action of writing to a memory region of an existing process.</rdfs:comment>
         <rdfs:label>Write To Process Memory</rdfs:label>
     </owl:Class>
@@ -1689,254 +1689,254 @@
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#AcceptSocketConnection"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#BindAddressToSocket"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CloseSocket"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ConnectToFtpServer"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ConnectToSocket"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ConnectToUrl"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CreateSocket"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#GetHostByAddress"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#GetHostByName"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ListenOnSocket"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ReceiveDataOnSocket"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#SendDataOnSocket"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#SendDnsQuery"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#SendFtpCommand"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#SendHttpConnectRequest"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#SendHttpRequest"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#SendIcmpRequest"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#AcceptSocketConnection"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#BindAddressToSocket"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CloseSocket"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ConnectToFtpServer"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ConnectToSocket"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ConnectToUrl"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CreateSocket"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#GetHostByAddress"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#GetHostByName"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ListenOnSocket"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ReceiveDataOnSocket"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#SendDataOnSocket"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#SendDnsQuery"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#SendFtpCommand"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#SendHttpConnectRequest"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#SendHttpRequest"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#SendIcmpRequest"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#AccessManagement"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#AntiDebugging"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#Cryptography"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#DirectoryHandling"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#DiskManagement"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#FileHandling"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#InterProcessCommunication"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#LibraryHandling"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#Networking"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ProcessHandling"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#RegistryHandling"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ResourceSharing"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ServiceHandling"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#SynchronizationPrimitivesHandling"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#SystemManipulation"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ThreadHandling"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#WindowHandling"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#AccessManagement"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#AntiDebugging"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#Cryptography"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#DirectoryHandling"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#DiskManagement"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#FileHandling"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#InterProcessCommunication"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#LibraryHandling"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#Networking"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ProcessHandling"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#RegistryHandling"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ResourceSharing"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ServiceHandling"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#SynchronizationPrimitivesHandling"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#SystemManipulation"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ThreadHandling"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#WindowHandling"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#AddNetworkShare"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#DeleteNetworkShare"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#EnumerateNetworkShares"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#AddNetworkShare"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#DeleteNetworkShare"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#EnumerateNetworkShares"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#AddScheduledTask"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#GetElapsedSystemUpTime"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#GetNetbiosName"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#GetSystemGlobalFlags"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#GetSystemLocalTime"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#GetSystemTime"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#GetWindowsDirectory"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#GetWindowsSystemDirectory"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#SetNetbiosName"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#SetSystemTime"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ShutdownSystem"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#UnloadDriver"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#AddScheduledTask"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#GetElapsedSystemUpTime"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#GetNetbiosName"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#GetSystemGlobalFlags"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#GetSystemLocalTime"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#GetSystemTime"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#GetWindowsDirectory"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#GetWindowsSystemDirectory"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#SetNetbiosName"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#SetSystemTime"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ShutdownSystem"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#UnloadDriver"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#AddUser"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ChangePassword"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#DeleteUser"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#EnumerateUsers"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#GetUsername"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#LogonAsUser"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#RemoveUserFromGroup"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#AddUser"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ChangePassword"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#DeleteUser"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#EnumerateUsers"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#GetUsername"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#LogonAsUser"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#RemoveUserFromGroup"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#AddWindowsHook"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CreateDialogBox"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CreateWindow"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#EnumerateWindows"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#FindWindow"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#KillWindow"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ShowWindow"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#AddWindowsHook"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CreateDialogBox"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CreateWindow"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#EnumerateWindows"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#FindWindow"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#KillWindow"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ShowWindow"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#AllocateProcessVirtualMemory"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CreateProcess"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CreateProcessAsUser"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#EnumerateProcesses"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#FlushProcessInstructionCache"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#FreeProcessVirtualMemory"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#GetProcessCurrentDirectory"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#GetProcessEnvironmentVariable"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#GetProcessStartupinfo"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ImpersonateProcess"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#KillProcess"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ModifyProcessVirtualMemoryProtection"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#OpenProcess"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ReadFromProcessMemory"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#SetProcessCurrentDirectory"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#SetProcessEnvironmentVariable"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#SleepProcess"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#WriteToProcessMemory"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#AllocateProcessVirtualMemory"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CreateProcess"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CreateProcessAsUser"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#EnumerateProcesses"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#FlushProcessInstructionCache"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#FreeProcessVirtualMemory"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#GetProcessCurrentDirectory"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#GetProcessEnvironmentVariable"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#GetProcessStartupinfo"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ImpersonateProcess"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#KillProcess"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ModifyProcessVirtualMemoryProtection"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#OpenProcess"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ReadFromProcessMemory"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#SetProcessCurrentDirectory"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#SetProcessEnvironmentVariable"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#SleepProcess"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#WriteToProcessMemory"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CheckForKernelDebugger"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CheckForRemoteDebugger"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#OutputDebugString"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CheckForKernelDebugger"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CheckForRemoteDebugger"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#OutputDebugString"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CloseFile"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CopyFile"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CreateFile"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CreateFileMapping"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CreateFileSymbolicLink"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#DeleteFile"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#DownloadFile"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ExecuteFile"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#FindFile"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#GetFileOrDirectoryAttributes"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#GetTemporaryFilesDirectory"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#LockFile"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#MapFileIntoProcess"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#MoveFile"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#OpenFileMapping"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ReadFromFile"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#SetFileOrDirectoryAttributes"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#UnlockFile"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#UnmapFileFromProcess"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#WriteToFile"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CloseFile"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CopyFile"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CreateFile"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CreateFileMapping"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CreateFileSymbolicLink"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#DeleteFile"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#DownloadFile"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ExecuteFile"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#FindFile"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#GetFileOrDirectoryAttributes"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#GetTemporaryFilesDirectory"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#LockFile"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#MapFileIntoProcess"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#MoveFile"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#OpenFileMapping"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ReadFromFile"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#SetFileOrDirectoryAttributes"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#UnlockFile"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#UnmapFileFromProcess"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#WriteToFile"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CloseRegistryKey"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CreateRegistryKey"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CreateRegistryKeyValue"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#DeleteRegistryKey"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#DeleteRegistryKeyValue"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#EnumerateRegistryKeySubkeys"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#EnumerateRegistryKeyValues"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ModifyRegistryKey"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#MonitorRegistryKey"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#OpenRegistryKey"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ReadRegistryKeyValue"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CloseRegistryKey"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CreateRegistryKey"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CreateRegistryKeyValue"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#DeleteRegistryKey"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#DeleteRegistryKeyValue"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#EnumerateRegistryKeySubkeys"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#EnumerateRegistryKeyValues"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ModifyRegistryKey"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#MonitorRegistryKey"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#OpenRegistryKey"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ReadRegistryKeyValue"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ConnectToNamedPipe"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CreateMailslot"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CreateNamedPipe"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ConnectToNamedPipe"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CreateMailslot"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CreateNamedPipe"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CreateCriticalSection"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CreateEvent"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CreateMutex"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CreateSemaphore"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#DeleteCriticalSection"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#OpenCriticalSection"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#OpenEvent"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#OpenMutex"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#OpenSemaphore"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ReleaseCriticalSection"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ReleaseMutex"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ReleaseSemaphore"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ResetEvent"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CreateCriticalSection"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CreateEvent"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CreateMutex"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CreateSemaphore"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#DeleteCriticalSection"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#OpenCriticalSection"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#OpenEvent"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#OpenMutex"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#OpenSemaphore"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ReleaseCriticalSection"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ReleaseMutex"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ReleaseSemaphore"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ResetEvent"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CreateDirectory"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#DeleteDirectory"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#MonitorDirectory"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#OpenDirectory"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CreateDirectory"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#DeleteDirectory"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#MonitorDirectory"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#OpenDirectory"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CreateRemoteThreadInProcess"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CreateThread"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#EnumerateThreads"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#GetThreadContext"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#KillThread"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#QueueApcInThread"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#RevertThreadToSelf"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#SetThreadContext"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CreateRemoteThreadInProcess"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CreateThread"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#EnumerateThreads"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#GetThreadContext"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#KillThread"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#QueueApcInThread"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#RevertThreadToSelf"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#SetThreadContext"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#CreateService"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#DeleteService"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#EnumerateServices"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#ModifyServiceConfiguration"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#OpenService"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#StartService"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#StopService"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#CreateService"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#DeleteService"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#EnumerateServices"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#ModifyServiceConfiguration"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#OpenService"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#StartService"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#StopService"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#Decrypt"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#Encrypt"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#GenerateKey"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#Hash"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#Decrypt"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#Encrypt"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#GenerateKey"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#Hash"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#EnumerateDisks"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#GetDiskAttributes"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#GetDiskType"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#MountDisk"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#UnmountDisk"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#EnumerateDisks"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#GetDiskAttributes"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#GetDiskType"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#MountDisk"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#UnmountDisk"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#EnumerateLibraries"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#FreeLibrary"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#GetFunctionAddress"/>
-            <rdf:Description rdf:about="https://orbis-security.com/maeco#LoadLibrary"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#EnumerateLibraries"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#FreeLibrary"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#GetFunctionAddress"/>
+            <rdf:Description rdf:about="http://purl.org/orbis-security/maeco-lite#LoadLibrary"/>
         </owl:members>
     </rdf:Description>
 </rdf:RDF>

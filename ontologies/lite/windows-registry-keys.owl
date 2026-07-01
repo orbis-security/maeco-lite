@@ -6,9 +6,9 @@
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     xmlns:maeco="https://orbis-security.com/maeco#">
-    <Ontology rdf:about="https://orbis-security.com/maeco/lite/windows-registry-keys">
-        <versionIRI rdf:resource="https://orbis-security.com/maeco/lite/windows-registry-keys-0.3.0"/>
+     xmlns:maeco="http://purl.org/orbis-security/maeco-lite#">
+    <Ontology rdf:about="http://purl.org/orbis-security/maeco-lite/windows-registry-keys">
+        <versionIRI rdf:resource="http://purl.org/orbis-security/maeco-lite/v0.3.0+18.1/windows-registry-keys"/>
     </Ontology>
     
 
@@ -24,137 +24,137 @@
     
 
 
-    <!-- https://orbis-security.com/maeco#accessedRegistryKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#accessedRegistryKey -->
 
-    <ObjectProperty rdf:about="https://orbis-security.com/maeco#accessedRegistryKey"/>
+    <ObjectProperty rdf:about="http://purl.org/orbis-security/maeco-lite#accessedRegistryKey"/>
     
 
 
-    <!-- https://orbis-security.com/maeco#createdRegistryKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#createdRegistryKey -->
 
-    <ObjectProperty rdf:about="https://orbis-security.com/maeco#createdRegistryKey">
-        <rdfs:subPropertyOf rdf:resource="https://orbis-security.com/maeco#accessedRegistryKey"/>
-        <inverseOf rdf:resource="https://orbis-security.com/maeco#registryKeyCreatedBy"/>
-        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#Process"/>
-        <rdfs:range rdf:resource="https://orbis-security.com/maeco#WindowsRegistryKey"/>
+    <ObjectProperty rdf:about="http://purl.org/orbis-security/maeco-lite#createdRegistryKey">
+        <rdfs:subPropertyOf rdf:resource="http://purl.org/orbis-security/maeco-lite#accessedRegistryKey"/>
+        <inverseOf rdf:resource="http://purl.org/orbis-security/maeco-lite#registryKeyCreatedBy"/>
+        <rdfs:domain rdf:resource="http://purl.org/orbis-security/maeco-lite#Process"/>
+        <rdfs:range rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowsRegistryKey"/>
         <rdfs:comment>Links a Process to a WindowsRegistryKey that the Process created during its execution.</rdfs:comment>
         <rdfs:label>created registry key</rdfs:label>
     </ObjectProperty>
     
 
 
-    <!-- https://orbis-security.com/maeco#deletedRegistryKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#deletedRegistryKey -->
 
-    <ObjectProperty rdf:about="https://orbis-security.com/maeco#deletedRegistryKey">
-        <rdfs:subPropertyOf rdf:resource="https://orbis-security.com/maeco#accessedRegistryKey"/>
-        <inverseOf rdf:resource="https://orbis-security.com/maeco#registryKeyDeletedBy"/>
-        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#Process"/>
-        <rdfs:range rdf:resource="https://orbis-security.com/maeco#WindowsRegistryKey"/>
+    <ObjectProperty rdf:about="http://purl.org/orbis-security/maeco-lite#deletedRegistryKey">
+        <rdfs:subPropertyOf rdf:resource="http://purl.org/orbis-security/maeco-lite#accessedRegistryKey"/>
+        <inverseOf rdf:resource="http://purl.org/orbis-security/maeco-lite#registryKeyDeletedBy"/>
+        <rdfs:domain rdf:resource="http://purl.org/orbis-security/maeco-lite#Process"/>
+        <rdfs:range rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowsRegistryKey"/>
         <rdfs:comment>Links a Process to a WindowsRegistryKey that the Process deleted during its execution.</rdfs:comment>
         <rdfs:label>deleted registry key</rdfs:label>
     </ObjectProperty>
     
 
 
-    <!-- https://orbis-security.com/maeco#openedRegistryKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#openedRegistryKey -->
 
-    <ObjectProperty rdf:about="https://orbis-security.com/maeco#openedRegistryKey">
-        <rdfs:subPropertyOf rdf:resource="https://orbis-security.com/maeco#accessedRegistryKey"/>
-        <inverseOf rdf:resource="https://orbis-security.com/maeco#registryKeyOpenedBy"/>
-        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#Process"/>
-        <rdfs:range rdf:resource="https://orbis-security.com/maeco#WindowsRegistryKey"/>
+    <ObjectProperty rdf:about="http://purl.org/orbis-security/maeco-lite#openedRegistryKey">
+        <rdfs:subPropertyOf rdf:resource="http://purl.org/orbis-security/maeco-lite#accessedRegistryKey"/>
+        <inverseOf rdf:resource="http://purl.org/orbis-security/maeco-lite#registryKeyOpenedBy"/>
+        <rdfs:domain rdf:resource="http://purl.org/orbis-security/maeco-lite#Process"/>
+        <rdfs:range rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowsRegistryKey"/>
         <rdfs:comment>Links a Process to a WindowsRegistryKey that the Process opened during its execution.</rdfs:comment>
         <rdfs:label>opened registry key</rdfs:label>
     </ObjectProperty>
     
 
 
-    <!-- https://orbis-security.com/maeco#queriedRegistryKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#queriedRegistryKey -->
 
-    <ObjectProperty rdf:about="https://orbis-security.com/maeco#queriedRegistryKey">
-        <rdfs:subPropertyOf rdf:resource="https://orbis-security.com/maeco#accessedRegistryKey"/>
-        <inverseOf rdf:resource="https://orbis-security.com/maeco#registryKeyQueriedBy"/>
-        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#Process"/>
-        <rdfs:range rdf:resource="https://orbis-security.com/maeco#WindowsRegistryKey"/>
+    <ObjectProperty rdf:about="http://purl.org/orbis-security/maeco-lite#queriedRegistryKey">
+        <rdfs:subPropertyOf rdf:resource="http://purl.org/orbis-security/maeco-lite#accessedRegistryKey"/>
+        <inverseOf rdf:resource="http://purl.org/orbis-security/maeco-lite#registryKeyQueriedBy"/>
+        <rdfs:domain rdf:resource="http://purl.org/orbis-security/maeco-lite#Process"/>
+        <rdfs:range rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowsRegistryKey"/>
         <rdfs:comment>Links a Process to a WindowsRegistryKey that the Process queried during its execution.</rdfs:comment>
         <rdfs:label>queried registry key</rdfs:label>
     </ObjectProperty>
     
 
 
-    <!-- https://orbis-security.com/maeco#registryKeyAccessedBy -->
+    <!-- http://purl.org/orbis-security/maeco-lite#registryKeyAccessedBy -->
 
-    <ObjectProperty rdf:about="https://orbis-security.com/maeco#registryKeyAccessedBy"/>
+    <ObjectProperty rdf:about="http://purl.org/orbis-security/maeco-lite#registryKeyAccessedBy"/>
     
 
 
-    <!-- https://orbis-security.com/maeco#registryKeyCreatedBy -->
+    <!-- http://purl.org/orbis-security/maeco-lite#registryKeyCreatedBy -->
 
-    <ObjectProperty rdf:about="https://orbis-security.com/maeco#registryKeyCreatedBy">
-        <rdfs:subPropertyOf rdf:resource="https://orbis-security.com/maeco#registryKeyAccessedBy"/>
-        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#WindowsRegistryKey"/>
-        <rdfs:range rdf:resource="https://orbis-security.com/maeco#Process"/>
+    <ObjectProperty rdf:about="http://purl.org/orbis-security/maeco-lite#registryKeyCreatedBy">
+        <rdfs:subPropertyOf rdf:resource="http://purl.org/orbis-security/maeco-lite#registryKeyAccessedBy"/>
+        <rdfs:domain rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowsRegistryKey"/>
+        <rdfs:range rdf:resource="http://purl.org/orbis-security/maeco-lite#Process"/>
         <rdfs:comment>Links a WindowsRegistryKey to a Process that created the Key during its execution.</rdfs:comment>
         <rdfs:label>registry key created by</rdfs:label>
     </ObjectProperty>
     
 
 
-    <!-- https://orbis-security.com/maeco#registryKeyDeletedBy -->
+    <!-- http://purl.org/orbis-security/maeco-lite#registryKeyDeletedBy -->
 
-    <ObjectProperty rdf:about="https://orbis-security.com/maeco#registryKeyDeletedBy">
-        <rdfs:subPropertyOf rdf:resource="https://orbis-security.com/maeco#registryKeyAccessedBy"/>
-        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#WindowsRegistryKey"/>
-        <rdfs:range rdf:resource="https://orbis-security.com/maeco#Process"/>
+    <ObjectProperty rdf:about="http://purl.org/orbis-security/maeco-lite#registryKeyDeletedBy">
+        <rdfs:subPropertyOf rdf:resource="http://purl.org/orbis-security/maeco-lite#registryKeyAccessedBy"/>
+        <rdfs:domain rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowsRegistryKey"/>
+        <rdfs:range rdf:resource="http://purl.org/orbis-security/maeco-lite#Process"/>
         <rdfs:comment>Links a WindowsRegistryKey to a Process that deleted the Key during its execution.</rdfs:comment>
         <rdfs:label>registry key deleted by</rdfs:label>
     </ObjectProperty>
     
 
 
-    <!-- https://orbis-security.com/maeco#registryKeyOpenedBy -->
+    <!-- http://purl.org/orbis-security/maeco-lite#registryKeyOpenedBy -->
 
-    <ObjectProperty rdf:about="https://orbis-security.com/maeco#registryKeyOpenedBy">
-        <rdfs:subPropertyOf rdf:resource="https://orbis-security.com/maeco#registryKeyAccessedBy"/>
-        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#WindowsRegistryKey"/>
-        <rdfs:range rdf:resource="https://orbis-security.com/maeco#Process"/>
+    <ObjectProperty rdf:about="http://purl.org/orbis-security/maeco-lite#registryKeyOpenedBy">
+        <rdfs:subPropertyOf rdf:resource="http://purl.org/orbis-security/maeco-lite#registryKeyAccessedBy"/>
+        <rdfs:domain rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowsRegistryKey"/>
+        <rdfs:range rdf:resource="http://purl.org/orbis-security/maeco-lite#Process"/>
         <rdfs:comment>Links a WindowsRegistryKey to a Process that opened the Key during its execution.</rdfs:comment>
         <rdfs:label>registry key opened by</rdfs:label>
     </ObjectProperty>
     
 
 
-    <!-- https://orbis-security.com/maeco#registryKeyQueriedBy -->
+    <!-- http://purl.org/orbis-security/maeco-lite#registryKeyQueriedBy -->
 
-    <ObjectProperty rdf:about="https://orbis-security.com/maeco#registryKeyQueriedBy">
-        <rdfs:subPropertyOf rdf:resource="https://orbis-security.com/maeco#registryKeyAccessedBy"/>
-        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#WindowsRegistryKey"/>
-        <rdfs:range rdf:resource="https://orbis-security.com/maeco#Process"/>
+    <ObjectProperty rdf:about="http://purl.org/orbis-security/maeco-lite#registryKeyQueriedBy">
+        <rdfs:subPropertyOf rdf:resource="http://purl.org/orbis-security/maeco-lite#registryKeyAccessedBy"/>
+        <rdfs:domain rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowsRegistryKey"/>
+        <rdfs:range rdf:resource="http://purl.org/orbis-security/maeco-lite#Process"/>
         <rdfs:comment>Links a WindowsRegistryKey to a Process that queried the Key during its execution.</rdfs:comment>
         <rdfs:label>registry key queried by</rdfs:label>
     </ObjectProperty>
     
 
 
-    <!-- https://orbis-security.com/maeco#registryKeyWrittenToBy -->
+    <!-- http://purl.org/orbis-security/maeco-lite#registryKeyWrittenToBy -->
 
-    <ObjectProperty rdf:about="https://orbis-security.com/maeco#registryKeyWrittenToBy">
-        <rdfs:subPropertyOf rdf:resource="https://orbis-security.com/maeco#registryKeyAccessedBy"/>
-        <inverseOf rdf:resource="https://orbis-security.com/maeco#writtenToRegistryKey"/>
-        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#WindowsRegistryKey"/>
-        <rdfs:range rdf:resource="https://orbis-security.com/maeco#Process"/>
+    <ObjectProperty rdf:about="http://purl.org/orbis-security/maeco-lite#registryKeyWrittenToBy">
+        <rdfs:subPropertyOf rdf:resource="http://purl.org/orbis-security/maeco-lite#registryKeyAccessedBy"/>
+        <inverseOf rdf:resource="http://purl.org/orbis-security/maeco-lite#writtenToRegistryKey"/>
+        <rdfs:domain rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowsRegistryKey"/>
+        <rdfs:range rdf:resource="http://purl.org/orbis-security/maeco-lite#Process"/>
         <rdfs:comment>Links a WindowsRegistryKey to a Process that wrote to the Key during its execution.</rdfs:comment>
         <rdfs:label>registry key written to by</rdfs:label>
     </ObjectProperty>
     
 
 
-    <!-- https://orbis-security.com/maeco#writtenToRegistryKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#writtenToRegistryKey -->
 
-    <ObjectProperty rdf:about="https://orbis-security.com/maeco#writtenToRegistryKey">
-        <rdfs:subPropertyOf rdf:resource="https://orbis-security.com/maeco#accessedRegistryKey"/>
-        <rdfs:domain rdf:resource="https://orbis-security.com/maeco#Process"/>
-        <rdfs:range rdf:resource="https://orbis-security.com/maeco#WindowsRegistryKey"/>
+    <ObjectProperty rdf:about="http://purl.org/orbis-security/maeco-lite#writtenToRegistryKey">
+        <rdfs:subPropertyOf rdf:resource="http://purl.org/orbis-security/maeco-lite#accessedRegistryKey"/>
+        <rdfs:domain rdf:resource="http://purl.org/orbis-security/maeco-lite#Process"/>
+        <rdfs:range rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowsRegistryKey"/>
         <rdfs:comment>Links a Process to a WindowsRegistryKey that the Process wrote to during its execution.</rdfs:comment>
         <rdfs:label>written to registry key</rdfs:label>
     </ObjectProperty>
@@ -172,85 +172,85 @@
     
 
 
-    <!-- https://orbis-security.com/maeco#ConfigurationRegistryKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ConfigurationRegistryKey -->
 
-    <Class rdf:about="https://orbis-security.com/maeco#ConfigurationRegistryKey">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#WindowsRegistryKey"/>
+    <Class rdf:about="http://purl.org/orbis-security/maeco-lite#ConfigurationRegistryKey">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowsRegistryKey"/>
         <rdfs:comment>A Windows Registry Key that stores cofiguration of assorted exploitable system features.</rdfs:comment>
         <rdfs:label>Configuration Registry Key</rdfs:label>
     </Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#CredentialAccessRegistryKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#CredentialAccessRegistryKey -->
 
-    <Class rdf:about="https://orbis-security.com/maeco#CredentialAccessRegistryKey">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#WindowsRegistryKey"/>
+    <Class rdf:about="http://purl.org/orbis-security/maeco-lite#CredentialAccessRegistryKey">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowsRegistryKey"/>
         <rdfs:comment>A Windows Registry Key that can be used by malware to gain access to credentials.</rdfs:comment>
         <rdfs:label>Credential Access Registry Key</rdfs:label>
     </Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#DefenseEvasionRegistryKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#DefenseEvasionRegistryKey -->
 
-    <Class rdf:about="https://orbis-security.com/maeco#DefenseEvasionRegistryKey">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#WindowsRegistryKey"/>
+    <Class rdf:about="http://purl.org/orbis-security/maeco-lite#DefenseEvasionRegistryKey">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowsRegistryKey"/>
         <rdfs:comment>A Windows Registry Key that can be used by malware for defense evasion.</rdfs:comment>
         <rdfs:label>Evasion Registry Key</rdfs:label>
     </Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#ExecutionHijackingRegistryKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#ExecutionHijackingRegistryKey -->
 
-    <Class rdf:about="https://orbis-security.com/maeco#ExecutionHijackingRegistryKey">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#WindowsRegistryKey"/>
+    <Class rdf:about="http://purl.org/orbis-security/maeco-lite#ExecutionHijackingRegistryKey">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowsRegistryKey"/>
         <rdfs:comment>A Windows Registry Key that can be used by malware for execution hijacking.</rdfs:comment>
         <rdfs:label>Execution Hijacking Registry Key</rdfs:label>
     </Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#LateralMovementRegistryKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#LateralMovementRegistryKey -->
 
-    <Class rdf:about="https://orbis-security.com/maeco#LateralMovementRegistryKey">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#WindowsRegistryKey"/>
+    <Class rdf:about="http://purl.org/orbis-security/maeco-lite#LateralMovementRegistryKey">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowsRegistryKey"/>
         <rdfs:comment>A Windows Registry Key that can be used by malware to perform lateral movement.</rdfs:comment>
         <rdfs:label>Lateral Movement Registry Key</rdfs:label>
     </Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#PersistenceRegistryKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#PersistenceRegistryKey -->
 
-    <Class rdf:about="https://orbis-security.com/maeco#PersistenceRegistryKey">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#WindowsRegistryKey"/>
+    <Class rdf:about="http://purl.org/orbis-security/maeco-lite#PersistenceRegistryKey">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowsRegistryKey"/>
         <rdfs:comment>A Windows Registry Key that can be used by malware to achieve persistence.</rdfs:comment>
         <rdfs:label>Presistence Registry Key</rdfs:label>
     </Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#PrivilegeEscalationRegistryKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#PrivilegeEscalationRegistryKey -->
 
-    <Class rdf:about="https://orbis-security.com/maeco#PrivilegeEscalationRegistryKey">
-        <rdfs:subClassOf rdf:resource="https://orbis-security.com/maeco#WindowsRegistryKey"/>
+    <Class rdf:about="http://purl.org/orbis-security/maeco-lite#PrivilegeEscalationRegistryKey">
+        <rdfs:subClassOf rdf:resource="http://purl.org/orbis-security/maeco-lite#WindowsRegistryKey"/>
         <rdfs:comment>A Windows Registry Key that can be used by malware for privilege escalation.</rdfs:comment>
         <rdfs:label>Privilege Escalation Registry Key</rdfs:label>
     </Class>
     
 
 
-    <!-- https://orbis-security.com/maeco#Process -->
+    <!-- http://purl.org/orbis-security/maeco-lite#Process -->
 
-    <Class rdf:about="https://orbis-security.com/maeco#Process"/>
+    <Class rdf:about="http://purl.org/orbis-security/maeco-lite#Process"/>
     
 
 
-    <!-- https://orbis-security.com/maeco#WindowsRegistryKey -->
+    <!-- http://purl.org/orbis-security/maeco-lite#WindowsRegistryKey -->
 
-    <Class rdf:about="https://orbis-security.com/maeco#WindowsRegistryKey"/>
+    <Class rdf:about="http://purl.org/orbis-security/maeco-lite#WindowsRegistryKey"/>
 </rdf:RDF>
 
 
