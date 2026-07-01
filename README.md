@@ -1,6 +1,6 @@
-# maeco-mini-conversion — Usage
+# MAECO-Lite
 
-Converts dynamic analysis reports (organized as per-sample subdirectories) into an OWL ontology dataset.
+This repository contains the MAECO-Lite ontology, scripts to convert dynamic analysis reports (organized as per-sample subdirectories) into an OWL ontology dataset, experimental datasets and support for reproducing the initial evaluation experiments.
 
 ## Datasets
 
